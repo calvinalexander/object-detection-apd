@@ -1,0 +1,6 @@
+torch
+torchvision
+pycocotools
+ensemble-boxes
+Pillow
+ultralytics

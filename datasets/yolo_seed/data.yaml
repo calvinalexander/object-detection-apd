@@ -1,0 +1,9 @@
+path: /data/coba/sppg/datasets/yolo_seed
+train: images/train
+val: images/val
+nc: 4
+names:
+  0: person
+  1: gloves
+  2: mask
+  3: head_cap

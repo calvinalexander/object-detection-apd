@@ -1,0 +1,69 @@
+# ---------------------------------------------------------------- secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+*credentials*
+*secret*
+
+# ---------------------------------------------------------------- data, models, outputs
+data/
+runs/
+model/
+apd_storage/
+logs/
+.work/
+deploy/*/dataset/
+artifacts/sdk/
+
+# weights and compiled models
+*.pt
+*.pth
+*.onnx
+*.engine
+*.axnet
+*.tflite
+*.bin
+*.xml
+*.npy
+*.npz
+
+# media and archives
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pdf
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+
+# databases and logs
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# ---------------------------------------------------------------- reports we do keep
+# artifacts/ holds gigabytes of frames; only the written reports are tracked.
+artifacts/**
+!artifacts/**/
+!artifacts/**/*.md
+artifacts/sdk/**
+
+# ---------------------------------------------------------------- python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/

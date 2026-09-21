@@ -1,0 +1,61 @@
+{
+  "input": "person crop = pose box + 18% pad, letterbox 320 (pad 114), BGR->RGB, /255, ImageNet mean/std, NCHW",
+  "outputs": [
+    "present_head_cap",
+    "present_mask",
+    "present_gloves",
+    "known_head_cap",
+    "known_mask",
+    "known_gloves"
+  ],
+  "rule": "judge only when p_known >= known_above; then violation when p_present < present_below; else unknown",
+  "cuts": {
+    "head_cap": {
+      "known_above": 0.943,
+      "present_below": 0.225,
+      "val_mcc_operational": 0.9109,
+      "val_unjudgeable_flagged": 0.27,
+      "calibrated_on": "data/recording sample",
+      "target_judged_share": 0.82
+    },
+    "mask": {
+      "known_above": 0.89,
+      "present_below": 0.475,
+      "val_mcc_operational": 0.8531,
+      "val_unjudgeable_flagged": 0.126,
+      "calibrated_on": "data/recording sample",
+      "target_judged_share": 0.32
+    },
+    "gloves": {
+      "known_above": 0.968,
+      "present_below": 0.725,
+      "val_mcc_operational": 0.8124,
+      "val_unjudgeable_flagged": 0.069,
+      "calibrated_on": "data/recording sample",
+      "target_judged_share": 0.15
+    }
+  },
+  "val_mean": 0.8216,
+  "trained_on": "det7 clean + data/label_sppg/labels.csv",
+  "cuts_val": {
+    "head_cap": {
+      "known_above": 0.15,
+      "present_below": 0.225,
+      "val_mcc_operational": 0.9109,
+      "val_unjudgeable_flagged": 0.27
+    },
+    "mask": {
+      "known_above": 0.075,
+      "present_below": 0.475,
+      "val_mcc_operational": 0.8531,
+      "val_unjudgeable_flagged": 0.126
+    },
+    "gloves": {
+      "known_above": 0.075,
+      "present_below": 0.725,
+      "val_mcc_operational": 0.8124,
+      "val_unjudgeable_flagged": 0.069
+    }
+  },
+  "note": "known_above calibrated per camera on data/recording so the judged share matches what the deployed pipeline and human review find judgeable there"
+}

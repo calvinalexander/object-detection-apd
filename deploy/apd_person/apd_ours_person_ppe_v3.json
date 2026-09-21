@@ -1,0 +1,61 @@
+{
+  "input": "person crop = pose box + 18% pad, letterbox 320 (pad 114), BGR->RGB, /255, ImageNet mean/std, NCHW",
+  "outputs": [
+    "present_head_cap",
+    "present_mask",
+    "present_gloves",
+    "known_head_cap",
+    "known_mask",
+    "known_gloves"
+  ],
+  "rule": "judge only when p_known >= known_above; then violation when p_present < present_below; else unknown",
+  "cuts": {
+    "head_cap": {
+      "known_above": 0.87,
+      "present_below": 0.35,
+      "val_mcc_operational": 0.9148,
+      "val_unjudgeable_flagged": 0.27,
+      "calibrated_on": "data/recording sample",
+      "target_judged_share": 0.82
+    },
+    "mask": {
+      "known_above": 0.98,
+      "present_below": 0.55,
+      "val_mcc_operational": 0.8391,
+      "val_unjudgeable_flagged": 0.137,
+      "calibrated_on": "production detector crops, 16 Sep device events (3104)",
+      "target_judged_share": 0.31,
+      "known_above_previous": 0.896
+    },
+    "gloves": {
+      "known_above": 0.969,
+      "present_below": 0.475,
+      "val_mcc_operational": 0.774,
+      "val_unjudgeable_flagged": 0.069,
+      "calibrated_on": "data/recording sample",
+      "target_judged_share": 0.15
+    }
+  },
+  "trained_on": "det7 clean (head-cap audit + glove-box fixes) + label_sppg + COCO people",
+  "note": "v3; COCO folded into training, evaluation is manual on the recordings mask known_above raised 0.896 -> 0.98 on 2026-09-21: on production's person boxes the 0.896 cut judged 65% of people against the intended ~32%.",
+  "cuts_val": {
+    "head_cap": {
+      "known_above": 0.475,
+      "present_below": 0.35,
+      "val_mcc_operational": 0.9148,
+      "val_unjudgeable_flagged": 0.27
+    },
+    "mask": {
+      "known_above": 0.25,
+      "present_below": 0.55,
+      "val_mcc_operational": 0.8391,
+      "val_unjudgeable_flagged": 0.137
+    },
+    "gloves": {
+      "known_above": 0.225,
+      "present_below": 0.475,
+      "val_mcc_operational": 0.774,
+      "val_unjudgeable_flagged": 0.069
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "input": "person crop = pose box + 18% pad, letterbox 320 (pad 114), BGR->RGB, /255, ImageNet mean/std, NCHW",
+  "outputs": [
+    "head_cap",
+    "mask",
+    "gloves"
+  ],
+  "meaning": "probability the item is PRESENT",
+  "thresholds": {
+    "head_cap": 0.65,
+    "mask": 0.2,
+    "gloves": 0.525
+  },
+  "rule": "violation when p < threshold",
+  "trained_on": "det7 + data/label_sppg/labels.csv",
+  "val": {
+    "head_cap": 0.9329,
+    "mask": 0.9009,
+    "gloves": 0.8587
+  }
+}

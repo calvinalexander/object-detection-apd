@@ -1,0 +1,191 @@
+<!doctype html>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>APD demo</title>
+<style>
+  :root { --bg:#14161a; --panel:#1c1f26; --line:#2b3039; --fg:#e6e9ee; --dim:#9aa3b0;
+          --ok:#3cc86a; --bad:#e04a4a; --acc:#5aa9ff; }
+  * { box-sizing:border-box }
+  body { margin:0; background:var(--bg); color:var(--fg);
+         font:14px/1.45 ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,sans-serif }
+  header { padding:14px 18px; border-bottom:1px solid var(--line); display:flex; gap:16px; align-items:center; flex-wrap:wrap }
+  h1 { font-size:15px; margin:0; font-weight:600; letter-spacing:.2px }
+  .sub { color:var(--dim); font-size:12px }
+  main { display:grid; grid-template-columns:290px 1fr; gap:0; min-height:calc(100vh - 53px) }
+  aside { border-right:1px solid var(--line); padding:16px; background:var(--panel) }
+  section { padding:16px; overflow:auto }
+  .grp { margin-bottom:20px }
+  .grp h2 { font-size:11px; text-transform:uppercase; letter-spacing:.08em; color:var(--dim);
+            margin:0 0 9px; font-weight:600 }
+  label.row { display:flex; align-items:center; gap:9px; padding:5px 0; cursor:pointer }
+  label.row span { flex:1 }
+  select, input[type=range] { width:100% }
+  select { background:#12151a; color:var(--fg); border:1px solid var(--line); border-radius:6px; padding:7px 8px }
+  input[type=checkbox] { accent-color:var(--acc); width:15px; height:15px }
+  .val { color:var(--acc); font-variant-numeric:tabular-nums; font-size:12px }
+  .seg { display:flex; gap:6px; margin-top:4px }
+  .seg button { flex:1; background:#12151a; color:var(--dim); border:1px solid var(--line);
+                border-radius:6px; padding:6px 4px; font-size:12px; cursor:pointer }
+  .seg button.on { background:var(--acc); color:#08111c; border-color:var(--acc); font-weight:600 }
+  img#view { width:100%; border:1px solid var(--line); border-radius:8px; background:#000; display:block }
+  .legend { display:flex; gap:16px; margin-top:12px; font-size:12px; color:var(--dim); flex-wrap:wrap }
+  .dot { display:inline-block; width:9px; height:9px; border-radius:2px; margin-right:6px; vertical-align:middle }
+  .note { color:var(--dim); font-size:12px; margin-top:10px; max-width:70ch }
+  .meta { color:var(--dim); font-size:11.5px; margin-top:6px; font-variant-numeric:tabular-nums }
+  option:disabled { color:#5a616c }
+  @media (max-width:820px){ main{ grid-template-columns:1fr } aside{ border-right:0; border-bottom:1px solid var(--line) } }
+</style>
+
+<header>
+  <h1>APD compliance — production vs ours</h1>
+  <span class="sub">both pipelines on the same frame, decoded once</span>
+</header>
+
+<main>
+<aside>
+  <div class="grp">
+    <h2>Recording</h2>
+    <select id="video"></select>
+    <div class="meta" id="vmeta"></div>
+    <label class="row" style="margin-top:6px"><input type="checkbox" id="only_playable" checked><span>hide empty clips</span></label>
+  </div>
+
+  <div class="grp">
+    <h2>Panes</h2>
+    <label class="row"><input type="checkbox" id="show_prod" checked><span>Production (apd_mbg)</span></label>
+    <label class="row"><input type="checkbox" id="show_ours" checked><span>Ours</span></label>
+  </div>
+
+  <div class="grp">
+    <h2>Production</h2>
+    <label class="row"><input type="checkbox" id="prod_person" checked><span>person boxes</span></label>
+    <label class="row"><input type="checkbox" id="prod_ppe" checked><span>PPE boxes</span></label>
+    <label class="row"><span>confidence</span><span class="val" id="prod_conf_v">0.30</span></label>
+    <input type="range" id="prod_conf" min="0.05" max="0.9" step="0.05" value="0.30">
+  </div>
+
+  <div class="grp">
+    <h2>Ours — person stage</h2>
+    <label class="row"><input type="checkbox" id="ours_person" checked><span>person boxes (pose)</span></label>
+    <label class="row"><span>pose confidence</span><span class="val" id="pose_conf_v">0.40</span></label>
+    <input type="range" id="pose_conf" min="0.05" max="0.9" step="0.05" value="0.40">
+  </div>
+
+  <div class="grp">
+    <h2>Ours — packed trunks</h2>
+    <label class="row"><input type="checkbox" id="headcap" checked><span>head_cap</span></label>
+    <label class="row"><input type="checkbox" id="gate" checked><span>ROI gate</span></label>
+    <label class="row"><input type="checkbox" id="show_roi"><span>show ROI boxes</span></label>
+  </div>
+
+  <div class="grp">
+    <h2>Ours — mask</h2>
+    <div class="seg" id="mask">
+      <button data-v="face" class="on">face crop</button>
+      <button data-v="head">head crop</button>
+      <button data-v="off">off</button>
+    </div>
+    <label class="row" style="margin-top:8px"><input type="checkbox" id="facing_gate" checked><span>skip people facing away</span></label>
+  </div>
+
+  <div class="grp">
+    <h2>Ours — gloves</h2>
+    <div class="seg" id="gloves">
+      <button data-v="detector" class="on">crop detector</button>
+      <button data-v="trunk">hand ROI</button>
+      <button data-v="off">off</button>
+    </div>
+    <label class="row" style="margin-top:8px"><span>detector confidence</span><span class="val" id="det_conf_v">0.25</span></label>
+    <input type="range" id="det_conf" min="0.05" max="0.9" step="0.05" value="0.25">
+  </div>
+
+  <div class="grp">
+    <h2>Playback</h2>
+    <label class="row"><span>every Nth frame</span><span class="val" id="stride_v">3</span></label>
+    <input type="range" id="stride" min="1" max="10" step="1" value="3">
+    <label class="row"><span>pane width</span><span class="val" id="width_v">720</span></label>
+    <input type="range" id="width" min="420" max="1000" step="20" value="720">
+  </div>
+</aside>
+
+<section>
+  <img id="view" alt="stream">
+  <div class="legend">
+    <span><i class="dot" style="background:var(--ok)"></i>satisfied</span>
+    <span><i class="dot" style="background:var(--bad)"></i>violation</span>
+    <span><i class="dot" style="background:#9aa3b0"></i>unknown, no alert</span>
+    <span><i class="dot" style="background:#fff"></i>person</span>
+    <span><i class="dot" style="background:#c8aa3c"></i>ROI fed to a trunk</span>
+  </div>
+  <p class="note">
+    Production runs one 7-class detector. Ours runs pose to find people; a trunk judges
+    head_cap on the head region, a separate mask trunk judges a face-centred crop, and gloves
+    come from a crop detector that needs no hand region. Switch mask to “head crop” for the
+    previous model, which saw the face as a seventh of its input. Switch gloves to “hand ROI” to see the failure that motivated the change: wrist
+    keypoints put the box on trays and worktops.
+  </p>
+</section>
+</main>
+
+<script>
+const $ = id => document.getElementById(id);
+const CHECKS = ["show_prod","show_ours","prod_person","prod_ppe","ours_person","headcap","gate","show_roi","facing_gate"];
+const RANGES = ["prod_conf","pose_conf","det_conf","stride","width"];
+let gloves = "detector", mask = "face";
+
+function qs() {
+  const p = new URLSearchParams();
+  p.set("video", $("video").value);
+  CHECKS.forEach(k => p.set(k, $(k).checked ? "1" : "0"));
+  RANGES.forEach(k => p.set(k, $(k).value));
+  p.set("gloves", gloves); p.set("mask", mask);
+  p.set("t", Date.now());          // force a new stream rather than a cached one
+  return p.toString();
+}
+function restart() { $("view").src = "/stream?" + qs(); }
+
+CHECKS.forEach(k => $(k).addEventListener("change", restart));
+RANGES.forEach(k => {
+  const out = $(k + "_v");
+  $(k).addEventListener("input", () => { if (out) out.textContent = $(k).value; });
+  $(k).addEventListener("change", restart);
+});
+function seg(id, set) {
+  document.querySelectorAll(`#${id} button`).forEach(b =>
+    b.addEventListener("click", () => {
+      document.querySelectorAll(`#${id} button`).forEach(x => x.classList.remove("on"));
+      b.classList.add("on"); set(b.dataset.v); restart();
+    }));
+}
+seg("gloves", v => gloves = v);
+seg("mask", v => mask = v);
+$("video").addEventListener("change", restart);
+
+let VIDEOS = [];
+function fmt(v) {
+  const t = v.secs ? `${Math.floor(v.secs/60)}:${String(Math.round(v.secs%60)).padStart(2,"0")}` : "--:--";
+  return `${v.name}   ${t}  ${v.size_mb} MB` + (v.playable ? "" : "   (empty)");
+}
+function fillList() {
+  const only = $("only_playable").checked;
+  const list = VIDEOS.filter(v => !only || v.playable);
+  $("video").innerHTML = list.map(v =>
+    `<option value="${v.dir ? v.dir + "/" + v.name : v.name}"${v.playable ? "" : " disabled"}>${fmt(v)}</option>`).join("");
+  showMeta();
+}
+function showMeta() {
+  const v = VIDEOS.find(x => (x.dir ? x.dir + "/" + x.name : x.name) === $("video").value);
+  $("vmeta").textContent = v ? `${v.res}  ${v.fps} fps  ${v.frames} frames` + (v.dir ? `  in ${v.dir}` : "") : "";
+}
+$("only_playable").addEventListener("change", () => { fillList(); restart(); });
+$("video").addEventListener("change", showMeta);
+
+fetch("/api/videos").then(r => r.json()).then(vs => {
+  VIDEOS = vs;
+  const n = vs.filter(v => v.playable).length;
+  document.querySelector("header .sub").textContent =
+    `${n} playable recording${n===1?"":"s"}` + (vs.length>n ? `, ${vs.length-n} empty` : "");
+  fillList();
+  if (n) restart();
+});
+</script>

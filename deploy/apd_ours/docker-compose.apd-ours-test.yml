@@ -1,0 +1,34 @@
+# Drop-in beside docker-compose-axelera-x86-64.yml on SPPG-3881.
+# Mirrors the live `apd-cctv` service block; every difference is marked.
+#
+#   docker compose -f docker-compose-axelera-x86-64.yml -f docker-compose.apd-ours-test.yml up -d apd-cctv-test
+#
+services:
+  apd-cctv-test:
+    image: sipgn-git.bgn.go.id:axelera-v1.5          # same image as production
+    container_name: apd-cctv-test                     # DIFF: separate name
+    hostname: apd-cctv-test
+    tty: true
+    stdin_open: true
+    env_file:
+      - ./.env                                        # same credentials / camera config / thresholds
+    # Same supervisor entrypoint, launched FROM our directory so that
+    # `from apd_monitor_axelera_multi import apd_monitor_main` (worker_entry)
+    # resolves to our patched module. Production's own file is never touched.
+    command: ["/mnt/data/voyager-sdk/venv/bin/python", "/mnt/data/apd_ours/apd_monitor_axelera_service.py", "--interval", "30"]   # DIFF
+    privileged: true
+    environment:
+      - TZ=UTC
+      - APD_MODEL=apd_ours                            # DIFF: our compiled pose network
+      - APD_STORAGE_PATH=/mnt/data/apd_ours/apd_storage   # DIFF: own SQLite; the uploader never reads it
+      - PROJECT_DIR=/mnt/data/apd_ours                  # DIFF: log file lands on the host, not inside the throwaway container
+      - AXELERA_CONFIGURE_DEVICE=0                    # DIFF: do not reconfigure the card under production
+      - SHOW_DISPLAY=False                            # DIFF
+      - PYTHONPATH=/mnt/data/apd_ours:/mnt/data/tray_counter:/mnt/data/voyager-sdk:/opt/axelera/runtime-1.5.2-1/tvm/tvm-src   # DIFF: our dir first, then production's modules
+    restart: "no"                                     # DIFF: stay down if it misbehaves
+    working_dir: /mnt/data/apd_ours                   # DIFF: relative snapshot dir lands here
+    volumes:
+      - ./customers:/mnt/data/voyager-sdk/customers   # same: compiled network lives here
+      - ./build:/mnt/data/voyager-sdk/build           # same
+      - /mnt/data/tray_counter:/mnt/data/tray_counter:ro   # DIFF: production code readable, not writable
+      - /mnt/data/apd_ours:/mnt/data/apd_ours         # DIFF: this bundle + its storage

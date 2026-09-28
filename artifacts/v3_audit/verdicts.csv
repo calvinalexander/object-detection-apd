@@ -1,0 +1,1912 @@
+source,n,id,item,label,verdict,note
+det7_export,0,129978182_p1,head_cap,absent,ok,"black peaked cap = absent, correct"
+det7_export,1,129978330_p0,head_cap,present,ok,green bouffant
+det7_export,1,129978330_p0,gloves,present,ok,white gloves both hands
+det7_export,2,129978330_p3,head_cap,present,ok,green bouffant
+det7_export,2,129978330_p3,gloves,present,ok,white glove visible
+det7_export,3,129978412_p2,gloves,absent,ok,bare hands
+det7_export,4,129978412_p4,head_cap,absent,wrong,"head out of frame; absent is unsupportable, should be unjudgeable"
+det7_export,5,129978418_p0,head_cap,present,ok,green cap
+det7_export,6,129978418_p1,head_cap,present,ok,green bouffant
+det7_export,7,129978418_p3,head_cap,present,ok,green bouffant
+det7_export,8,129978458_p0,head_cap,present,check,crop sits between two people (green bouffant vs black hijab); label fits only one
+det7_export,9,129978458_p1,head_cap,present,ok,green bouffant
+det7_export,10,129978458_p2,gloves,present,check,"hands behind a tray, glove not verifiable"
+det7_export,11,129978471_p1,head_cap,present,ok,blue bouffant
+det7_export,12,129978471_p3,head_cap,present,ok,teal bouffant
+det7_export,12,129978471_p3,mask,absent,check,face too small/blurred to call absent
+det7_export,13,129978480_p0,head_cap,present,ok,green bouffant
+det7_export,14,129978480_p1,head_cap,present,check,crop centred on a bending back; visible cap belongs to another person
+det7_export,15,129978917_p0,head_cap,present,ok,green hairnet
+det7_export,16,129978917_p1,head_cap,present,ok,green bouffant close-up
+det7_export,17,129978976_p0,head_cap,present,ok,green hairnet
+det7_export,17,129978976_p0,mask,absent,ok,bare face
+det7_export,17,129978976_p0,gloves,present,ok,light gloves
+det7_export,18,129978976_p1,head_cap,present,ok,green cap
+det7_export,19,129979034_p0,head_cap,absent,wrong,wears a light surgical-style cap but labelled absent; crop also contains the dashboard red box
+det7_export,20,129979223_p0,head_cap,present,ok,green bouffant
+det7_export,21,129979539_p1,head_cap,present,ok,green cap
+det7_export,22,129979539_p4,head_cap,present,ok,green cap
+det7_export,23,129979539_p5,head_cap,present,ok,green cap
+det7_export,23,129979539_p5,mask,present,ok,white mask covering
+det7_export,24,129980495_p1,head_cap,present,ok,green cap
+det7_export,24,129980495_p1,mask,absent,ok,mask at neck = absent
+det7_export,25,129980495_p2,head_cap,present,ok,teal cap
+det7_export,26,129980933_p0,gloves,absent,check,subject's hands out of view; visible glove belongs to another person
+det7_export,27,129981782_p1,head_cap,present,check,"box framed on the pot, person at the edge"
+det7_export,28,129983607_p0,head_cap,absent,check,hijab with a white object above it; cap vs not is ambiguous
+det7_export,28,129983607_p0,mask,absent,ok,bare face
+det7_export,29,129984959_p0,gloves,absent,ok,bare hands
+det7_export,30,129984959_p2,head_cap,present,ok,blue hairnet
+det7_export,30,129984959_p2,mask,absent,check,a mask looks present; labelled absent
+det7_export,31,129984959_p5,head_cap,present,ok,blue hairnet
+det7_export,31,129984959_p5,mask,absent,check,"face hidden, bent over; absent unsupportable"
+det7_export,32,129985226_p0,head_cap,present,ok,teal cap
+det7_export,33,129985226_p1,head_cap,present,ok,teal cap
+det7_export,34,129985226_p3,head_cap,present,ok,teal cap
+det7_export,35,129985226_p4,mask,absent,wrong,"54x63 crop, head barely in frame, clock overlay across it; absent unsupportable"
+det7_export,36,129985233_p0,head_cap,absent,ok,black peaked cap = absent
+det7_export,36,129985233_p0,gloves,absent,ok,bare hand
+det7_export,37,129986651_p0,head_cap,present,ok,green bouffant
+det7_export,38,129986651_p2,head_cap,present,ok,green bouffant
+det7_export,39,129987833_p0,head_cap,present,ok,teal cap
+det7_export,40,129988409_p0,head_cap,absent,ok,hijab without cap = absent
+det7_export,40,129988409_p0,mask,absent,ok,bare face
+det7_export,40,129988409_p0,gloves,absent,ok,one hand gloved only
+det7_export,41,129988409_p2,head_cap,present,ok,green bouffant
+det7_export,42,129988409_p3,head_cap,absent,ok,"black hijab, no cap"
+det7_export,43,129988409_p4,head_cap,present,ok,green bouffant
+det7_export,44,129988409_p5,head_cap,present,check,two women in crop; the green cap belongs to the one behind
+det7_export,45,129988953_p0,head_cap,present,ok,teal cap
+det7_export,46,129988953_p1,head_cap,present,ok,teal cap
+det7_export,47,129989447_p0,head_cap,present,ok,teal cap
+det7_export,47,129989447_p0,gloves,absent,ok,bare hands
+det7_export,48,129989465_p3,head_cap,absent,check,"dark skullcap vs beanie; rule-sensitive, labelled absent"
+det7_export,49,129989465_p5,head_cap,present,check,blue head covering: cap over hijab or hijab alone?
+det7_export,50,129989562_p0,head_cap,present,ok,green bouffant over hijab
+det7_export,50,129989562_p0,mask,absent,ok,bare face
+det7_export,50,129989562_p0,gloves,present,ok,gloved
+det7_export,51,129989562_p4,head_cap,present,ok,teal cap
+det7_export,52,129989743_p1,head_cap,present,ok,blue cap
+det7_export,52,129989743_p1,mask,absent,wrong,white mask visible on the face but labelled absent
+det7_export,53,129989743_p3,gloves,absent,ok,bare hands
+det7_export,54,129989743_p5,head_cap,present,ok,teal cap
+det7_export,54,129989743_p5,mask,absent,check,face partly hidden; absent not supportable
+det7_export,55,129989835_p0,head_cap,present,ok,green cap
+det7_export,55,129989835_p0,gloves,present,ok,dark gloves
+det7_export,56,129989835_p2,head_cap,present,ok,green cap
+det7_export,56,129989835_p2,gloves,present,ok,white gloves
+det7_export,57,129989835_p3,head_cap,present,ok,green cap
+det7_export,58,129989835_p5,head_cap,present,ok,green cap
+det7_export,58,129989835_p5,gloves,present,ok,white gloves
+det7_export,59,129990020_p1,head_cap,present,ok,green cap
+det7_export,60,129990318_p0,head_cap,present,ok,green cap close-up
+det7_export,61,129990318_p2,head_cap,present,ok,green cap
+det7_export,61,129990318_p2,gloves,absent,ok,bare hands
+det7_export,62,129990563_p0,head_cap,present,check,crop centred on a bending torso; visible cap belongs to another person
+det7_export,63,129990563_p2,head_cap,present,ok,green cap
+det7_export,64,129991428_p0,head_cap,present,ok,green cap
+det7_export,65,129991428_p3,head_cap,present,ok,green cap
+det7_export,66,129991569_p0,gloves,absent,ok,bare hands
+det7_export,67,129991569_p1,head_cap,present,ok,blue cap
+det7_export,68,129991569_p2,head_cap,present,ok,blue hairnet
+det7_export,69,129991569_p3,head_cap,present,ok,blue hairnet
+det7_export,69,129991569_p3,gloves,absent,ok,bare hands
+det7_export,70,129991784_p3,head_cap,present,ok,blue hairnet
+det7_export,71,129991812_p0,head_cap,present,ok,green cap
+det7_export,72,129991812_p1,head_cap,absent,ok,bare head
+det7_export,73,129991812_p2,head_cap,present,ok,green cap
+det7_export,74,129992024_p0,head_cap,present,ok,green cap
+det7_export,75,129992024_p1,head_cap,present,ok,green cap
+det7_export,75,129992024_p1,mask,absent,ok,bare face
+det7_export,76,129992093_p1,gloves,absent,ok,bare arms/hands
+det7_export,77,129992093_p2,gloves,absent,check,a black glove is visible on one hand; absent only right if the other is bare
+det7_export,78,129993284_p1,gloves,absent,ok,bare hands on a broom
+det7_export,79,129993284_p2,head_cap,present,ok,green cap
+det7_export,80,129995175_p0,head_cap,present,ok,green cap
+det7_export,81,129995175_p1,head_cap,present,ok,green cap
+det7_export,82,129995202_p1,head_cap,present,ok,green cap
+det7_export,83,129995202_p2,head_cap,present,ok,green cap
+det7_export,84,129995202_p4,head_cap,present,ok,green/blue bouffant
+det7_export,85,129996416_p0,head_cap,present,ok,green/blue bouffant
+det7_export,86,129997134_p0,head_cap,present,ok,green/blue bouffant
+det7_export,87,129997134_p2,head_cap,present,ok,green/blue bouffant
+det7_export,88,129997134_p3,head_cap,present,ok,green/blue bouffant
+det7_export,89,129997134_p5,head_cap,present,ok,green/blue bouffant
+det7_export,90,129997134_p7,head_cap,present,ok,green/blue bouffant
+det7_export,91,129999781_p0,head_cap,present,ok,green/blue bouffant
+det7_export,92,129999781_p2,head_cap,present,ok,green/blue bouffant
+det7_export,94,129999781_p4,head_cap,present,ok,green/blue bouffant
+det7_export,95,129999814_p0,head_cap,present,ok,green/blue bouffant
+det7_export,96,130000119_p2,head_cap,present,ok,green/blue bouffant
+det7_export,97,130000217_p0,head_cap,present,ok,green/blue bouffant
+det7_export,101,130000549_p0,head_cap,present,ok,green/blue bouffant
+det7_export,102,130000549_p1,head_cap,present,ok,green/blue bouffant
+det7_export,103,130001913_p0,head_cap,present,ok,green/blue bouffant
+det7_export,104,130002080_p0,head_cap,present,ok,green/blue bouffant
+det7_export,105,130002080_p2,head_cap,present,ok,green/blue bouffant
+det7_export,93,129999781_p3,head_cap,absent,ok,black peaked cap = absent
+det7_export,98,130000217_p2,gloves,absent,ok,bare hands on tray
+det7_export,99,130000217_p3,gloves,absent,check,crop centred on a tray; subject's hands not identifiable
+det7_export,100,130000217_p4,head_cap,present,wrong,central person is bare-headed; the green cap belongs to the person below
+det7_export,106,130002890_p2,head_cap,absent,ok,"bare head, grey hair"
+det7_export,107,130002965_p5,head_cap,absent,check,"dark head covering, cap vs bare not resolvable at this size"
+det7_export,108,130003607_p1,head_cap,present,ok,green/teal bouffant
+det7_export,109,130003607_p2,head_cap,present,ok,green/teal bouffant
+det7_export,110,130003981_p4,head_cap,present,ok,green/teal bouffant
+det7_export,111,130004342_p0,head_cap,present,ok,green/teal bouffant
+det7_export,112,130004342_p1,head_cap,present,ok,green/teal bouffant
+det7_export,113,130004342_p4,head_cap,present,ok,green/teal bouffant
+det7_export,114,130004342_p6,head_cap,present,ok,green/teal bouffant
+det7_export,115,130004342_p7,head_cap,present,ok,green/teal bouffant
+det7_export,116,130005007_p1,head_cap,present,ok,green/teal bouffant
+det7_export,117,130005396_p2,head_cap,present,ok,green/teal bouffant
+det7_export,118,130006135_p1,head_cap,present,ok,green/teal bouffant
+det7_export,119,130006135_p3,head_cap,present,ok,green/teal bouffant
+det7_export,120,130006334_p1,head_cap,present,ok,green/teal bouffant
+det7_export,121,130006334_p2,head_cap,present,ok,green/teal bouffant
+det7_export,122,130006403_p0,head_cap,present,ok,green/teal bouffant
+det7_export,123,130006785_p1,head_cap,present,ok,green/teal bouffant
+det7_export,125,130007751_p0,head_cap,present,ok,green/teal bouffant
+det7_export,126,130008224_p1,head_cap,present,ok,green/teal bouffant
+det7_export,127,130008224_p2,head_cap,present,ok,green/teal bouffant
+det7_export,129,130008224_p4,head_cap,present,ok,green/teal bouffant
+det7_export,130,130009214_p0,head_cap,present,ok,green/teal bouffant
+det7_export,131,130010644_p1,head_cap,present,ok,green/teal bouffant
+det7_export,110,130003981_p4,mask,absent,ok,mask at the chin = absent
+det7_export,121,130006334_p2,mask,present,ok,blue mask covering
+det7_export,123,130006785_p1,mask,absent,ok,bare face
+det7_export,124,130007517_p1,head_cap,present,wrong,crop is a bending back with dashboard text burned in; cap belongs to another person
+det7_export,126,130008224_p1,gloves,absent,check,hands not visible in the crop
+det7_export,128,130008224_p3,gloves,absent,wrong,blue gloves clearly on both hands but labelled absent
+det7_export,128,130008224_p3,mask,absent,check,a mask appears to be on the face
+det7_export,132,130010978_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,133,130011019_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,134,130011019_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,135,130011851_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,136,130011851_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,137,130012359_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,138,130012651_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,139,130012651_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,140,130013912_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,141,130013912_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,142,130015017_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,147,130015296_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,148,130015968_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,149,130016496_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,150,130016496_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,151,130016496_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,152,130016496_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,154,130020807_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,155,130020807_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,132,130010978_p0,mask,absent,wrong,mask is on the face but labelled absent
+det7_export,132,130010978_p0,gloves,absent,wrong,black gloves on both hands but labelled absent
+det7_export,133,130011019_p1,mask,absent,check,face too small to call
+det7_export,138,130012651_p0,gloves,present,ok,gloved
+det7_export,143,130015296_p1,gloves,absent,ok,bare hands
+det7_export,144,130015296_p2,mask,absent,ok,mask at the chin = absent
+det7_export,144,130015296_p2,gloves,absent,ok,one hand gloved only
+det7_export,145,130015296_p5,head_cap,absent,check,head cut off at the top of the crop; absent unsupportable
+det7_export,146,130015296_p6,head_cap,absent,ok,bare head
+det7_export,147,130015296_p7,mask,absent,ok,bare face
+det7_export,149,130016496_p0,mask,absent,wrong,blue mask on the face but labelled absent
+det7_export,149,130016496_p0,gloves,present,ok,white gloves
+det7_export,153,130020440_p1,head_cap,absent,wrong,navy beret-style kitchen cap = present under the agreed rule
+det7_export,154,130020807_p0,mask,present,ok,mask covering
+det7_export,154,130020807_p0,gloves,present,ok,gloved
+det7_export,155,130020807_p1,mask,present,ok,mask covering
+det7_export,155,130020807_p1,gloves,present,ok,gloved
+det7_export,156,130020807_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,157,130020867_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,159,130020965_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,160,130022046_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,161,130022046_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,162,130022046_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,163,130022491_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,165,130022790_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,166,130023284_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,167,130023284_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,170,130023933_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,172,130024894_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,173,130025078_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,174,130025078_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,175,130025078_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,176,130025078_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,177,130025632_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,179,130025665_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,158,130020878_p2,gloves,absent,ok,bare hand
+det7_export,163,130022491_p2,mask,absent,check,a mask looks present on the face
+det7_export,164,130022790_p1,head_cap,present,check,crop is mostly a trolley; cap belongs to a partly visible person
+det7_export,168,130023843_p0,gloves,absent,ok,bare hands
+det7_export,169,130023933_p0,head_cap,present,check,dark head covering from behind: skullcap or hair?
+det7_export,170,130023933_p1,mask,absent,ok,bare face
+det7_export,171,130023933_p3,gloves,absent,check,"hand region blurred, glove not resolvable"
+det7_export,176,130025078_p4,mask,absent,ok,bare face
+det7_export,178,130025632_p5,head_cap,absent,ok,bare head from behind
+det7_export,180,130025665_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,181,130025665_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,182,130026557_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,183,130026557_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,184,130026557_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,185,130026657_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,186,130026885_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,187,130026885_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,188,130026885_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,189,130026885_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,190,130026885_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,191,130027108_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,192,130027108_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,193,130029101_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,194,130029101_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,195,130029101_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,196,130029101_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,197,130029101_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,198,130029456_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,199,130029456_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,200,130029456_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,201,130029682_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,182,130026557_p1,mask,absent,ok,mask hanging at the chin = absent
+det7_export,183,130026557_p2,mask,present,ok,blue mask covering
+det7_export,192,130027108_p1,mask,absent,ok,bare face
+det7_export,194,130029101_p1,mask,present,ok,covering
+det7_export,194,130029101_p1,gloves,present,ok,gloved
+det7_export,195,130029101_p2,gloves,absent,ok,bare hands
+det7_export,196,130029101_p3,mask,present,ok,covering
+det7_export,196,130029101_p3,gloves,present,ok,gloved
+det7_export,197,130029101_p4,gloves,present,ok,gloved
+det7_export,201,130029682_p0,mask,absent,check,a light mask appears on the face
+det7_export,201,130029682_p0,gloves,absent,ok,bare hands
+det7_export,202,130029682_p2,head_cap,present,check,person almost entirely out of the crop; only a cap edge visible
+det7_export,203,130029766_p0,gloves,absent,ok,bare hands on tongs
+det7_export,204,130029894_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,205,130030429_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,206,130030494_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,208,130030590_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,209,130031636_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,210,130032011_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,211,130032011_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,214,130032153_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,215,130032153_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,216,130032420_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,217,130032584_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,218,130032641_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,219,130032727_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,221,130033392_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,222,130033392_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,223,130033625_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,224,130033821_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,226,130034386_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,227,130034386_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,204,130029894_p0,gloves,absent,ok,bare hands
+det7_export,205,130030429_p2,mask,-,ok,mask covering
+det7_export,206,130030494_p2,mask,absent,check,"bent over, face hidden; absent unsupportable"
+det7_export,206,130030494_p2,gloves,present,ok,blue gloves
+det7_export,207,130030521_p0,head_cap,absent,ok,black peaked cap = absent
+det7_export,209,130031636_p1,gloves,-,ok,white glove
+det7_export,212,130032153_p0,gloves,absent,ok,bare hands
+det7_export,213,130032153_p1,head_cap,absent,ok,bare head/hood
+det7_export,214,130032153_p2,mask,absent,ok,bare face
+det7_export,220,130033392_p0,head_cap,absent,ok,bare head
+det7_export,223,130033625_p0,gloves,absent,ok,bare hands
+det7_export,225,130034386_p0,head_cap,absent,ok,headscarf without cap = absent
+det7_export,228,130034931_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,230,130036627_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,231,130036627_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,233,130036627_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,235,130037061_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,236,130037061_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,237,130037141_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,238,130038217_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,239,130038217_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,240,130038314_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,241,130038489_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,242,130038696_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,243,130038696_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,244,130039453_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,245,130039453_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,246,130039453_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,247,130039724_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,248,130039724_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,249,130040286_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,229,130035654_p0,head_cap,absent,ok,bare head
+det7_export,229,130035654_p0,mask,absent,ok,bare face
+det7_export,230,130036627_p0,gloves,present,ok,gloved
+det7_export,232,130036627_p2,gloves,present,ok,gloved
+det7_export,233,130036627_p3,gloves,present,ok,gloved
+det7_export,234,130036701_p0,gloves,absent,ok,bare hands
+det7_export,240,130038314_p1,mask,absent,ok,mask below the chin = absent
+det7_export,242,130038696_p0,mask,-,ok,blue mask covering
+det7_export,243,130038696_p3,gloves,present,ok,white gloves
+det7_export,245,130039453_p1,gloves,present,ok,dark gloves
+det7_export,246,130039453_p3,gloves,present,ok,gloved
+det7_export,250,130040693_p0,head_cap,absent,ok,hijab without cap = absent
+det7_export,250,130040693_p0,mask,absent,ok,bare face
+det7_export,251,130040693_p1,head_cap,absent,ok,hijab without cap = absent
+det7_export,252,130040711_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,253,130040711_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,254,130040758_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,255,130040758_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,256,130040758_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,257,130040758_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,258,130041684_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,261,130042284_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,262,130045545_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,263,130045545_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,264,130045545_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,265,130045545_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,266,130045545_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,267,130046084_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,268,130046838_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,269,130047024_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,272,130047533_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,273,130047533_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,274,130047533_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,275,130047755_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,256,130040758_p2,mask,present,ok,covering
+det7_export,256,130040758_p2,gloves,present,ok,gloved
+det7_export,257,130040758_p4,mask,absent,ok,mask at the chin
+det7_export,257,130040758_p4,gloves,absent,ok,bare hands
+det7_export,259,130042179_p3,head_cap,absent,ok,bare head
+det7_export,260,130042284_p0,head_cap,absent,ok,black peaked cap = absent
+det7_export,262,130045545_p0,gloves,present,ok,gloved
+det7_export,265,130045545_p4,mask,-,ok,covering
+det7_export,269,130047024_p0,mask,absent,check,a mask may be on the face
+det7_export,270,130047024_p5,head_cap,absent,ok,beanie = absent per rule
+det7_export,271,130047072_p1,head_cap,absent,wrong,white hairnet clearly visible but labelled absent
+det7_export,273,130047533_p1,mask,absent,ok,bare face
+det7_export,275,130047755_p0,gloves,absent,ok,bare hands on tray
+det7_export,279,130047984_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,280,130047984_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,281,130048880_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,282,130049113_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,283,130049450_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,284,130049756_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,285,130051336_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,287,130054001_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,288,130054001_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,289,130054016_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,292,130055433_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,293,130055433_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,294,130055433_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,295,130055433_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,296,130055433_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,297,130055443_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,298,130055443_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,299,130055443_p8,head_cap,present,ok,bouffant/hairnet
+det7_export,276,130047755_p1,mask,absent,ok,mask at the chin
+det7_export,276,130047755_p1,gloves,present,ok,blue gloves
+det7_export,277,130047755_p3,head_cap,present,check,"bending torso; the green above may be a bag, not a cap"
+det7_export,278,130047984_p0,head_cap,absent,ok,"black hijab, no cap"
+det7_export,278,130047984_p0,gloves,absent,ok,bare hands
+det7_export,279,130047984_p1,mask,-,ok,covering
+det7_export,285,130051336_p0,gloves,present,ok,gloved
+det7_export,286,130051336_p2,head_cap,absent,ok,hijab without cap
+det7_export,286,130051336_p2,mask,absent,ok,bare face
+det7_export,286,130051336_p2,gloves,absent,ok,bare hands
+det7_export,290,130054656_p0,head_cap,absent,ok,bare head
+det7_export,290,130054656_p0,mask,absent,ok,bare face
+det7_export,291,130054656_p3,mask,absent,wrong,white mask on the face but labelled absent
+det7_export,294,130055433_p2,mask,present,ok,covering
+det7_export,295,130055433_p3,gloves,absent,check,dark gloves appear to be worn
+det7_export,303,130057363_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,304,130057371_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,305,130057371_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,306,130057371_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,308,130057452_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,309,130057548_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,310,130057808_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,311,130058551_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,312,130058551_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,313,130058880_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,314,130058880_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,315,130058880_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,316,130058880_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,317,130059042_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,319,130060315_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,320,130060713_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,321,130060773_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,322,130060773_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,323,130060773_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,300,130056640_p0,head_cap,absent,ok,bare head
+det7_export,300,130056640_p0,mask,absent,ok,mask at the chin
+det7_export,301,130057363_p0,gloves,present,ok,white gloves
+det7_export,302,130057363_p1,gloves,present,ok,white gloves
+det7_export,304,130057371_p0,mask,absent,wrong,white mask on the face but labelled absent
+det7_export,307,130057393_p0,head_cap,absent,ok,bare head
+det7_export,311,130058551_p0,gloves,absent,ok,bare hands
+det7_export,317,130059042_p0,mask,absent,check,"bent over, face hidden"
+det7_export,317,130059042_p0,gloves,present,ok,blue gloves
+det7_export,318,130059587_p3,head_cap,absent,ok,black peaked cap = absent
+det7_export,321,130060773_p0,gloves,absent,ok,bare hands on trolley
+det7_export,324,130061571_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,325,130061571_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,329,130063921_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,330,130063921_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,331,130064350_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,332,130064350_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,333,130064350_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,335,130064511_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,338,130066213_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,339,130067306_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,340,130067306_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,341,130068101_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,342,130068266_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,343,130068266_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,344,130068349_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,345,130068370_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,346,130068370_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,347,130068370_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,324,130061571_p1,mask,absent,ok,bare face
+det7_export,324,130061571_p1,gloves,present,ok,dark gloves
+det7_export,326,130062064_p1,head_cap,absent,ok,bare head
+det7_export,327,130063453_p0,head_cap,absent,ok,bare head
+det7_export,328,130063453_p1,head_cap,absent,check,blurred dark mass; head not identifiable
+det7_export,329,130063921_p0,gloves,absent,ok,bare hands
+det7_export,334,130064511_p2,head_cap,present,check,bending person in blue; the green cap belongs to someone else
+det7_export,336,130065319_p0,head_cap,absent,ok,hood/hijab without cap
+det7_export,337,130065319_p3,head_cap,absent,ok,hijab without cap
+det7_export,339,130067306_p0,mask,absent,check,face too small to call
+det7_export,340,130067306_p1,gloves,present,ok,gloved
+det7_export,346,130068370_p3,mask,present,ok,white mask covering
+det7_export,348,130068370_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,349,130069733_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,350,130069733_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,351,130069733_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,352,130069733_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,353,130069766_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,354,130069766_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,355,130070113_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,356,130070113_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,357,130070705_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,358,130070705_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,359,130072825_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,360,130072825_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,361,130072825_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,362,130073651_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,363,130073980_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,364,130074346_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,365,130074346_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,366,130075539_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,367,130076337_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,368,130076337_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,369,130076538_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,370,130077050_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,348,130068370_p6,gloves,present,ok,gloved
+det7_export,349,130069733_p0,gloves,present,ok,gloved
+det7_export,351,130069733_p2,gloves,present,ok,pink gloves
+det7_export,352,130069733_p4,gloves,present,ok,gloved
+det7_export,353,130069766_p0,mask,absent,ok,mask at the chin
+det7_export,353,130069766_p0,gloves,absent,check,hands look dark-gloved
+det7_export,356,130070113_p2,mask,absent,check,face not visible
+det7_export,359,130072825_p0,mask,absent,check,"back of head, face not visible"
+det7_export,361,130072825_p2,mask,absent,check,face partly hidden
+det7_export,363,130073980_p0,gloves,present,ok,white gloves
+det7_export,364,130074346_p1,mask,present,ok,covering
+det7_export,371,130077050_p1,head_cap,absent,ok,black peaked cap = absent
+det7_export,371,130077050_p1,mask,present,ok,white mask covering
+det7_export,372,130077106_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,374,130078052_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,375,130078052_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,376,130078725_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,377,130078725_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,378,130078725_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,380,130078725_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,381,130078725_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,382,130078725_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,385,130080367_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,386,130081937_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,387,130081937_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,389,130082082_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,390,130082082_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,391,130082082_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,373,130077885_p0,head_cap,absent,ok,blue knitted beanie = absent per rule
+det7_export,378,130078725_p2,gloves,present,ok,gloved
+det7_export,379,130078725_p3,head_cap,absent,ok,bare head
+det7_export,379,130078725_p3,mask,absent,ok,bare face
+det7_export,379,130078725_p3,gloves,absent,ok,bare hands
+det7_export,381,130078725_p6,mask,absent,ok,mask at the chin
+det7_export,381,130078725_p6,gloves,absent,ok,bare hands
+det7_export,383,130078725_p8,gloves,present,ok,blue gloves
+det7_export,384,130078725_p9,gloves,present,ok,gloved
+det7_export,388,130081985_p0,head_cap,present,check,bending person; the teal cap belongs to someone at the edge
+det7_export,392,130084319_p0,head_cap,absent,check,light hijab with a green cap above it - cap over hijab would be present
+det7_export,393,130084485_p0,head_cap,absent,ok,bare head
+det7_export,394,130084697_p0,head_cap,absent,ok,bare head
+det7_export,394,130084697_p0,mask,absent,ok,bare face
+det7_export,395,130084800_p3,head_cap,absent,ok,peaked cap = absent
+det7_export,398,130084960_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,399,130085404_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,400,130085514_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,401,130086029_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,402,130086029_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,403,130087086_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,404,130087086_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,405,130087086_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,406,130087086_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,407,130087086_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,408,130088496_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,409,130088662_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,410,130088807_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,411,130088904_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,412,130088942_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,413,130088942_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,414,130088942_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,415,130093409_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,416,130093409_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,417,130093619_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,418,130093925_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,419,130093925_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,396,130084800_p4,mask,absent,wrong,blue mask clearly on the face but labelled absent
+det7_export,397,130084800_p5,head_cap,absent,ok,hijab without cap
+det7_export,399,130085404_p0,mask,-,ok,covering
+det7_export,403,130087086_p0,gloves,present,ok,gloved
+det7_export,404,130087086_p1,mask,present,ok,covering
+det7_export,404,130087086_p1,gloves,absent,ok,bare hands
+det7_export,405,130087086_p2,gloves,present,ok,gloved
+det7_export,415,130093409_p0,mask,absent,ok,bare face
+det7_export,417,130093619_p1,mask,absent,ok,mask at the chin
+det7_export,420,130093925_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,421,130094074_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,422,130094074_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,424,130094634_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,427,130094634_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,429,130095048_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,430,130095475_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,431,130095475_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,432,130095475_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,433,130095672_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,436,130097239_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,437,130097862_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,439,130097862_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,441,130098895_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,442,130099616_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,423,130094112_p1,head_cap,absent,ok,hijab without cap
+det7_export,423,130094112_p1,mask,absent,wrong,blue mask on the face but labelled absent
+det7_export,423,130094112_p1,gloves,present,ok,gloved
+det7_export,424,130094634_p0,gloves,present,ok,gloved
+det7_export,425,130094634_p1,head_cap,absent,ok,hijab without cap
+det7_export,425,130094634_p1,gloves,absent,ok,bare hands
+det7_export,426,130094634_p2,head_cap,absent,ok,bare head
+det7_export,428,130095048_p0,mask,absent,ok,bare face
+det7_export,429,130095048_p1,mask,absent,ok,bare face
+det7_export,434,130095672_p4,head_cap,absent,ok,bare head
+det7_export,435,130097239_p0,head_cap,absent,wrong,a green cap is worn over the hijab; cap over hijab = present
+det7_export,435,130097239_p0,gloves,absent,ok,bare hands
+det7_export,437,130097862_p0,mask,absent,ok,bare face
+det7_export,437,130097862_p0,gloves,absent,check,dark gloves appear to be worn
+det7_export,438,130097862_p1,head_cap,absent,ok,peaked cap = absent
+det7_export,440,130098728_p0,head_cap,absent,ok,bare head
+det7_export,443,130100025_p0,gloves,absent,ok,bare hands
+det7_export,447,130102151_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,450,130103647_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,452,130104227_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,453,130104227_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,454,130104255_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,455,130104255_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,458,130105602_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,459,130105602_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,460,130106688_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,461,130107037_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,462,130108693_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,463,130109776_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,464,130109776_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,465,130109776_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,466,130109788_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,444,130101505_p0,head_cap,absent,ok,"bucket hat, not food-grade = absent"
+det7_export,445,130101824_p1,head_cap,absent,ok,hijab without cap
+det7_export,445,130101824_p1,mask,absent,ok,bare face
+det7_export,446,130102121_p0,head_cap,absent,ok,peaked cap = absent
+det7_export,448,130102232_p2,head_cap,absent,ok,hood/hijab without cap
+det7_export,448,130102232_p2,mask,absent,ok,mask at the chin
+det7_export,449,130102232_p4,mask,absent,check,a mask appears to be on the face
+det7_export,450,130103647_p2,mask,present,ok,blue mask covering
+det7_export,451,130104227_p0,head_cap,absent,ok,hijab without cap
+det7_export,451,130104227_p0,mask,absent,ok,bare face
+det7_export,451,130104227_p0,gloves,present,ok,dark gloves
+det7_export,457,130105287_p0,head_cap,absent,ok,bare head
+det7_export,457,130105287_p0,mask,absent,ok,bare face
+det7_export,458,130105602_p1,gloves,absent,ok,bare hands
+det7_export,460,130106688_p0,gloves,absent,ok,bare hands
+det7_export,462,130108693_p0,mask,present,ok,covering
+det7_export,462,130108693_p0,gloves,present,ok,white gloves
+det7_export,467,130110211_p0,head_cap,absent,ok,bare head
+det7_export,468,130110407_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,469,130110879_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,470,130112382_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,471,130112743_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,474,130112743_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,475,130113328_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,476,130113733_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,477,130113733_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,480,130114726_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,481,130115304_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,484,130116106_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,485,130116106_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,486,130116106_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,488,130116902_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,489,130116902_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,490,130117914_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,491,130118484_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,469,130110879_p0,gloves,absent,ok,bare hands
+det7_export,471,130112743_p0,gloves,present,ok,dark gloves
+det7_export,472,130112743_p1,mask,absent,ok,bare face
+det7_export,472,130112743_p1,gloves,absent,ok,bare hands
+det7_export,473,130112743_p2,gloves,present,ok,gloved
+det7_export,476,130113733_p0,mask,present,ok,covering
+det7_export,477,130113733_p3,mask,present,ok,covering
+det7_export,478,130114033_p1,gloves,absent,check,purple glove in frame belongs to another person
+det7_export,479,130114676_p0,head_cap,absent,ok,bare head
+det7_export,479,130114676_p0,mask,absent,ok,bare face
+det7_export,479,130114676_p0,gloves,absent,ok,bare hands
+det7_export,482,130115312_p1,mask,absent,ok,mask below the chin
+det7_export,483,130115989_p0,head_cap,absent,ok,hood without cap
+det7_export,483,130115989_p0,gloves,absent,ok,bare hands
+det7_export,487,130116596_p0,head_cap,absent,ok,peaked cap = absent
+det7_export,489,130116902_p1,gloves,present,ok,gloved
+det7_export,496,130119664_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,497,130119844_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,498,130119844_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,499,130119844_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,502,130119874_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,503,130120167_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,505,130120906_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,507,130120906_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,509,130122513_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,512,130124222_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,513,130124334_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,515,130125571_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,492,130118785_p2,head_cap,absent,ok,bare head
+det7_export,492,130118785_p2,mask,absent,ok,bare face
+det7_export,493,130119068_p0,head_cap,absent,check,crop is pixelated/censored; head not assessable
+det7_export,494,130119571_p0,gloves,absent,ok,bare hands
+det7_export,495,130119577_p1,head_cap,absent,ok,hijab without cap
+det7_export,495,130119577_p1,mask,absent,ok,bare face
+det7_export,495,130119577_p1,gloves,absent,ok,bare hands
+det7_export,500,130119874_p3,head_cap,absent,ok,hijab without cap
+det7_export,500,130119874_p3,gloves,present,ok,white glove
+det7_export,501,130119874_p6,head_cap,absent,ok,hood without cap
+det7_export,504,130120592_p0,gloves,absent,ok,bare hands
+det7_export,505,130120906_p0,gloves,absent,check,blue glove in frame may belong to a neighbour
+det7_export,506,130120906_p1,head_cap,absent,ok,peaked cap = absent
+det7_export,506,130120906_p1,gloves,absent,check,gloves in frame belong to others
+det7_export,508,130122444_p0,head_cap,-,ok,"cap with face shield, not food-grade"
+det7_export,508,130122444_p0,gloves,absent,ok,bare hands
+det7_export,510,130123537_p0,head_cap,absent,ok,hijab without cap
+det7_export,511,130124116_p0,head_cap,absent,ok,bare head
+det7_export,511,130124116_p0,gloves,absent,ok,bare hands
+det7_export,512,130124222_p0,mask,absent,ok,bare face
+det7_export,512,130124222_p0,gloves,absent,ok,bare hands
+det7_export,513,130124334_p1,gloves,absent,ok,bare hands
+det7_export,514,130124490_p0,head_cap,present,check,central person wears a pink hijab; the green cap is on someone behind
+det7_export,514,130124490_p0,gloves,absent,ok,bare hands
+det7_export,516,130125571_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,517,130125571_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,518,130125571_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,519,130125571_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,520,130125571_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,521,130125600_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,522,130126286_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,523,130126286_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,526,130127341_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,530,130128488_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,531,130128615_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,532,130128725_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,533,130128725_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,534,130128842_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,535,130128842_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,536,130128842_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,538,130129213_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,517,130125571_p4,mask,present,ok,covering
+det7_export,520,130125571_p7,mask,present,ok,covering
+det7_export,521,130125600_p0,mask,absent,wrong,blue mask on the face but labelled absent
+det7_export,521,130125600_p0,gloves,absent,ok,bare hands
+det7_export,522,130126286_p0,mask,absent,check,"face down, not visible"
+det7_export,523,130126286_p1,mask,absent,check,face not visible
+det7_export,524,130126286_p2,head_cap,absent,ok,bare head
+det7_export,525,130126683_p0,head_cap,absent,ok,bare head
+det7_export,525,130126683_p0,mask,absent,ok,bare face
+det7_export,527,130127688_p1,gloves,absent,ok,bare hands
+det7_export,528,130128301_p1,gloves,absent,ok,bare hands
+det7_export,529,130128301_p3,head_cap,absent,ok,hijab without cap
+det7_export,529,130128301_p3,mask,absent,ok,bare face
+det7_export,532,130128725_p0,gloves,absent,check,dark gloves appear to be worn
+det7_export,533,130128725_p1,gloves,absent,ok,bare hands
+det7_export,537,130129093_p0,gloves,present,ok,gloved
+det7_export,539,130129506_p0,head_cap,absent,ok,bare head
+det7_export,539,130129506_p0,mask,absent,ok,bare face
+det7_export,541,130130215_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,543,130130724_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,548,130132700_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,549,130132700_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,551,130133702_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,552,130134278_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,553,130134309_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,556,130134613_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,557,130134829_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,558,130135539_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,560,130136833_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,561,130137995_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,562,130137995_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,563,130137995_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,540,130130147_p0,head_cap,absent,ok,bare head
+det7_export,541,130130215_p0,gloves,absent,ok,bare hands
+det7_export,542,130130724_p0,head_cap,absent,ok,hijab without cap
+det7_export,542,130130724_p0,mask,absent,ok,bare face
+det7_export,542,130130724_p0,gloves,absent,ok,bare hands
+det7_export,543,130130724_p1,mask,absent,ok,bare face
+det7_export,543,130130724_p1,gloves,absent,ok,bare hands
+det7_export,544,130132525_p0,head_cap,absent,ok,bare head
+det7_export,545,130132565_p1,head_cap,absent,ok,peaked cap = absent
+det7_export,546,130132691_p0,head_cap,absent,ok,hijab without cap
+det7_export,546,130132691_p0,mask,absent,ok,bare face
+det7_export,548,130132700_p0,gloves,present,ok,gloved
+det7_export,549,130132700_p1,gloves,present,ok,gloved
+det7_export,550,130132990_p1,gloves,absent,check,gloves in frame belong to a neighbouring worker
+det7_export,554,130134608_p0,head_cap,absent,ok,hijab without cap
+det7_export,554,130134608_p0,mask,absent,ok,bare face
+det7_export,554,130134608_p0,gloves,absent,ok,bare hands
+det7_export,555,130134608_p1,head_cap,absent,ok,hijab without cap
+det7_export,556,130134613_p1,mask,absent,ok,bare face
+det7_export,558,130135539_p0,mask,absent,ok,bare face
+det7_export,559,130136781_p2,gloves,absent,check,dark gloves appear to be worn
+det7_export,561,130137995_p0,mask,absent,ok,mask at the chin
+det7_export,562,130137995_p1,mask,absent,ok,bare face
+det7_export,562,130137995_p1,gloves,absent,ok,bare hands
+det7_export,564,130137995_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,565,130137995_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,566,130138300_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,567,130138705_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,568,130138855_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,569,130139499_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,570,130139499_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,571,130140571_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,572,130140605_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,580,130142945_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,584,130144814_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,586,130145165_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,587,130145600_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,566,130138300_p1,mask,absent,ok,bare face
+det7_export,566,130138300_p1,gloves,absent,ok,bare hands
+det7_export,568,130138855_p1,mask,absent,ok,bare face
+det7_export,568,130138855_p1,gloves,absent,ok,bare hands
+det7_export,573,130141177_p0,head_cap,absent,ok,bare head
+det7_export,573,130141177_p0,gloves,absent,ok,bare hands
+det7_export,574,130141399_p1,head_cap,absent,ok,peaked cap = absent
+det7_export,575,130141399_p2,head_cap,absent,ok,headscarf without cap
+det7_export,576,130141462_p0,mask,absent,ok,bare face
+det7_export,577,130142703_p1,head_cap,absent,ok,bare head
+det7_export,578,130142703_p2,gloves,absent,ok,bare hands
+det7_export,579,130142945_p1,gloves,absent,ok,bare hands
+det7_export,581,130143334_p1,gloves,absent,ok,bare hands
+det7_export,582,130143334_p3,gloves,absent,ok,bare hands
+det7_export,583,130144405_p0,head_cap,absent,check,"bending person, head not clearly visible"
+det7_export,583,130144405_p0,mask,absent,check,face not visible
+det7_export,584,130144814_p0,gloves,absent,ok,bare hands
+det7_export,585,130144978_p0,gloves,absent,ok,bare hands
+det7_export,588,130146035_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,596,130148275_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,599,130149625_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,600,130149625_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,601,130149625_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,602,130149625_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,607,130151499_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,608,130152360_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,609,130152360_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,611,130153101_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,588,130146035_p0,gloves,absent,ok,bare hands
+det7_export,589,130146469_p0,head_cap,absent,check,a light cap may be worn; crop is 43x184 and blurred
+det7_export,591,130148105_p0,head_cap,absent,ok,bare head
+det7_export,591,130148105_p0,mask,absent,ok,bare face
+det7_export,591,130148105_p0,gloves,absent,ok,bare hands
+det7_export,592,130148105_p1,gloves,absent,ok,bare hands
+det7_export,593,130148178_p0,head_cap,absent,ok,peaked cap = absent
+det7_export,594,130148178_p2,head_cap,absent,ok,bare head
+det7_export,595,130148178_p4,head_cap,absent,ok,bare head
+det7_export,597,130149202_p0,head_cap,absent,ok,bare head
+det7_export,597,130149202_p0,mask,absent,ok,bare face
+det7_export,598,130149342_p0,head_cap,absent,check,blurred dark crop; not assessable
+det7_export,599,130149625_p3,gloves,absent,ok,bare hands
+det7_export,601,130149625_p5,mask,absent,ok,"cloth at the chin, not covering"
+det7_export,603,130150109_p1,head_cap,absent,check,motion-blurred; not assessable
+det7_export,604,130150889_p1,gloves,absent,ok,bare hands
+det7_export,605,130150889_p2,gloves,absent,ok,bare hands
+det7_export,606,130150889_p4,head_cap,absent,ok,hijab without cap
+det7_export,608,130152360_p0,gloves,absent,ok,bare hands
+det7_export,610,130152668_p0,head_cap,absent,ok,bare head
+det7_export,611,130153101_p0,mask,absent,ok,bare face
+det7_export,611,130153101_p0,gloves,absent,ok,bare hands
+det7_export,612,130153101_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,613,130153101_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,614,130153580_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,615,130153580_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,616,130153580_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,618,130154650_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,620,130154650_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,623,130155106_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,624,130155374_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,626,130155728_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,627,130156215_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,628,130156215_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,629,130156215_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,630,130156215_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,631,130156215_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,632,130156538_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,633,130156538_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,634,130156538_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,635,130156538_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,613,130153101_p2,gloves,absent,ok,bare hands
+det7_export,614,130153580_p0,gloves,absent,ok,bare hands
+det7_export,615,130153580_p1,gloves,absent,ok,bare hands
+det7_export,617,130153958_p0,head_cap,absent,ok,bare head
+det7_export,619,130154650_p1,gloves,absent,ok,bare hands
+det7_export,620,130154650_p2,gloves,absent,ok,bare hands
+det7_export,621,130154650_p3,head_cap,absent,ok,bare head
+det7_export,621,130154650_p3,mask,absent,ok,bare face
+det7_export,625,130155554_p0,head_cap,absent,ok,bare head
+det7_export,627,130156215_p0,mask,present,ok,covering
+det7_export,627,130156215_p0,gloves,absent,wrong,yellow gloves on both hands but labelled absent
+det7_export,628,130156215_p1,mask,present,ok,covering
+det7_export,629,130156215_p2,mask,absent,ok,bare face
+det7_export,629,130156215_p2,gloves,absent,ok,bare hands
+det7_export,630,130156215_p3,mask,present,ok,covering
+det7_export,630,130156215_p3,gloves,absent,check,something yellow in the hands may be a glove
+det7_export,631,130156215_p4,gloves,absent,ok,bare hands
+det7_export,632,130156538_p2,gloves,absent,check,blue gloves appear to be worn
+det7_export,633,130156538_p3,gloves,present,ok,gloved
+det7_export,634,130156538_p4,mask,absent,ok,bare face
+det7_export,634,130156538_p4,gloves,present,ok,gloved
+det7_export,636,130156538_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,638,130157998_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,639,130157998_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,640,130158042_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,641,130158042_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,642,130158042_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,644,130158042_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,648,130159013_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,649,130159013_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,650,130159115_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,651,130159248_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,653,130159248_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,655,130159248_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,656,130159248_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,637,130156615_p1,head_cap,absent,ok,bare head
+det7_export,638,130157998_p0,gloves,absent,check,something yellow in the hands may be a glove
+det7_export,639,130157998_p2,gloves,absent,ok,bare hands
+det7_export,641,130158042_p1,gloves,present,ok,gloved
+det7_export,643,130158042_p4,gloves,present,ok,gloved
+det7_export,645,130158120_p0,head_cap,absent,ok,bare head
+det7_export,646,130158269_p0,gloves,absent,ok,bare hands
+det7_export,647,130159004_p0,gloves,absent,ok,bare hands
+det7_export,648,130159013_p3,mask,absent,ok,mask at the chin
+det7_export,650,130159115_p1,mask,present,ok,covering
+det7_export,650,130159115_p1,gloves,absent,wrong,yellow gloves on both hands but labelled absent
+det7_export,652,130159248_p2,gloves,present,ok,gloved
+det7_export,653,130159248_p3,gloves,present,ok,gloved
+det7_export,657,130159500_p0,head_cap,present,check,blue knitted beanie labelled present here but absent at #373 - rule inconsistency
+det7_export,657,130159500_p0,gloves,absent,ok,bare hands
+det7_export,658,130159745_p1,gloves,absent,ok,bare hands
+det7_export,659,130159745_p3,head_cap,absent,ok,hijab without cap
+det7_export,659,130159745_p3,mask,absent,ok,bare face
+det7_export,661,130160342_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,662,130160342_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,663,130160342_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,664,130160342_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,665,130160564_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,666,130160564_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,667,130160564_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,668,130160564_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,669,130160564_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,670,130160673_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,671,130161544_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,672,130162312_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,673,130162312_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,674,130162752_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,675,130162824_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,676,130162824_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,677,130162824_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,680,130163122_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,660,130159745_p4,head_cap,absent,ok,hijab without cap
+det7_export,660,130159745_p4,mask,absent,ok,bare face
+det7_export,661,130160342_p1,mask,absent,ok,bare face
+det7_export,667,130160564_p3,mask,absent,wrong,blue mask on the face but labelled absent
+det7_export,670,130160673_p0,gloves,absent,ok,bare hands
+det7_export,674,130162752_p0,gloves,absent,ok,bare hands
+det7_export,676,130162824_p1,mask,absent,ok,bare face
+det7_export,676,130162824_p1,gloves,absent,ok,bare hands
+det7_export,677,130162824_p2,gloves,absent,ok,bare hands
+det7_export,678,130163122_p0,head_cap,absent,wrong,white hairnet worn over the hijab but labelled absent
+det7_export,678,130163122_p0,mask,absent,ok,bare face
+det7_export,678,130163122_p0,gloves,present,ok,gloved
+det7_export,679,130163122_p1,gloves,present,ok,gloved
+det7_export,681,130163215_p0,head_cap,absent,ok,bare head
+det7_export,681,130163215_p0,gloves,absent,ok,bare hands
+det7_export,682,130163215_p1,gloves,absent,ok,bare hands
+det7_export,683,130163366_p0,head_cap,absent,ok,bare head
+det7_export,684,130163471_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,685,130163602_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,687,130164695_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,689,130164695_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,690,130164695_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,691,130164787_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,692,130164787_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,694,130165886_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,695,130165886_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,696,130165886_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,697,130165886_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,698,130166029_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,700,130166029_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,701,130166095_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,702,130166415_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,703,130166415_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,704,130166415_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,684,130163471_p2,mask,absent,ok,bare face
+det7_export,684,130163471_p2,gloves,present,ok,gloved
+det7_export,686,130163787_p0,head_cap,absent,ok,bare head
+det7_export,687,130164695_p0,mask,absent,ok,mask at the chin
+det7_export,687,130164695_p0,gloves,present,ok,yellow gloves
+det7_export,688,130164695_p1,gloves,absent,ok,bare hands
+det7_export,689,130164695_p4,mask,present,ok,covering
+det7_export,690,130164695_p5,mask,present,ok,covering
+det7_export,690,130164695_p5,gloves,absent,ok,bare hands
+det7_export,691,130164787_p0,gloves,absent,ok,bare hands
+det7_export,692,130164787_p2,gloves,absent,ok,bare hands
+det7_export,693,130165273_p0,gloves,present,ok,gloved
+det7_export,695,130165886_p1,mask,absent,ok,bare face
+det7_export,697,130165886_p6,mask,absent,ok,bare face
+det7_export,699,130166029_p1,gloves,present,ok,gloved
+det7_export,705,130166632_p0,mask,absent,check,face only partly visible
+det7_export,705,130166632_p0,gloves,absent,ok,bare hands
+det7_export,706,130166632_p1,head_cap,absent,wrong,white hairnet clearly worn but labelled absent
+det7_export,706,130166632_p1,mask,absent,ok,bare face
+det7_export,706,130166632_p1,gloves,absent,ok,bare hands
+det7_export,707,130166632_p2,head_cap,absent,ok,bare head
+det7_export,707,130166632_p2,mask,absent,ok,bare face
+det7_export,707,130166632_p2,gloves,absent,ok,bare hands
+det7_export,708,130166632_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,712,130168015_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,713,130168015_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,714,130168404_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,717,130170363_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,719,130171180_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,720,130171180_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,721,130171180_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,722,130171465_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,723,130171465_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,724,130171657_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,726,130171864_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,727,130171864_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,728,130171864_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,708,130166632_p3,gloves,present,ok,yellow gloves
+det7_export,709,130167605_p0,gloves,present,ok,gloved
+det7_export,710,130167605_p4,head_cap,absent,wrong,white hairnet worn over the hijab but labelled absent
+det7_export,710,130167605_p4,mask,absent,ok,bare face
+det7_export,710,130167605_p4,gloves,present,ok,gloved
+det7_export,711,130167719_p0,gloves,absent,ok,bare hands
+det7_export,715,130168483_p2,gloves,absent,ok,bare hands
+det7_export,716,130170363_p0,mask,absent,ok,bare face
+det7_export,717,130170363_p1,mask,absent,ok,bare face
+det7_export,718,130171180_p0,gloves,present,ok,gloved
+det7_export,719,130171180_p2,gloves,absent,ok,bare hands
+det7_export,721,130171180_p6,gloves,present,ok,gloved
+det7_export,723,130171465_p2,gloves,present,ok,gloved
+det7_export,725,130171657_p2,gloves,present,ok,gloved
+det7_export,729,130172079_p2,gloves,absent,ok,bare hands
+det7_export,730,130172188_p0,head_cap,absent,ok,bare head
+det7_export,730,130172188_p0,mask,absent,ok,bare face
+det7_export,730,130172188_p0,gloves,absent,ok,bare hands
+det7_export,731,130172188_p1,gloves,present,ok,blue gloves
+det7_export,734,130173101_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,737,130174199_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,738,130174199_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,740,130174199_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,742,130174523_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,743,130174523_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,745,130175004_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,747,130175219_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,748,130175219_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,749,130175219_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,750,130175219_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,751,130175337_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,753,130175929_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,754,130175929_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,755,130176955_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,732,130172613_p0,head_cap,absent,check,dark navy cap labelled absent - navy beret-style caps count as present under the agreed rule
+det7_export,735,130173212_p0,head_cap,absent,check,dark navy cap labelled absent - navy beret-style caps count as present under the agreed rule
+det7_export,736,130173545_p1,head_cap,absent,check,dark navy cap labelled absent - navy beret-style caps count as present under the agreed rule
+det7_export,741,130174213_p1,head_cap,absent,check,dark navy cap labelled absent - navy beret-style caps count as present under the agreed rule
+det7_export,733,130172821_p0,mask,absent,ok,mask at the chin
+det7_export,734,130173101_p1,mask,absent,ok,bare face
+det7_export,739,130174199_p3,head_cap,absent,ok,patterned headscarf without cap
+det7_export,739,130174199_p3,mask,absent,ok,bare face
+det7_export,743,130174523_p1,mask,absent,ok,bare face
+det7_export,744,130174871_p0,gloves,present,ok,blue gloves
+det7_export,746,130175110_p0,head_cap,absent,ok,peaked cap = absent
+det7_export,746,130175110_p0,mask,absent,ok,bare face
+det7_export,748,130175219_p4,gloves,present,ok,gloved
+det7_export,750,130175219_p7,gloves,present,ok,gloved
+det7_export,752,130175630_p0,gloves,absent,ok,bare hands
+det7_export,754,130175929_p1,mask,present,ok,covering
+det7_export,755,130176955_p0,mask,absent,ok,bare face
+det7_export,757,130178671_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,758,130178671_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,759,130178703_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,760,130178783_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,761,130178783_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,762,130178783_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,764,130179069_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,765,130179416_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,766,130180580_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,767,130181051_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,768,130181051_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,769,130181343_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,770,130181343_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,771,130181343_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,772,130182474_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,774,130182474_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,776,130183615_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,777,130183615_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,778,130183615_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,779,130183717_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,756,130177126_p3,gloves,present,ok,gloved
+det7_export,763,130178920_p1,head_cap,absent,check,censored/pixelated crop; not assessable
+det7_export,764,130179069_p1,mask,absent,ok,mask at the chin
+det7_export,765,130179416_p0,mask,absent,ok,mask at the chin
+det7_export,766,130180580_p0,gloves,present,ok,gloved
+det7_export,767,130181051_p1,gloves,absent,ok,bare hands
+det7_export,768,130181051_p2,gloves,present,ok,gloved
+det7_export,769,130181343_p0,gloves,present,ok,gloved
+det7_export,770,130181343_p1,gloves,present,ok,gloved
+det7_export,771,130181343_p2,gloves,present,ok,gloved
+det7_export,772,130182474_p1,gloves,present,ok,gloved
+det7_export,773,130182474_p2,head_cap,absent,ok,bare head
+det7_export,773,130182474_p2,gloves,absent,ok,bare hands
+det7_export,774,130182474_p3,gloves,present,ok,gloved
+det7_export,775,130182474_p4,gloves,present,ok,gloved
+det7_export,776,130183615_p1,gloves,present,ok,gloved
+det7_export,779,130183717_p0,gloves,present,ok,gloved
+det7_export,780,130185000_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,781,130185000_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,783,130185109_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,784,130185109_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,785,130185109_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,786,130185109_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,787,130185109_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,788,130185109_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,790,130186299_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,791,130186299_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,793,130186661_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,796,130187489_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,798,130187489_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,799,130187489_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,800,130187489_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,802,130188224_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,803,130188224_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,780,130185000_p2,gloves,absent,ok,bare hands
+det7_export,781,130185000_p3,mask,absent,ok,mask at the chin
+det7_export,781,130185000_p3,gloves,absent,ok,bare hands
+det7_export,782,130185073_p0,head_cap,absent,ok,bare head
+det7_export,783,130185109_p0,gloves,absent,check,white gloves appear to be worn
+det7_export,785,130185109_p3,mask,absent,ok,bare face
+det7_export,788,130185109_p7,mask,absent,ok,bare face
+det7_export,789,130185746_p1,head_cap,absent,wrong,a light hairnet appears to be worn but labelled absent
+det7_export,790,130186299_p1,mask,present,ok,covering
+det7_export,790,130186299_p1,gloves,present,ok,gloved
+det7_export,791,130186299_p2,gloves,present,ok,gloved
+det7_export,792,130186661_p0,mask,absent,ok,bare face
+det7_export,793,130186661_p1,mask,absent,ok,bare face
+det7_export,794,130186731_p0,head_cap,absent,ok,red knitted cap = absent per rule
+det7_export,794,130186731_p0,mask,absent,ok,mask at the chin
+det7_export,795,130186950_p0,head_cap,absent,ok,bare head
+det7_export,795,130186950_p0,mask,absent,ok,bare face
+det7_export,795,130186950_p0,gloves,absent,ok,bare hands
+det7_export,796,130187489_p0,gloves,present,ok,gloved
+det7_export,797,130187489_p1,head_cap,absent,ok,hijab without cap
+det7_export,797,130187489_p1,gloves,present,ok,gloved
+det7_export,799,130187489_p3,mask,absent,ok,mask at the chin
+det7_export,800,130187489_p5,mask,absent,ok,mask at the chin
+det7_export,801,130187489_p7,gloves,present,ok,gloved
+det7_export,804,130189345_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,806,130190071_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,807,130190221_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,808,130190221_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,809,130190221_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,810,130190221_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,811,130190221_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,812,130190221_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,813,130190475_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,814,130190475_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,815,130190475_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,816,130190475_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,817,130190475_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,818,130190482_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,819,130192107_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,820,130192107_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,821,130192226_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,822,130192576_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,823,130192822_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,824,130192822_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,825,130192822_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,826,130192822_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,805,130189611_p0,head_cap,absent,ok,bare head
+det7_export,806,130190071_p0,mask,absent,ok,bare face
+det7_export,807,130190221_p0,gloves,absent,ok,bare hands
+det7_export,809,130190221_p2,mask,present,ok,covering
+det7_export,811,130190221_p5,mask,present,ok,covering
+det7_export,813,130190475_p1,mask,present,ok,covering
+det7_export,813,130190475_p1,gloves,present,ok,gloved
+det7_export,814,130190475_p2,gloves,present,ok,gloved
+det7_export,817,130190475_p5,mask,present,ok,covering
+det7_export,819,130192107_p0,mask,absent,ok,mask at the chin
+det7_export,821,130192226_p3,mask,present,ok,covering
+det7_export,821,130192226_p3,gloves,present,ok,gloved
+det7_export,822,130192576_p0,mask,absent,ok,mask at the chin
+det7_export,823,130192822_p0,mask,present,ok,covering
+det7_export,823,130192822_p0,gloves,present,ok,gloved
+det7_export,827,130192832_p0,gloves,present,ok,gloved
+det7_export,828,130192832_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,829,130192832_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,831,130193201_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,832,130193201_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,833,130193201_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,835,130193201_p8,head_cap,present,ok,bouffant/hairnet
+det7_export,838,130194962_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,841,130195910_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,843,130195910_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,844,130195910_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,845,130195910_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,847,130197095_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,848,130197095_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,849,130197095_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,850,130197095_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,829,130192832_p3,gloves,present,ok,gloved
+det7_export,830,130193201_p2,mask,absent,ok,bare face
+det7_export,830,130193201_p2,gloves,absent,check,white gloves appear to be worn
+det7_export,831,130193201_p3,mask,absent,ok,bare face
+det7_export,832,130193201_p5,mask,absent,ok,bare face
+det7_export,832,130193201_p5,gloves,absent,check,gloves in frame belong to the woman beside the subject
+det7_export,833,130193201_p6,gloves,present,ok,gloved
+det7_export,834,130193201_p7,head_cap,absent,ok,bare head
+det7_export,834,130193201_p7,gloves,present,ok,gloved
+det7_export,835,130193201_p8,gloves,present,ok,gloved
+det7_export,836,130193624_p0,head_cap,absent,ok,hijab without cap
+det7_export,837,130194036_p0,mask,absent,ok,bare face
+det7_export,839,130195360_p0,head_cap,absent,ok,bare head
+det7_export,840,130195521_p0,head_cap,absent,ok,peaked cap = absent
+det7_export,841,130195910_p0,mask,absent,ok,bare face
+det7_export,841,130195910_p0,gloves,present,ok,gloved
+det7_export,842,130195910_p1,head_cap,absent,ok,hijab without cap
+det7_export,842,130195910_p1,mask,absent,ok,bare face
+det7_export,842,130195910_p1,gloves,absent,wrong,white gloves on both hands but labelled absent
+det7_export,843,130195910_p2,mask,absent,ok,bare face
+det7_export,844,130195910_p3,gloves,absent,ok,bare hands
+det7_export,846,130197037_p0,mask,absent,ok,bare face
+det7_export,849,130197095_p3,gloves,present,ok,gloved
+det7_export,850,130197095_p5,mask,present,ok,covering
+det7_export,850,130197095_p5,gloves,present,ok,gloved
+det7_export,851,130197095_p6,gloves,present,ok,gloved
+det7_export,852,130197095_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,853,130197329_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,854,130197359_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,855,130197359_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,856,130197359_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,858,130198089_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,859,130198089_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,860,130198632_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,861,130199609_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,863,130200375_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,864,130200375_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,866,130201299_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,867,130201299_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,868,130202125_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,869,130202342_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,871,130202970_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,872,130202970_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,874,130203620_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,875,130203897_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,852,130197095_p7,gloves,present,ok,gloved
+det7_export,854,130197359_p1,mask,present,ok,covering
+det7_export,857,130198089_p0,head_cap,absent,ok,hijab without cap
+det7_export,857,130198089_p0,gloves,present,ok,gloved
+det7_export,862,130200133_p0,head_cap,absent,ok,bare head
+det7_export,865,130200394_p0,head_cap,absent,ok,bare head
+det7_export,870,130202417_p2,head_cap,absent,check,"bending person, head not visible in the crop"
+det7_export,871,130202970_p0,gloves,present,ok,gloved
+det7_export,872,130202970_p1,mask,absent,ok,bare face
+det7_export,872,130202970_p1,gloves,present,ok,gloved
+det7_export,873,130203620_p0,head_cap,present,check,heavily blurred; the cap is at the edge of the crop
+det7_export,877,130205452_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,879,130206460_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,880,130206460_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,881,130208297_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,882,130208297_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,884,130208297_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,885,130208297_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,886,130208297_p8,head_cap,present,ok,bouffant/hairnet
+det7_export,887,130208297_p9,head_cap,present,ok,bouffant/hairnet
+det7_export,888,130210825_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,889,130211417_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,890,130211417_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,891,130211417_p11,head_cap,present,ok,bouffant/hairnet
+det7_export,892,130211417_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,893,130211417_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,895,130211417_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,896,130211417_p9,head_cap,present,ok,bouffant/hairnet
+det7_export,897,130212433_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,898,130213184_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,899,130213184_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,876,130205452_p1,gloves,absent,ok,bare hands
+det7_export,877,130205452_p3,mask,absent,ok,bare face
+det7_export,878,130206150_p0,head_cap,absent,ok,bare head
+det7_export,878,130206150_p0,mask,absent,ok,bare face
+det7_export,884,130208297_p6,mask,absent,ok,mask at the chin
+det7_export,885,130208297_p7,mask,absent,ok,mask at the chin
+det7_export,889,130211417_p0,gloves,present,ok,gloved
+det7_export,897,130212433_p1,gloves,present,ok,gloved
+det7_export,900,130213184_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,901,130214630_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,902,130214963_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,903,130214963_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,904,130214963_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,905,130214963_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,906,130214963_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,907,130216136_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,909,130218656_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,910,130219363_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,911,130220154_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,912,130220154_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,913,130223417_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,914,130223417_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,915,130224265_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,916,130224265_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,917,130224265_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,918,130224265_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,919,130224265_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,921,129978496_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,905,130214963_p4,gloves,present,ok,gloved
+det7_export,908,130218539_p0,head_cap,absent,ok,bare head
+det7_export,909,130218656_p0,mask,absent,check,a mask appears to be on the face
+det7_export,909,130218656_p0,gloves,absent,check,blue gloves appear to be worn
+det7_export,911,130220154_p0,gloves,absent,ok,bare hands
+det7_export,913,130223417_p0,gloves,present,ok,gloved
+det7_export,914,130223417_p1,gloves,present,ok,gloved
+det7_export,916,130224265_p2,gloves,present,ok,gloved
+det7_export,918,130224265_p5,gloves,present,ok,gloved
+det7_export,920,130225808_p0,head_cap,absent,ok,bare head
+det7_export,920,130225808_p0,gloves,absent,ok,bare hands
+det7_export,922,129978703_p1,mask,absent,ok,bare face
+det7_export,923,129978703_p2,mask,absent,ok,bare face
+det7_export,924,129979002_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,927,129979003_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,928,129979233_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,929,129979885_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,930,129979885_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,931,129979885_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,932,129987886_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,933,129987886_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,934,129987886_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,936,129989682_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,938,129989964_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,940,129989964_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,944,129993760_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,945,129993760_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,946,129993760_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,947,129994373_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,924,129979002_p0,gloves,absent,ok,bare hands
+det7_export,925,129979002_p2,gloves,absent,ok,bare hands
+det7_export,926,129979003_p2,gloves,absent,ok,bare hands
+det7_export,927,129979003_p3,mask,absent,ok,mask at the chin
+det7_export,929,129979885_p0,gloves,absent,wrong,blue gloves on both hands but labelled absent
+det7_export,935,129989303_p0,head_cap,absent,ok,bare head
+det7_export,935,129989303_p0,gloves,absent,ok,bare hands
+det7_export,937,129989682_p5,head_cap,absent,check,dark head covering; cap vs bare not resolvable
+det7_export,938,129989964_p0,gloves,absent,wrong,black gloves on both hands but labelled absent
+det7_export,940,129989964_p4,mask,absent,ok,bare face
+det7_export,941,129989964_p5,head_cap,present,check,central person wears a peaked cap (absent); the green cap is another person's
+det7_export,942,129990717_p1,head_cap,absent,ok,bare head
+det7_export,942,129990717_p1,mask,absent,ok,bare face
+det7_export,942,129990717_p1,gloves,absent,ok,bare hands
+det7_export,943,129990717_p3,gloves,absent,ok,bare hands
+det7_export,948,129995419_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,949,130000354_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,950,130000354_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,952,130001414_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,953,130001891_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,956,130008297_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,957,130008297_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,958,130008297_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,959,130017309_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,960,130017678_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,961,130020069_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,962,130020069_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,963,130020069_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,964,130020505_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,965,130025840_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,966,130028662_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,967,130028662_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,969,130030809_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,970,130031830_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,971,130031830_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,949,130000354_p1,gloves,present,ok,gloved
+det7_export,951,130001414_p0,head_cap,absent,ok,hijab without cap
+det7_export,951,130001414_p0,mask,absent,ok,bare face
+det7_export,951,130001414_p0,gloves,present,ok,gloved
+det7_export,954,130001917_p0,head_cap,absent,check,a light hairnet may be worn; labelled absent
+det7_export,955,130001917_p4,head_cap,absent,ok,bare head
+det7_export,955,130001917_p4,mask,absent,ok,bare face
+det7_export,956,130008297_p1,gloves,present,ok,gloved
+det7_export,965,130025840_p0,gloves,present,ok,gloved
+det7_export,968,130030532_p0,gloves,present,ok,gloved
+det7_export,972,130031830_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,974,130035781_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,975,130035781_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,976,130035781_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,977,130037341_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,978,130038472_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,979,130038472_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,980,130038472_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,982,130042454_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,983,130042454_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,984,130042454_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,985,130042454_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,986,130042454_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,987,130047593_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,988,130050169_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,989,130050316_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,990,130050316_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,991,130050316_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,992,130050316_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,993,130050798_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,994,130050798_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,995,130050798_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,973,130033673_p1,head_cap,absent,ok,hijab without cap
+det7_export,973,130033673_p1,gloves,absent,ok,bare hands
+det7_export,974,130035781_p0,mask,present,ok,covering
+det7_export,974,130035781_p0,gloves,absent,ok,bare hands
+det7_export,981,130039816_p2,head_cap,absent,ok,bare head
+det7_export,993,130050798_p1,mask,present,ok,covering
+det7_export,995,130050798_p6,gloves,absent,ok,bare hands
+det7_export,996,130050798_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,999,130055236_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1000,130055634_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1001,130055634_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1003,130058002_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1004,130058142_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1005,130058142_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1006,130060935_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1008,130061771_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1009,130062380_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1010,130062891_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1011,130062891_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,1012,130067792_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1013,130067792_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1014,130069241_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1015,130069241_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1016,130069241_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1017,130069769_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1018,130071377_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1019,130072963_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,996,130050798_p7,mask,present,ok,covering
+det7_export,997,130051345_p1,head_cap,absent,ok,bare head
+det7_export,998,130051345_p2,head_cap,absent,ok,bare head
+det7_export,998,130051345_p2,gloves,absent,ok,"glove in the pocket, hands bare"
+det7_export,1002,130055634_p5,mask,absent,ok,bare face
+det7_export,1007,130060935_p1,gloves,absent,wrong,blue gloves on both hands but labelled absent
+det7_export,1014,130069241_p0,gloves,absent,ok,bare hands
+det7_export,1015,130069241_p1,gloves,absent,ok,bare hands
+det7_export,1020,130073776_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1023,130077774_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1024,130078852_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1026,130080979_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1027,130084857_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1028,130084857_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1029,130087821_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1030,130088382_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1031,130088382_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1032,130088598_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1035,130090933_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1036,130093388_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1037,130093388_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1038,130093388_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1039,130093510_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1040,130093510_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1041,130093510_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1042,130093510_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1043,130096649_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1021,130074975_p1,gloves,present,ok,dark gloves
+det7_export,1022,130074975_p3,head_cap,absent,wrong,white hairnet visible but labelled absent
+det7_export,1025,130079713_p2,gloves,absent,ok,bare hands
+det7_export,1026,130080979_p1,mask,absent,ok,mask at the chin
+det7_export,1031,130088382_p1,mask,absent,ok,bare face
+det7_export,1031,130088382_p1,gloves,present,ok,gloved
+det7_export,1033,130088652_p0,head_cap,absent,ok,hijab without cap
+det7_export,1033,130088652_p0,mask,absent,wrong,a mask is on the face but labelled absent
+det7_export,1034,130090933_p0,head_cap,absent,check,a green cap may be worn; labelled absent
+det7_export,1034,130090933_p0,gloves,absent,ok,bare hands
+det7_export,1037,130093388_p2,mask,present,ok,covering
+det7_export,1039,130093510_p0,gloves,present,ok,gloved
+det7_export,1040,130093510_p1,gloves,absent,ok,bare hands
+det7_export,1041,130093510_p2,gloves,absent,ok,bare hands
+det7_export,1043,130096649_p1,mask,absent,ok,bare face
+det7_export,1043,130096649_p1,gloves,present,ok,gloved
+det7_export,1044,130096689_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1048,130100054_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1049,130100054_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1050,130100054_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1051,130101114_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1052,130101114_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1053,130102390_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1054,130103850_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1055,130103850_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1056,130104651_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1059,130108811_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1060,130110661_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1061,130110661_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1062,130110661_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1063,130110661_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1064,130110661_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1065,130111292_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1066,130111292_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1067,130111292_p4,head_cap,present,ok,bouffant/hairnet
+det7_export,1044,130096689_p1,mask,absent,ok,mask at the chin
+det7_export,1045,130098880_p0,gloves,absent,ok,bare hands
+det7_export,1046,130098880_p1,gloves,absent,ok,bare hands
+det7_export,1047,130099521_p0,head_cap,absent,check,"bending person, head not visible in the crop"
+det7_export,1049,130100054_p3,mask,present,ok,covering
+det7_export,1055,130103850_p2,mask,absent,ok,bare face
+det7_export,1056,130104651_p1,mask,absent,ok,bare face
+det7_export,1057,130105770_p0,head_cap,absent,check,"dark head covering, cap vs bare not resolvable"
+det7_export,1058,130106105_p0,gloves,absent,ok,bare hands
+det7_export,1068,130115256_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1069,130115256_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1070,130115256_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1071,130115256_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1072,130115256_p6,head_cap,present,ok,bouffant/hairnet
+det7_export,1073,130115256_p7,head_cap,present,ok,bouffant/hairnet
+det7_export,1074,130115985_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1075,130115985_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1076,130117279_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1077,130120215_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1078,130120289_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1080,130121348_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1082,130124170_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1083,130124287_p1,head_cap,present,ok,bouffant/hairnet
+det7_export,1084,130124287_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1085,130124287_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1086,130125768_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1087,130125768_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1088,130128898_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1089,130134301_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1090,130136564_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1092,130139074_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1093,130139074_p3,head_cap,present,ok,bouffant/hairnet
+det7_export,1094,130139074_p5,head_cap,present,ok,bouffant/hairnet
+det7_export,1095,130140013_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1096,130141312_p2,head_cap,present,ok,bouffant/hairnet
+det7_export,1097,130158769_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1098,130186186_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1099,130188090_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1100,130195974_p0,head_cap,present,ok,bouffant/hairnet
+det7_export,1079,130121348_p0,head_cap,present,check,central person in a hijab; the teal cap belongs to the person below
+det7_export,1081,130123743_p0,head_cap,absent,ok,bare head/hood
+det7_export,1081,130123743_p0,mask,absent,ok,bare face
+det7_export,1086,130125768_p2,gloves,absent,ok,bare hands
+det7_export,1088,130128898_p0,mask,absent,ok,bare face
+det7_export,1088,130128898_p0,gloves,absent,ok,bare hands
+det7_export,1090,130136564_p0,gloves,absent,ok,bare hands
+det7_export,1091,130138722_p0,head_cap,absent,ok,bare head
+det7_export,1091,130138722_p0,gloves,absent,ok,bare hands
+det7_export,1096,130141312_p2,gloves,absent,ok,bare hands
+det7_export,1097,130158769_p0,mask,absent,check,a white mask appears to be on the face
+det7_export,1099,130188090_p0,mask,absent,ok,bare face
+det7_export,1099,130188090_p0,gloves,absent,ok,bare hands
+det7_export,1100,130195974_p0,gloves,present,ok,gloved
+det7_site,0,0071a967-frame_000323_p0,head_cap,present,ok,white hairnet
+det7_site,0,0071a967-frame_000323_p0,gloves,absent,ok,bare hands
+det7_site,1,00ab6557-frame_000082_p0,head_cap,absent,check,"blurred crop, head not identifiable"
+det7_site,2,00ab6557-frame_000082_p1,head_cap,present,ok,green cap
+det7_site,2,00ab6557-frame_000082_p1,mask,present,ok,covering
+det7_site,2,00ab6557-frame_000082_p1,gloves,present,ok,gloved
+det7_site,3,00ab6557-frame_000082_p10,head_cap,present,ok,green cap
+det7_site,4,00ab6557-frame_000082_p11,head_cap,present,ok,green cap
+det7_site,5,00ab6557-frame_000082_p2,head_cap,present,ok,green cap
+det7_site,5,00ab6557-frame_000082_p2,mask,present,ok,covering
+det7_site,5,00ab6557-frame_000082_p2,gloves,present,ok,gloved
+det7_site,6,00ab6557-frame_000082_p3,head_cap,present,ok,green cap
+det7_site,6,00ab6557-frame_000082_p3,mask,present,ok,covering
+det7_site,6,00ab6557-frame_000082_p3,gloves,present,ok,gloved
+det7_site,7,00ab6557-frame_000082_p4,head_cap,present,ok,green cap
+det7_site,7,00ab6557-frame_000082_p4,mask,present,ok,covering
+det7_site,7,00ab6557-frame_000082_p4,gloves,present,ok,gloved
+det7_site,8,00ab6557-frame_000082_p5,head_cap,present,ok,green cap
+det7_site,8,00ab6557-frame_000082_p5,mask,absent,ok,mask at the chin
+det7_site,9,00ab6557-frame_000082_p6,head_cap,present,ok,green cap
+det7_site,9,00ab6557-frame_000082_p6,gloves,present,ok,gloved
+det7_site,10,00ab6557-frame_000082_p7,head_cap,present,ok,green cap
+det7_site,10,00ab6557-frame_000082_p7,gloves,present,ok,gloved
+det7_site,11,00ab6557-frame_000082_p8,head_cap,present,ok,green cap
+det7_site,11,00ab6557-frame_000082_p8,mask,absent,ok,mask at the chin
+det7_site,12,00ab6557-frame_000082_p9,head_cap,present,ok,green cap
+det7_site,12,00ab6557-frame_000082_p9,gloves,present,ok,gloved
+det7_site,13,01434719-frame_000022_p0,head_cap,absent,ok,bare head
+det7_site,13,01434719-frame_000022_p0,mask,absent,ok,bare face
+det7_site,13,01434719-frame_000022_p0,gloves,absent,ok,bare hands
+det7_site,14,018a5890-frame_000457_p0,head_cap,present,ok,green cap
+det7_site,14,018a5890-frame_000457_p0,mask,present,ok,covering
+det7_site,14,018a5890-frame_000457_p0,gloves,present,ok,gloved
+det7_site,15,02245ac6-frame_000092_p0,head_cap,absent,check,"subject at the edge of the crop, head not visible"
+det7_site,15,02245ac6-frame_000092_p0,gloves,present,check,hands not clearly attributable to the subject
+det7_site,16,02245ac6-frame_000092_p1,head_cap,absent,ok,peaked cap = absent
+det7_site,16,02245ac6-frame_000092_p1,mask,absent,ok,bare face
+det7_site,16,02245ac6-frame_000092_p1,gloves,absent,ok,bare hands
+det7_site,17,02245ac6-frame_000092_p2,head_cap,absent,ok,bare head
+det7_site,17,02245ac6-frame_000092_p2,mask,absent,ok,bare face
+det7_site,17,02245ac6-frame_000092_p2,gloves,absent,ok,bare hands
+det7_site,18,02245ac6-frame_000092_p3,head_cap,absent,ok,dark hijab without cap
+det7_site,18,02245ac6-frame_000092_p3,gloves,absent,ok,bare hands
+det7_site,19,036bc7e3-frame_000240_p0,head_cap,present,ok,white hairnet
+det7_site,19,036bc7e3-frame_000240_p0,mask,absent,ok,mask at the chin
+det7_site,19,036bc7e3-frame_000240_p0,gloves,absent,ok,bare hands
+det7_site,20,036bc7e3-frame_000240_p1,head_cap,absent,ok,bare head
+det7_site,20,036bc7e3-frame_000240_p1,gloves,absent,ok,bare hands
+det7_site,21,036bc7e3-frame_000240_p2,head_cap,absent,ok,hijab without cap
+det7_site,22,0388e54e-frame_000657_p0,head_cap,present,ok,green cap
+det7_site,22,0388e54e-frame_000657_p0,mask,present,ok,covering
+det7_site,23,03fc74ea-frame_000018_p0,head_cap,present,ok,green cap
+det7_site,23,03fc74ea-frame_000018_p0,mask,present,ok,covering
+det7_site,23,03fc74ea-frame_000018_p0,gloves,absent,ok,bare hands
+det7_site,24,03fc74ea-frame_000018_p1,head_cap,present,ok,green cap over hijab
+det7_site,24,03fc74ea-frame_000018_p1,mask,absent,ok,mask at the chin
+det7_site,24,03fc74ea-frame_000018_p1,gloves,present,ok,gloved
+det7_site,25,03fc74ea-frame_000018_p2,head_cap,absent,ok,bare head
+det7_site,25,03fc74ea-frame_000018_p2,mask,absent,ok,bare face
+det7_site,25,03fc74ea-frame_000018_p2,gloves,present,ok,white glove
+det7_site,26,04883c94-frame_000474_p0,head_cap,absent,ok,bare head
+det7_site,26,04883c94-frame_000474_p0,mask,absent,ok,bare face
+det7_site,26,04883c94-frame_000474_p0,gloves,absent,ok,bare hands
+det7_site,27,04883c94-frame_000474_p1,head_cap,absent,ok,bare head
+det7_site,27,04883c94-frame_000474_p1,mask,absent,ok,bare face
+det7_site,27,04883c94-frame_000474_p1,gloves,present,ok,gloved
+det7_site,28,04883c94-frame_000474_p2,head_cap,absent,ok,hijab without cap
+det7_site,28,04883c94-frame_000474_p2,mask,absent,ok,bare face
+det7_site,28,04883c94-frame_000474_p2,gloves,present,ok,gloved
+det7_site,29,04883c94-frame_000474_p3,head_cap,absent,ok,bare head
+det7_site,29,04883c94-frame_000474_p3,mask,absent,ok,bare face
+det7_site,29,04883c94-frame_000474_p3,gloves,present,ok,gloved
+det7_site,30,04cdc8ea-frame_000058_p0,head_cap,absent,ok,hijab without cap
+det7_site,30,04cdc8ea-frame_000058_p0,mask,present,ok,covering
+det7_site,30,04cdc8ea-frame_000058_p0,gloves,absent,ok,bare hands
+det7_site,31,09dfaa99-frame_000039_p0,head_cap,absent,ok,bare head
+det7_site,31,09dfaa99-frame_000039_p0,mask,absent,ok,bare face
+det7_site,31,09dfaa99-frame_000039_p0,gloves,absent,ok,bare hands
+det7_site,32,09dfaa99-frame_000039_p1,head_cap,absent,ok,hijab without cap
+det7_site,32,09dfaa99-frame_000039_p1,mask,absent,ok,mask at the chin
+det7_site,32,09dfaa99-frame_000039_p1,gloves,absent,ok,bare hands
+det7_site,33,0b9b33e7-frame_000011_p0,head_cap,present,ok,green cap
+det7_site,33,0b9b33e7-frame_000011_p0,mask,absent,ok,mask at the chin
+det7_site,33,0b9b33e7-frame_000011_p0,gloves,present,ok,gloved
+det7_site,34,0b9b33e7-frame_000011_p1,head_cap,present,ok,green cap
+det7_site,34,0b9b33e7-frame_000011_p1,mask,present,ok,covering
+det7_site,34,0b9b33e7-frame_000011_p1,gloves,absent,ok,bare hands
+det7_site,35,0bdf4373-frame_000484_p0,head_cap,absent,ok,bare head
+det7_site,35,0bdf4373-frame_000484_p0,mask,absent,ok,bare face
+det7_site,35,0bdf4373-frame_000484_p0,gloves,absent,ok,bare hands
+det7_site,36,0bdf4373-frame_000484_p1,head_cap,absent,ok,bare head
+det7_site,36,0bdf4373-frame_000484_p1,gloves,present,ok,gloved
+det7_site,37,0bdf4373-frame_000484_p2,head_cap,absent,ok,hijab without cap
+det7_site,37,0bdf4373-frame_000484_p2,mask,absent,ok,bare face
+det7_site,37,0bdf4373-frame_000484_p2,gloves,absent,ok,bare hands
+det7_site,38,0bdf4373-frame_000484_p3,head_cap,absent,ok,bare head
+det7_site,38,0bdf4373-frame_000484_p3,gloves,present,ok,gloved
+det7_site,39,0bf7f18b-frame_000015_p0,head_cap,present,ok,green cap
+det7_site,39,0bf7f18b-frame_000015_p0,mask,present,ok,covering
+det7_site,39,0bf7f18b-frame_000015_p0,gloves,absent,ok,bare hands
+det7_site,40,0bf7f18b-frame_000015_p1,head_cap,present,ok,green cap
+det7_site,40,0bf7f18b-frame_000015_p1,mask,absent,ok,mask at the chin
+det7_site,40,0bf7f18b-frame_000015_p1,gloves,present,ok,gloved
+det7_site,41,0bf7f18b-frame_000015_p2,head_cap,absent,ok,bare head
+det7_site,41,0bf7f18b-frame_000015_p2,mask,absent,ok,bare face
+det7_site,41,0bf7f18b-frame_000015_p2,gloves,present,ok,white glove
+det7_site,42,0ca02ab3-frame_000825_p0,head_cap,present,ok,white hairnet
+det7_site,42,0ca02ab3-frame_000825_p0,mask,present,check,black FABRIC mask labelled present; schema says cloth masks are absent
+det7_site,42,0ca02ab3-frame_000825_p0,gloves,absent,ok,bare hands
+det7_site,43,0ca02ab3-frame_000825_p1,head_cap,present,ok,white hairnet
+det7_site,43,0ca02ab3-frame_000825_p1,mask,present,check,black fabric mask labelled present
+det7_site,43,0ca02ab3-frame_000825_p1,gloves,absent,ok,bare hands
+det7_site,44,0cdca6a8-frame_000598_p0,head_cap,present,ok,white hairnet
+det7_site,44,0cdca6a8-frame_000598_p0,mask,present,check,black fabric mask labelled present
+det7_site,44,0cdca6a8-frame_000598_p0,gloves,absent,ok,bare hands
+det7_site,45,10bddc21-frame_000007_p0,head_cap,absent,ok,bare head
+det7_site,46,10bddc21-frame_000007_p1,head_cap,absent,ok,hijab without cap
+det7_site,46,10bddc21-frame_000007_p1,gloves,present,ok,gloved
+det7_site,47,1104d169-frame_000106_p0,head_cap,absent,ok,bare head
+det7_site,47,1104d169-frame_000106_p0,mask,present,ok,blue surgical mask covering
+det7_site,47,1104d169-frame_000106_p0,gloves,absent,ok,bare hands
+det7_site,48,11af1d8a-frame_000092_p0,head_cap,present,ok,green cap
+det7_site,48,11af1d8a-frame_000092_p0,mask,present,ok,covering
+det7_site,48,11af1d8a-frame_000092_p0,gloves,present,ok,gloved
+det7_site,51,12f2a87a-frame_000079_p0,head_cap,present,ok,green cap
+det7_site,51,12f2a87a-frame_000079_p0,mask,present,ok,covering
+det7_site,51,12f2a87a-frame_000079_p0,gloves,present,ok,gloved
+det7_site,56,14c10fa6-frame_000171_p1,head_cap,present,ok,green cap
+det7_site,56,14c10fa6-frame_000171_p1,mask,present,ok,covering
+det7_site,56,14c10fa6-frame_000171_p1,gloves,present,ok,gloved
+det7_site,57,1507dc7c-frame_001434_p0,head_cap,present,ok,green cap
+det7_site,57,1507dc7c-frame_001434_p0,mask,present,ok,covering
+det7_site,57,1507dc7c-frame_001434_p0,gloves,present,ok,gloved
+det7_site,58,16165100-frame_000247_p0,head_cap,present,ok,green cap
+det7_site,58,16165100-frame_000247_p0,mask,present,ok,covering
+det7_site,58,16165100-frame_000247_p0,gloves,present,ok,gloved
+det7_site,60,16502b2d-frame_000103_p0,head_cap,present,ok,green cap
+det7_site,60,16502b2d-frame_000103_p0,mask,present,ok,covering
+det7_site,60,16502b2d-frame_000103_p0,gloves,present,ok,gloved
+det7_site,66,17041800-frame_000169_p1,head_cap,present,ok,green cap
+det7_site,66,17041800-frame_000169_p1,mask,present,ok,covering
+det7_site,66,17041800-frame_000169_p1,gloves,present,ok,gloved
+det7_site,69,17714b11-frame_000468_p0,head_cap,present,ok,green cap
+det7_site,69,17714b11-frame_000468_p0,mask,present,ok,covering
+det7_site,69,17714b11-frame_000468_p0,gloves,present,ok,gloved
+det7_site,49,1206719c-frame_000006_p0,head_cap,absent,ok,hijab without cap
+det7_site,49,1206719c-frame_000006_p0,mask,present,ok,covering
+det7_site,49,1206719c-frame_000006_p0,gloves,present,ok,gloved
+det7_site,50,1206719c-frame_000006_p1,head_cap,absent,ok,bare head
+det7_site,52,12f2a87a-frame_000079_p1,head_cap,absent,ok,bare head
+det7_site,52,12f2a87a-frame_000079_p1,mask,absent,ok,bare face
+det7_site,53,137c8325-frame_000665_p0,head_cap,present,ok,green cap
+det7_site,53,137c8325-frame_000665_p0,mask,present,ok,covering
+det7_site,54,1472c1b7-frame_000115_p0,head_cap,absent,ok,bare head
+det7_site,54,1472c1b7-frame_000115_p0,mask,present,ok,covering
+det7_site,54,1472c1b7-frame_000115_p0,gloves,absent,ok,bare hands
+det7_site,55,14c10fa6-frame_000171_p0,head_cap,present,ok,green cap
+det7_site,55,14c10fa6-frame_000171_p0,mask,present,ok,covering
+det7_site,55,14c10fa6-frame_000171_p0,gloves,absent,ok,bare hands
+det7_site,59,16165100-frame_000247_p1,head_cap,present,ok,green cap
+det7_site,59,16165100-frame_000247_p1,mask,present,ok,covering
+det7_site,59,16165100-frame_000247_p1,gloves,absent,ok,bare hands
+det7_site,61,16f58ee1-frame_000482_p0,head_cap,absent,ok,bare head
+det7_site,61,16f58ee1-frame_000482_p0,mask,absent,ok,bare face
+det7_site,61,16f58ee1-frame_000482_p0,gloves,absent,ok,bare hands
+det7_site,62,16f58ee1-frame_000482_p1,head_cap,absent,ok,bare head
+det7_site,62,16f58ee1-frame_000482_p1,mask,absent,ok,bare face
+det7_site,62,16f58ee1-frame_000482_p1,gloves,present,ok,gloved
+det7_site,63,16f58ee1-frame_000482_p2,head_cap,absent,ok,bare head
+det7_site,63,16f58ee1-frame_000482_p2,mask,absent,ok,bare face
+det7_site,63,16f58ee1-frame_000482_p2,gloves,present,ok,gloved
+det7_site,64,16f58ee1-frame_000482_p3,head_cap,absent,ok,hijab without cap
+det7_site,64,16f58ee1-frame_000482_p3,mask,absent,ok,bare face
+det7_site,64,16f58ee1-frame_000482_p3,gloves,absent,ok,bare hands
+det7_site,65,17041800-frame_000169_p0,head_cap,present,ok,green cap
+det7_site,65,17041800-frame_000169_p0,mask,present,ok,covering
+det7_site,65,17041800-frame_000169_p0,gloves,absent,ok,bare hands
+det7_site,67,173ef6a9-frame_000003_p0,head_cap,absent,ok,hijab without cap
+det7_site,67,173ef6a9-frame_000003_p0,gloves,absent,ok,bare hands
+det7_site,68,173ef6a9-frame_000003_p1,head_cap,absent,ok,bare head
+det7_site,68,173ef6a9-frame_000003_p1,mask,absent,ok,bare face
+det7_site,68,173ef6a9-frame_000003_p1,gloves,absent,ok,bare hands
+det7_site,70,18747be8-frame_000020_p0,head_cap,present,ok,green cap
+det7_site,70,18747be8-frame_000020_p0,mask,present,ok,covering
+det7_site,70,18747be8-frame_000020_p0,gloves,absent,ok,bare hands
+det7_site,71,18747be8-frame_000020_p1,head_cap,present,ok,green cap
+det7_site,71,18747be8-frame_000020_p1,mask,absent,ok,mask at the chin
+det7_site,71,18747be8-frame_000020_p1,gloves,present,ok,gloved
+det7_site,73,187d05a7-frame_000847_p0,head_cap,present,ok,green cap
+det7_site,73,187d05a7-frame_000847_p0,mask,present,ok,covering
+det7_site,73,187d05a7-frame_000847_p0,gloves,present,ok,gloved
+det7_site,85,1b699ff1-frame_000466_p0,head_cap,present,ok,green cap
+det7_site,85,1b699ff1-frame_000466_p0,mask,present,ok,covering
+det7_site,85,1b699ff1-frame_000466_p0,gloves,present,ok,gloved
+det7_site,90,1e1720d4-frame_000471_p0,head_cap,present,ok,green cap
+det7_site,90,1e1720d4-frame_000471_p0,mask,present,ok,covering
+det7_site,90,1e1720d4-frame_000471_p0,gloves,present,ok,gloved
+det7_site,72,18747be8-frame_000020_p2,head_cap,absent,ok,bare head
+det7_site,72,18747be8-frame_000020_p2,mask,absent,ok,bare face
+det7_site,72,18747be8-frame_000020_p2,gloves,present,ok,gloved
+det7_site,74,197d5680-frame_000005_p0,head_cap,absent,ok,bare head
+det7_site,75,197d5680-frame_000005_p1,head_cap,absent,ok,hijab without cap
+det7_site,75,197d5680-frame_000005_p1,mask,present,ok,covering
+det7_site,75,197d5680-frame_000005_p1,gloves,present,ok,gloved
+det7_site,76,1991ac18-frame_000026_p0,head_cap,absent,ok,hijab without cap
+det7_site,76,1991ac18-frame_000026_p0,mask,absent,ok,bare face
+det7_site,76,1991ac18-frame_000026_p0,gloves,present,ok,gloved
+det7_site,77,1991ac18-frame_000026_p1,head_cap,absent,ok,bare head
+det7_site,77,1991ac18-frame_000026_p1,mask,absent,ok,bare face
+det7_site,77,1991ac18-frame_000026_p1,gloves,absent,ok,bare hands
+det7_site,78,1b42c156-frame_000036_p0,head_cap,present,ok,green cap
+det7_site,78,1b42c156-frame_000036_p0,mask,present,ok,covering
+det7_site,78,1b42c156-frame_000036_p0,gloves,absent,ok,bare hands
+det7_site,79,1b42c156-frame_000036_p1,head_cap,present,ok,green cap
+det7_site,79,1b42c156-frame_000036_p1,mask,absent,ok,mask at the chin
+det7_site,79,1b42c156-frame_000036_p1,gloves,present,ok,gloved
+det7_site,80,1b42c156-frame_000036_p2,head_cap,absent,ok,bare head
+det7_site,80,1b42c156-frame_000036_p2,mask,absent,ok,bare face
+det7_site,80,1b42c156-frame_000036_p2,gloves,absent,ok,bare hands
+det7_site,81,1b67cd27-frame_000480_p0,head_cap,absent,ok,bare head
+det7_site,81,1b67cd27-frame_000480_p0,mask,absent,ok,bare face
+det7_site,81,1b67cd27-frame_000480_p0,gloves,absent,ok,bare hands
+det7_site,82,1b67cd27-frame_000480_p1,head_cap,absent,ok,bare head
+det7_site,82,1b67cd27-frame_000480_p1,mask,absent,ok,bare face
+det7_site,82,1b67cd27-frame_000480_p1,gloves,present,ok,gloved
+det7_site,83,1b67cd27-frame_000480_p2,head_cap,absent,ok,bare head
+det7_site,83,1b67cd27-frame_000480_p2,mask,absent,ok,bare face
+det7_site,83,1b67cd27-frame_000480_p2,gloves,present,ok,gloved
+det7_site,84,1b67cd27-frame_000480_p3,head_cap,absent,ok,hijab without cap
+det7_site,84,1b67cd27-frame_000480_p3,mask,absent,ok,bare face
+det7_site,84,1b67cd27-frame_000480_p3,gloves,present,ok,gloved
+det7_site,86,1c06a94b-frame_000191_p0,head_cap,present,ok,white hairnet
+det7_site,86,1c06a94b-frame_000191_p0,mask,present,ok,covering
+det7_site,87,1e022aa9-frame_000004_p0,head_cap,present,ok,green cap
+det7_site,87,1e022aa9-frame_000004_p0,mask,present,ok,covering
+det7_site,87,1e022aa9-frame_000004_p0,gloves,absent,ok,bare hands
+det7_site,88,1e022aa9-frame_000004_p1,head_cap,present,ok,green cap
+det7_site,88,1e022aa9-frame_000004_p1,mask,absent,ok,mask at the chin
+det7_site,88,1e022aa9-frame_000004_p1,gloves,present,ok,gloved
+det7_site,89,1e022aa9-frame_000004_p2,head_cap,absent,ok,bare head
+det7_site,89,1e022aa9-frame_000004_p2,mask,absent,ok,bare face
+det7_site,89,1e022aa9-frame_000004_p2,gloves,present,ok,gloved
+det7_site,91,1f0a1bb5-frame_000042_p0,head_cap,absent,ok,bare head
+det7_site,91,1f0a1bb5-frame_000042_p0,mask,absent,ok,bare face
+det7_site,91,1f0a1bb5-frame_000042_p0,gloves,absent,ok,bare hands
+det7_site,92,1f0a1bb5-frame_000042_p1,head_cap,absent,ok,bare head
+det7_site,92,1f0a1bb5-frame_000042_p1,mask,absent,ok,bare face
+det7_site,92,1f0a1bb5-frame_000042_p1,gloves,absent,ok,bare hands
+det7_site,93,1f0a1bb5-frame_000042_p2,head_cap,absent,ok,hijab without cap
+det7_site,93,1f0a1bb5-frame_000042_p2,gloves,absent,ok,bare hands
+det7_site,94,1f41feb9-frame_000506_p0,head_cap,absent,ok,bare head
+det7_site,94,1f41feb9-frame_000506_p0,mask,absent,ok,bare face
+det7_site,94,1f41feb9-frame_000506_p0,gloves,absent,ok,bare hands
+det7_site,95,1f41feb9-frame_000506_p1,head_cap,absent,ok,hijab without cap
+det7_site,95,1f41feb9-frame_000506_p1,mask,absent,ok,bare face
+det7_site,95,1f41feb9-frame_000506_p1,gloves,present,ok,gloved
+det7_site,98,1f506ced-frame_000011_p0,head_cap,present,ok,green cap
+det7_site,98,1f506ced-frame_000011_p0,mask,present,ok,covering
+det7_site,98,1f506ced-frame_000011_p0,gloves,present,ok,gloved
+det7_site,107,200a6de8-frame_001504_p0,head_cap,present,ok,green cap
+det7_site,107,200a6de8-frame_001504_p0,mask,present,ok,covering
+det7_site,107,200a6de8-frame_001504_p0,gloves,present,ok,gloved
+det7_site,108,231837cd-frame_000004_p0,head_cap,present,ok,green cap
+det7_site,108,231837cd-frame_000004_p0,mask,present,ok,covering
+det7_site,108,231837cd-frame_000004_p0,gloves,present,ok,gloved
+det7_site,109,231837cd-frame_000004_p1,head_cap,present,ok,green cap
+det7_site,109,231837cd-frame_000004_p1,mask,present,ok,covering
+det7_site,109,231837cd-frame_000004_p1,gloves,present,ok,gloved
+det7_site,96,1f41feb9-frame_000506_p2,head_cap,absent,ok,hijab without cap
+det7_site,96,1f41feb9-frame_000506_p2,mask,absent,ok,bare face
+det7_site,97,1f41feb9-frame_000506_p3,head_cap,absent,ok,hijab without cap
+det7_site,97,1f41feb9-frame_000506_p3,mask,absent,ok,bare face
+det7_site,97,1f41feb9-frame_000506_p3,gloves,present,ok,gloved
+det7_site,99,1f506ced-frame_000011_p1,head_cap,absent,ok,bare head
+det7_site,99,1f506ced-frame_000011_p1,mask,absent,ok,bare face
+det7_site,100,1f7f69ce-frame_000216_p0,head_cap,absent,ok,hijab without cap
+det7_site,101,1f7f69ce-frame_000216_p1,head_cap,absent,ok,bare head
+det7_site,101,1f7f69ce-frame_000216_p1,mask,absent,ok,bare face
+det7_site,101,1f7f69ce-frame_000216_p1,gloves,absent,ok,bare hands
+det7_site,102,1f7f69ce-frame_000216_p2,head_cap,present,check,grey knitted beanie labelled present; beanies are absent under the rule
+det7_site,102,1f7f69ce-frame_000216_p2,mask,absent,ok,bare face
+det7_site,102,1f7f69ce-frame_000216_p2,gloves,absent,ok,bare hands
+det7_site,103,2008fe89-frame_000008_p0,head_cap,absent,ok,hijab without cap
+det7_site,103,2008fe89-frame_000008_p0,mask,absent,ok,bare face
+det7_site,103,2008fe89-frame_000008_p0,gloves,absent,ok,bare hands
+det7_site,104,2008fe89-frame_000008_p1,head_cap,absent,ok,bare head
+det7_site,104,2008fe89-frame_000008_p1,mask,absent,ok,bare face
+det7_site,104,2008fe89-frame_000008_p1,gloves,absent,ok,bare hands
+det7_site,105,2008fe89-frame_000008_p2,head_cap,absent,ok,hijab without cap
+det7_site,105,2008fe89-frame_000008_p2,mask,absent,ok,bare face
+det7_site,105,2008fe89-frame_000008_p2,gloves,absent,ok,bare hands
+det7_site,106,2008fe89-frame_000008_p3,gloves,absent,ok,bare hands
+det7_site,110,244c2f6c-frame_000255_p0,head_cap,present,ok,white hairnet
+det7_site,110,244c2f6c-frame_000255_p0,mask,absent,ok,bare face
+det7_site,110,244c2f6c-frame_000255_p0,gloves,absent,ok,bare hands
+det7_site,111,244c2f6c-frame_000255_p1,head_cap,absent,ok,hijab without cap
+det7_site,112,244c2f6c-frame_000255_p2,head_cap,absent,ok,bare head
+det7_site,112,244c2f6c-frame_000255_p2,mask,absent,ok,bare face
+det7_site,112,244c2f6c-frame_000255_p2,gloves,absent,ok,bare hands
+det7_site,113,247ff5d9-frame_000085_p0,head_cap,present,ok,blue hairnet
+det7_site,113,247ff5d9-frame_000085_p0,mask,absent,ok,mask at the chin
+det7_site,113,247ff5d9-frame_000085_p0,gloves,present,ok,gloved
+det7_site,114,25095590-frame_000164_p0,head_cap,absent,ok,bare head
+det7_site,114,25095590-frame_000164_p0,gloves,absent,ok,bare hands
+det7_site,115,25095590-frame_000164_p1,head_cap,present,ok,white hairnet
+det7_site,115,25095590-frame_000164_p1,gloves,absent,ok,bare hands
+det7_site,116,25095590-frame_000164_p2,head_cap,absent,ok,bare head
+det7_site,116,25095590-frame_000164_p2,mask,absent,ok,bare face
+det7_site,116,25095590-frame_000164_p2,gloves,absent,ok,bare hands
+det7_site,117,25095590-frame_000164_p3,gloves,absent,ok,bare hands
+det7_site,118,25095590-frame_000164_p4,head_cap,absent,ok,hijab without cap
+det7_site,118,25095590-frame_000164_p4,mask,absent,ok,mask at the chin
+det7_site,118,25095590-frame_000164_p4,gloves,absent,ok,bare hands
+det7_site,119,25095590-frame_000164_p5,mask,absent,ok,mask at the chin
+det7_site,119,25095590-frame_000164_p5,gloves,absent,ok,bare hands
+det7_site,126,267d5945-frame_000001_p0,head_cap,present,ok,green cap
+det7_site,126,267d5945-frame_000001_p0,mask,present,ok,covering
+det7_site,126,267d5945-frame_000001_p0,gloves,present,ok,gloved
+det7_site,129,2b727fe9-frame_000078_p0,head_cap,present,ok,green cap
+det7_site,129,2b727fe9-frame_000078_p0,mask,present,ok,covering
+det7_site,129,2b727fe9-frame_000078_p0,gloves,present,ok,gloved
+det7_site,131,2b727fe9-frame_000078_p2,head_cap,present,ok,green cap
+det7_site,131,2b727fe9-frame_000078_p2,mask,present,ok,covering
+det7_site,131,2b727fe9-frame_000078_p2,gloves,present,ok,gloved
+det7_site,120,25095590-frame_000164_p6,head_cap,present,ok,white hairnet
+det7_site,120,25095590-frame_000164_p6,mask,absent,ok,bare face
+det7_site,120,25095590-frame_000164_p6,gloves,absent,ok,bare hands
+det7_site,121,25095590-frame_000164_p7,head_cap,absent,ok,bare head
+det7_site,121,25095590-frame_000164_p7,gloves,present,ok,gloved
+det7_site,122,25141495-frame_000256_p0,head_cap,absent,wrong,white hairnet clearly worn but labelled absent
+det7_site,122,25141495-frame_000256_p0,mask,absent,ok,bare face
+det7_site,122,25141495-frame_000256_p0,gloves,absent,ok,bare hands
+det7_site,123,25141495-frame_000256_p1,head_cap,absent,ok,bare head
+det7_site,123,25141495-frame_000256_p1,mask,absent,ok,bare face
+det7_site,123,25141495-frame_000256_p1,gloves,absent,ok,bare hands
+det7_site,124,25141495-frame_000256_p2,head_cap,absent,ok,hijab without cap
+det7_site,125,266ff054-frame_000101_p0,head_cap,absent,ok,bare head
+det7_site,125,266ff054-frame_000101_p0,mask,present,ok,covering
+det7_site,125,266ff054-frame_000101_p0,gloves,absent,ok,bare hands
+det7_site,127,267d5945-frame_000001_p1,head_cap,absent,ok,bare head
+det7_site,127,267d5945-frame_000001_p1,mask,absent,ok,bare face
+det7_site,127,267d5945-frame_000001_p1,gloves,absent,ok,bare hands
+det7_site,128,26d00821-frame_000001_p0,mask,absent,ok,bare face
+det7_site,128,26d00821-frame_000001_p0,gloves,absent,ok,bare hands
+det7_site,130,2b727fe9-frame_000078_p1,head_cap,present,check,central person is bare-headed; the green cap belongs to someone else
+det7_site,130,2b727fe9-frame_000078_p1,mask,present,check,face looks bare
+det7_site,130,2b727fe9-frame_000078_p1,gloves,absent,ok,bare hands
+det7_site,132,2b727fe9-frame_000078_p3,head_cap,present,ok,green cap
+det7_site,132,2b727fe9-frame_000078_p3,mask,present,ok,covering
+det7_site,132,2b727fe9-frame_000078_p3,gloves,present,ok,gloved
+det7_site,138,2b727fe9-frame_000078_p9,head_cap,present,ok,green cap
+det7_site,138,2b727fe9-frame_000078_p9,mask,present,ok,covering
+det7_site,138,2b727fe9-frame_000078_p9,gloves,present,ok,gloved
+det7_site,143,2c8e65a3-frame_000053_p0,head_cap,present,ok,green cap
+det7_site,143,2c8e65a3-frame_000053_p0,mask,present,ok,covering
+det7_site,143,2c8e65a3-frame_000053_p0,gloves,present,ok,gloved
+det7_site,133,2b727fe9-frame_000078_p4,head_cap,present,ok,green cap
+det7_site,134,2b727fe9-frame_000078_p5,head_cap,present,ok,green cap
+det7_site,134,2b727fe9-frame_000078_p5,gloves,present,ok,gloved
+det7_site,135,2b727fe9-frame_000078_p6,head_cap,present,ok,green cap
+det7_site,135,2b727fe9-frame_000078_p6,gloves,present,ok,gloved
+det7_site,136,2b727fe9-frame_000078_p7,head_cap,present,ok,green cap
+det7_site,136,2b727fe9-frame_000078_p7,gloves,present,ok,gloved
+det7_site,137,2b727fe9-frame_000078_p8,head_cap,present,ok,green cap
+det7_site,137,2b727fe9-frame_000078_p8,gloves,present,ok,gloved
+det7_site,139,2ba933a5-frame_000024_p0,head_cap,present,ok,green cap
+det7_site,139,2ba933a5-frame_000024_p0,mask,present,ok,covering
+det7_site,139,2ba933a5-frame_000024_p0,gloves,absent,ok,bare hands
+det7_site,140,2ba933a5-frame_000024_p1,head_cap,present,ok,green cap
+det7_site,140,2ba933a5-frame_000024_p1,mask,absent,ok,mask at the chin
+det7_site,140,2ba933a5-frame_000024_p1,gloves,present,ok,gloved
+det7_site,141,2ba933a5-frame_000024_p2,head_cap,absent,ok,bare head
+det7_site,141,2ba933a5-frame_000024_p2,mask,absent,ok,bare face
+det7_site,141,2ba933a5-frame_000024_p2,gloves,present,ok,gloved
+det7_site,142,2c4e5d65-frame_000559_p0,head_cap,absent,ok,bare head
+det7_site,142,2c4e5d65-frame_000559_p0,mask,absent,ok,bare face
+det7_site,142,2c4e5d65-frame_000559_p0,gloves,present,ok,gloved
+det7_site,145,2d37d997-frame_000004_p0,head_cap,present,ok,green cap
+det7_site,145,2d37d997-frame_000004_p0,mask,present,ok,covering
+det7_site,145,2d37d997-frame_000004_p0,gloves,present,ok,gloved
+det7_site,148,2e609ee1-frame_000323_p0,head_cap,present,ok,green cap
+det7_site,148,2e609ee1-frame_000323_p0,mask,present,ok,covering
+det7_site,148,2e609ee1-frame_000323_p0,gloves,present,ok,gloved
+det7_site,150,303bb175-frame_000637_p0,head_cap,present,ok,green cap
+det7_site,150,303bb175-frame_000637_p0,mask,present,ok,covering
+det7_site,150,303bb175-frame_000637_p0,gloves,present,ok,gloved
+det7_site,151,31408a28-frame_000059_p0,head_cap,present,ok,green cap
+det7_site,151,31408a28-frame_000059_p0,mask,present,ok,covering
+det7_site,151,31408a28-frame_000059_p0,gloves,present,ok,gloved
+det7_site,152,31408a28-frame_000059_p1,head_cap,present,ok,green cap
+det7_site,152,31408a28-frame_000059_p1,mask,present,ok,covering
+det7_site,152,31408a28-frame_000059_p1,gloves,present,ok,gloved
+det7_site,153,31a5a79b-frame_001030_p0,head_cap,present,ok,green cap
+det7_site,153,31a5a79b-frame_001030_p0,mask,present,ok,covering
+det7_site,153,31a5a79b-frame_001030_p0,gloves,present,ok,gloved
+det7_site,144,2c8e65a3-frame_000053_p1,gloves,absent,ok,bare hands
+det7_site,146,2d37d997-frame_000004_p1,head_cap,absent,ok,bare head
+det7_site,146,2d37d997-frame_000004_p1,mask,absent,ok,bare face
+det7_site,146,2d37d997-frame_000004_p1,gloves,absent,ok,bare hands
+det7_site,147,2d37d997-frame_000004_p2,head_cap,absent,ok,bare head
+det7_site,147,2d37d997-frame_000004_p2,mask,absent,ok,bare face
+det7_site,147,2d37d997-frame_000004_p2,gloves,present,ok,gloved
+det7_site,149,2e72ed63-frame_000544_p0,head_cap,present,ok,white hairnet
+det7_site,149,2e72ed63-frame_000544_p0,mask,present,check,black fabric mask labelled present
+det7_site,149,2e72ed63-frame_000544_p0,gloves,absent,ok,bare hands
+det7_site,154,31c66ffd-frame_000853_p0,head_cap,present,ok,green cap
+det7_site,154,31c66ffd-frame_000853_p0,gloves,present,ok,gloved
+det7_site,155,31e47320-frame_000507_p0,head_cap,absent,ok,bare head
+det7_site,155,31e47320-frame_000507_p0,mask,absent,ok,bare face
+det7_site,155,31e47320-frame_000507_p0,gloves,absent,ok,bare hands

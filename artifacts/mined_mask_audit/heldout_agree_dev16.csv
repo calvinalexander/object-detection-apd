@@ -1,0 +1,13 @@
+n,file,verdict,v5_p,site
+0,mask/dev16_0061fde7.jpg,chin,0.87,dev16
+1,mask/dev16_008be1b0.jpg,chin,0.976,dev16
+2,mask/dev16_0110b463.jpg,covering,0.885,dev16
+3,mask/dev16_02053b4e.jpg,covering,0.993,dev16
+4,mask/dev16_021efa9c.jpg,covering,0.961,dev16
+5,mask/dev16_02dbab7a.jpg,chin,0.965,dev16
+6,mask/dev16_03ad2373.jpg,chin,0.996,dev16
+7,mask/dev16_0461977f.jpg,chin,0.997,dev16
+8,mask/dev16_04c84b8f.jpg,covering,0.902,dev16
+9,mask/dev16_052e2f0e.jpg,hidden,0.993,dev16
+10,mask/dev16_0538cb82.jpg,covering,0.508,dev16
+11,mask/dev16_060dd9ec.jpg,chin,0.906,dev16

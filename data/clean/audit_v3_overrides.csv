@@ -1,0 +1,126 @@
+source,id,item,old,new,reason
+det7_export,129978412_p4,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,129978458_p0,head_cap,present,unclear,item not judgeable from this crop
+det7_export,129978458_p2,gloves,present,unclear,item not judgeable from this crop
+det7_export,129978471_p3,mask,absent,unclear,item not judgeable from this crop
+det7_export,129978480_p1,head_cap,present,unclear,item not judgeable from this crop
+det7_export,129979034_p0,head_cap,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,129980933_p0,gloves,absent,unclear,item not judgeable from this crop
+det7_export,129981782_p1,head_cap,present,unclear,"audit flagged it, reason not machine-readable"
+det7_export,129983607_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,129984959_p2,mask,absent,present,item is visibly present
+det7_export,129984959_p5,mask,absent,unclear,item not judgeable from this crop
+det7_export,129985226_p4,mask,absent,unclear,item not judgeable from this crop
+det7_export,129988409_p5,head_cap,present,unclear,item not judgeable from this crop
+det7_export,129989465_p3,head_cap,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,129989465_p5,head_cap,present,unclear,"audit flagged it, reason not machine-readable"
+det7_export,129989743_p1,mask,absent,present,item is visibly present
+det7_export,129989743_p5,mask,absent,unclear,item not judgeable from this crop
+det7_export,129990563_p0,head_cap,present,unclear,item not judgeable from this crop
+det7_export,129992093_p2,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130000217_p3,gloves,absent,unclear,item not judgeable from this crop
+det7_export,130000217_p4,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130002965_p5,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130007517_p1,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130008224_p1,gloves,absent,unclear,item not judgeable from this crop
+det7_export,130008224_p3,gloves,absent,present,item is visibly present
+det7_export,130008224_p3,mask,absent,present,item is visibly present
+det7_export,130010978_p0,mask,absent,present,item is visibly present
+det7_export,130010978_p0,gloves,absent,present,item is visibly present
+det7_export,130011019_p1,mask,absent,unclear,item not judgeable from this crop
+det7_export,130015296_p5,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130016496_p0,mask,absent,present,item is visibly present
+det7_export,130020440_p1,head_cap,absent,present,rule: navy beret counts as head_cap
+det7_export,130022491_p2,mask,absent,present,item is visibly present
+det7_export,130022790_p1,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130023933_p0,head_cap,present,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130023933_p3,gloves,absent,unclear,item not judgeable from this crop
+det7_export,130029682_p0,mask,absent,present,item is visibly present
+det7_export,130029682_p2,head_cap,present,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130030494_p2,mask,absent,unclear,item not judgeable from this crop
+det7_export,130047024_p0,mask,absent,present,item is visibly present
+det7_export,130047072_p1,head_cap,absent,present,item is visibly present
+det7_export,130047755_p3,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130054656_p3,mask,absent,present,item is visibly present
+det7_export,130055433_p3,gloves,absent,present,item is visibly present
+det7_export,130057371_p0,mask,absent,present,item is visibly present
+det7_export,130059042_p0,mask,absent,unclear,item not judgeable from this crop
+det7_export,130063453_p1,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130064511_p2,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130067306_p0,mask,absent,unclear,item not judgeable from this crop
+det7_export,130069766_p0,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130070113_p2,mask,absent,unclear,item not judgeable from this crop
+det7_export,130072825_p0,mask,absent,unclear,item not judgeable from this crop
+det7_export,130072825_p2,mask,absent,unclear,item not judgeable from this crop
+det7_export,130081985_p0,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130084319_p0,head_cap,absent,present,item is visibly present
+det7_export,130084800_p4,mask,absent,present,item is visibly present
+det7_export,130094112_p1,mask,absent,present,item is visibly present
+det7_export,130097239_p0,head_cap,absent,present,item is visibly present
+det7_export,130097862_p0,gloves,absent,present,item is visibly present
+det7_export,130102232_p4,mask,absent,present,item is visibly present
+det7_export,130114033_p1,gloves,absent,unclear,item not judgeable from this crop
+det7_export,130119068_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130120906_p0,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130120906_p1,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130124490_p0,head_cap,present,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130125600_p0,mask,absent,present,item is visibly present
+det7_export,130126286_p0,mask,absent,unclear,item not judgeable from this crop
+det7_export,130126286_p1,mask,absent,unclear,item not judgeable from this crop
+det7_export,130128725_p0,gloves,absent,present,item is visibly present
+det7_export,130132990_p1,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130136781_p2,gloves,absent,present,item is visibly present
+det7_export,130144405_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130144405_p0,mask,absent,unclear,item not judgeable from this crop
+det7_export,130146469_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130149342_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130150109_p1,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130156215_p0,gloves,absent,present,item is visibly present
+det7_export,130156215_p3,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130156538_p2,gloves,absent,present,item is visibly present
+det7_export,130157998_p0,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130159115_p1,gloves,absent,present,item is visibly present
+det7_export,130159500_p0,head_cap,present,absent,rule: beanies are absent
+det7_export,130160564_p3,mask,absent,present,item is visibly present
+det7_export,130163122_p0,head_cap,absent,present,item is visibly present
+det7_export,130166632_p0,mask,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130166632_p1,head_cap,absent,present,item is visibly present
+det7_export,130167605_p4,head_cap,absent,present,item is visibly present
+det7_export,130172613_p0,head_cap,absent,present,rule: navy beret counts as head_cap
+det7_export,130173212_p0,head_cap,absent,present,rule: navy beret counts as head_cap
+det7_export,130173545_p1,head_cap,absent,present,rule: navy beret counts as head_cap
+det7_export,130174213_p1,head_cap,absent,present,rule: navy beret counts as head_cap
+det7_export,130178920_p1,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130185109_p0,gloves,absent,present,item is visibly present
+det7_export,130185746_p1,head_cap,absent,present,item is visibly present
+det7_export,130193201_p2,gloves,absent,present,item is visibly present
+det7_export,130193201_p5,gloves,absent,unclear,"audit flagged it, reason not machine-readable"
+det7_export,130195910_p1,gloves,absent,present,item is visibly present
+det7_export,130202417_p2,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130203620_p0,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130218656_p0,mask,absent,present,item is visibly present
+det7_export,130218656_p0,gloves,absent,present,item is visibly present
+det7_export,129979885_p0,gloves,absent,present,item is visibly present
+det7_export,129989682_p5,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,129989964_p0,gloves,absent,present,item is visibly present
+det7_export,129989964_p5,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130001917_p0,head_cap,absent,present,item is visibly present
+det7_export,130060935_p1,gloves,absent,present,item is visibly present
+det7_export,130074975_p3,head_cap,absent,present,item is visibly present
+det7_export,130088652_p0,mask,absent,present,item is visibly present
+det7_export,130090933_p0,head_cap,absent,present,item is visibly present
+det7_export,130099521_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130105770_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_export,130121348_p0,head_cap,present,unclear,item not judgeable from this crop
+det7_export,130158769_p0,mask,absent,present,item is visibly present
+det7_site,00ab6557-frame_000082_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_site,02245ac6-frame_000092_p0,head_cap,absent,unclear,item not judgeable from this crop
+det7_site,02245ac6-frame_000092_p0,gloves,present,unclear,"audit flagged it, reason not machine-readable"
+det7_site,0ca02ab3-frame_000825_p0,mask,present,absent,rule: cloth/fabric masks are absent
+det7_site,0ca02ab3-frame_000825_p1,mask,present,absent,rule: cloth/fabric masks are absent
+det7_site,0cdca6a8-frame_000598_p0,mask,present,absent,rule: cloth/fabric masks are absent
+det7_site,1f7f69ce-frame_000216_p2,head_cap,present,absent,rule: beanies are absent
+det7_site,25141495-frame_000256_p0,head_cap,absent,present,item is visibly present
+det7_site,2b727fe9-frame_000078_p1,head_cap,present,unclear,item not judgeable from this crop
+det7_site,2b727fe9-frame_000078_p1,mask,present,unclear,"audit flagged it, reason not machine-readable"
+det7_site,2e72ed63-frame_000544_p0,mask,present,absent,rule: cloth/fabric masks are absent

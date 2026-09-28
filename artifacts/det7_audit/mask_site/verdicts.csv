@@ -1,0 +1,223 @@
+id,verdict,note
+0,not_hand,"back of person, SPPG shirt, face not in view"
+1,unclear,head down in shadow
+2,ok,"face, white mask under chin"
+3,ok,blue mask over mouth
+4,unclear,mask position unreadable
+5,ok,bare face
+6,unclear,"head down, white near chin"
+7,unclear,same person as 6
+8,unclear,face behind collar
+9,ok,bare face in hijab
+10,ok,"bare face, mouth visible"
+11,unclear,"head down, mask strap, mouth hidden"
+12,unclear,same as 11
+13,ok,white mask at chin
+14,ok,white mask under chin
+15,ok,teal mask covers nose+mouth
+16,unclear,"side face, blurred"
+17,unclear,head down
+18,ok,"blue mask at chin, mouth bare"
+19,unclear,blurred
+20,ok,white mask under chin
+21,unclear,turned away
+22,unclear,"mask low, mouth unreadable"
+23,ok,white mask on
+24,ok,white mask on
+25,ok,"white mask on, head tilted down"
+26,unclear,seen from above
+27,ok,white mask under chin
+28,ok,"bare face, mouth visible"
+29,ok,"mask on chin, mouth bare"
+30,ok,blue mask on
+31,ok,bare face
+32,unclear,"from above, only a mask strap shows (labelled mask)"
+33,unclear,same as 32
+34,ok,blue mask under chin
+35,unclear,"head down, dark"
+36,ok,white mask under chin
+37,ok,"bare face, mask hangs at chin"
+38,ok,white mask below nose
+39,unclear,"head down in hijab, lower face hidden"
+40,ok,blue mask on
+41,unclear,"from above, pink hijab"
+42,unclear,"blurred, head down"
+43,unclear,side of head
+44,unclear,"teal mask low, cannot tell if it covers the mouth"
+45,unclear,head down
+46,unclear,"pink at chin, unclear"
+47,unclear,same as 46
+48,unclear,"head down, pink blur"
+49,wrong_class,"white mask worn over mouth and nose, head down (labelled no_mask)"
+50,ok,"bare face, side view"
+51,unclear,white mask on; unclear whether nose is covered
+52,unclear,"dark, head down"
+53,unclear,blurred
+54,ok,"glasses, mask at chin"
+55,ok,white mask on
+56,ok,mask hangs at chin
+57,unclear,head down
+58,unclear,back of head
+59,unclear,back of head
+60,ok,white mask on
+61,wrong_class,beige mask worn over mouth and nose (labelled no_mask)
+62,ok,"bare face, side view"
+63,ok,bare face
+64,ok,bare face
+65,wrong_class,"mask hangs off one ear, mouth bare (labelled mask)"
+66,ok,green mask on
+67,ok,"bare face, mask below chin"
+68,unclear,"teal at mouth, too small to tell"
+69,ok,mask at chin
+70,ok,bare face
+71,ok,bare face
+72,ok,mask at chin
+73,ok,bare face
+74,ok,"bare face, side view"
+75,unclear,"head down, white at chin"
+76,unclear,same as 75
+77,ok,blue mask on
+78,ok,bare face
+79,ok,bare face
+80,ok,white mask on
+81,unclear,top of head from above
+82,ok,blue mask on
+83,ok,same as 82
+84,ok,bare face
+85,ok,mask at chin
+86,ok,mask under chin
+87,unclear,head down in hijab
+88,unclear,blurred
+89,wrong_class,white mask worn over mouth and nose; box sits on the eyes (labelled no_mask)
+90,wrong_class,same person as 89
+91,ok,teal mask under chin
+92,unclear,top of head
+93,unclear,head down
+94,ok,bare face
+95,ok,bare face
+96,not_hand,"box on a hand raised to the face, not the face"
+97,not_hand,same as 96
+98,ok,bare face
+99,unclear,hand over face (phone call)
+100,unclear,"from above, pink hijab"
+101,ok,"bare face, side view"
+102,unclear,head down
+103,ok,bare face
+104,ok,"bare face, side view"
+105,wrong_class,"mask hangs below chin, mouth bare (labelled mask)"
+106,unclear,arm in front of face
+107,unclear,"side view, mask strap only"
+108,ok,bare face
+109,ok,bare face
+110,unclear,"tiny, from above"
+111,ok,bare face
+112,ok,bare face
+113,unclear,"head down, dark"
+114,ok,bare face
+115,ok,bare face
+116,ok,white mask on
+117,ok,white mask on
+118,unclear,"head down, white at collar"
+119,ok,white mask on
+120,unclear,head down
+121,ok,"glasses, white mask at chin"
+122,wrong_class,"white mask worn over mouth and nose, seen from above (labelled no_mask)"
+123,ok,bare face
+124,ok,bare face
+125,unclear,head down
+126,unclear,blurred
+127,unclear,blurred
+128,ok,bare face
+129,not_hand,box on the brick wall
+130,unclear,blurred
+131,ok,"seen from above, mask hangs at chin"
+132,unclear,"from above, cannot tell if nose is covered (labelled mask)"
+133,unclear,same as 132
+134,unclear,blurred
+135,unclear,blurred
+136,ok,"bare face, looking down"
+137,ok,bare face
+138,ok,"bare face, side view"
+139,ok,"bare face, mask at chin"
+140,not_hand,"box on the neck and chest, below the face"
+141,ok,"bare face, mask at chin"
+142,ok,same as 141
+143,ok,"bare face, mask at chin"
+144,ok,"bare face, mask at chin"
+145,ok,"bare face, mask at chin"
+146,ok,"seen from above, mask at chin"
+147,unclear,blurred
+148,ok,"white mask pulled to the side, mouth bare"
+149,unclear,face pixelated (anonymised)
+150,unclear,"blurred, patterned headscarf"
+151,ok,"bare face, side view"
+152,ok,"bare face, mask strap on chin"
+153,unclear,pixelated region seen from above (labelled mask)
+154,unclear,"side view, blurred"
+155,unclear,blurred
+156,ok,"bare face, mask at chin"
+157,ok,bare face
+158,unclear,blurred
+159,unclear,blurred
+160,ok,white mask on
+161,unclear,blurred
+162,unclear,blurred
+163,ok,mask under chin
+164,unclear,turned away
+165,ok,white mask under chin
+166,unclear,blurred
+167,unclear,blurred
+168,ok,teal mask on
+169,wrong_class,teal mask worn over mouth and nose (labelled no_mask)
+170,unclear,"from above, mask may sit below the mouth (labelled mask)"
+171,unclear,white mask position unclear (labelled mask)
+172,ok,bare face
+173,ok,white mask on
+174,ok,blue mask below nose
+175,unclear,teal mask may sit below nose (labelled mask)
+176,unclear,blurred
+177,unclear,"head down, mask strap only"
+178,unclear,head down
+179,unclear,blurred
+180,ok,"bare face, white at chin"
+181,unclear,"blurred, glasses, in hijab"
+182,ok,"bare face, side view, mask below chin"
+183,unclear,blurred
+184,ok,teal mask on
+185,ok,white mask on
+186,unclear,side view
+187,unclear,head down
+188,ok,bare face
+189,unclear,blurred
+190,unclear,same as 189
+191,unclear,blurred
+192,ok,bare face
+193,ok,same as 192
+194,unclear,blurred
+195,not_hand,"box on the shirt collar, face above it"
+196,unclear,"white across lower face, may be a mask"
+197,ok,bare face
+198,not_hand,box on shoulder or back of head
+199,ok,bare face
+200,unclear,"tiny, 10 px"
+201,not_hand,box on the back of head/shoulder (same person as 198)
+202,ok,white mask on
+203,wrong_class,white mask worn over mouth and nose (labelled no_mask)
+204,wrong_class,"same person as 203, mask on"
+205,wrong_class,same as 203
+206,wrong_class,same as 203
+207,unclear,blurred
+208,ok,"bare face, mask below chin"
+209,ok,bare face
+210,not_hand,box on the back of head
+211,unclear,mask may be on
+212,ok,teal mask on
+213,unclear,head down
+214,ok,bare face
+215,ok,white mask on
+216,unclear,"side view, face partly hidden"
+217,unclear,side view
+218,unclear,"blurred, turned"
+219,unclear,head down
+220,unclear,"motion blur, mask may be at chin"
+221,unclear,"motion blur, box sits below face"

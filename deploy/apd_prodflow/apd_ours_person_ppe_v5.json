@@ -1,0 +1,49 @@
+{
+  "input": "person crop = person box + 18% pad, letterbox 320 (pad 114), BGR->RGB, /255, ImageNet mean/std, NCHW",
+  "outputs": [
+    "present_head_cap",
+    "present_mask",
+    "present_gloves",
+    "known_head_cap",
+    "known_mask",
+    "known_gloves"
+  ],
+  "rule": "judge only when p_known >= known_above; then violation when p_present < present_below; else unknown",
+  "cuts": {
+    "head_cap": {
+      "known_above": 0.95,
+      "present_below": 0.05
+    },
+    "mask": {
+      "known_above": 0.1,
+      "present_below": 0.275
+    },
+    "gloves": {
+      "known_above": 0.8,
+      "present_below": 0.1
+    }
+  },
+  "cuts_val": {
+    "head_cap": {
+      "present_below": 0.32500000000000007,
+      "known_above": 0.4500000000000001,
+      "val_mcc_presence": 0.9272,
+      "val_mcc_judgeable": 0.4709
+    },
+    "mask": {
+      "present_below": 0.5750000000000002,
+      "known_above": 0.5500000000000003,
+      "val_mcc_presence": 0.8769,
+      "val_mcc_judgeable": 0.7747
+    },
+    "gloves": {
+      "present_below": 0.2750000000000001,
+      "known_above": 0.4500000000000001,
+      "val_mcc_presence": 0.7768,
+      "val_mcc_judgeable": 0.7609
+    }
+  },
+  "calibrated_on": "manual curation of production's 16 Sep events, even hours (scripts/148); held out on odd hours",
+  "checkpoint": "runs/person_ppe_v5/efficientnet_b0_320/best.pt",
+  "best_epoch": 16
+}

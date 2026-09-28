@@ -1,0 +1,1074 @@
+id,verdict,note
+0,unclear,"head bowed, crop mostly hairnet, greenish mask partly visible, cannot confirm nose covered"
+1,ok,green surgical mask over nose and mouth
+2,unclear,"dark blurry crop, white patch possibly mask, cannot tell"
+3,unclear,"tiny head bowed, looks bare but too blurry"
+4,unclear,"face turned away, crop shows hairnet/side of head only"
+5,unclear,"head bowed, face hidden under hairnet"
+6,ok,white mask with ear loop covering lower face
+7,ok,bare face with cap
+8,ok,white mask over nose and mouth
+9,unclear,"dark blurry, white at lower face may be mask below chin"
+10,ok,white KN95 over nose and mouth
+11,ok,bare face
+12,ok,bare face with cap
+13,wrong_face,box on bare face of woman but crop is featureless skin-colour blur with no face visible
+14,unclear,"head bowed under hairnet, lower face pale blur, cannot tell mask"
+15,unclear,"7x12 tiny, unreadable"
+16,unclear,"head bowed, face hidden under hairnet, grey fabric at chin"
+17,ok,"bare face, hand at neck"
+18,ok,green surgical mask over nose and mouth
+19,ok,white mask over nose and mouth
+20,ok,green mask over nose and mouth
+21,unclear,"blurry, pale lower face, cannot tell"
+22,unclear,11x8 blurry face under hairnet
+23,ok,bare face
+24,unclear,"blurry white band across lower face, cannot confirm nose covered"
+25,unclear,"9x12 tiny blur, crop shows no clear face"
+26,ok,head bowed but white KN95 over nose and mouth
+27,ok,"mask pulled under chin, mouth exposed"
+28,ok,bare face with glasses
+29,ok,white mask over nose and mouth
+30,wrong_face,"zoom shows glasses/hijab face but crop shows a large blurred bare head/ear, not that face"
+31,ok,bare face in profile
+32,ok,"bare face in hijab, blurry"
+33,ok,white KN95 over nose and mouth
+34,unclear,"face bowed and blurry, likely bare but cannot confirm"
+35,ok,dim bare face in hijab
+36,unclear,"dark head covering fills box, face not visible (possibly back of head)"
+37,unclear,"16x9 dark blurry face, cannot tell"
+38,unclear,face hidden by arm/hairnet from above
+39,ok,bare face with glasses
+40,ok,"mask under chin, mouth exposed"
+41,ok,white KN95 over nose and mouth
+42,ok,"bare face, turned"
+43,ok,"bare face, head slightly bowed"
+44,unclear,"blurry turned face in hijab, possible mask strap at jaw"
+45,ok,white KN95 over nose and mouth
+46,ok,"mask under chin, mouth exposed"
+47,ok,bare face with glasses
+48,unclear,"face turned away, side of head only"
+49,ok,teal surgical mask over nose and mouth
+50,ok,black mask over nose and mouth
+51,ok,black mask over nose and mouth
+52,ok,"black mask over nose and mouth, head bowed"
+53,unclear,7x10 tiny blur
+54,ok,surgical mask over nose and mouth
+55,ok,bare face
+56,ok,"bare face in hijab, blurry"
+57,unclear,"head bowed, face hidden/dark"
+58,ok,bare face
+59,ok,"mask pulled down to chin, mouth exposed"
+60,wrong_face,"zoom shows bare woman with glasses in hijab, crop shows an unrecognisable large skin blur without that face"
+61,ok,"head bowed, KN95 over nose and mouth"
+62,ok,bare face in profile with hairnet (crop blurry but profile visible)
+63,ok,surgical mask over nose and mouth
+64,ok,"head bowed, KN95 over nose and mouth"
+65,ok,surgical mask over nose and mouth
+66,ok,"KN95 over nose and mouth, gloved hand adjusting"
+67,ok,bare face
+68,ok,KN95 over nose and mouth
+69,ok,"head bowed, white mask over lower face"
+70,ok,KN95 over nose and mouth
+71,ok,KN95 over nose and mouth
+72,ok,"white mask over nose and mouth, hand touching it"
+73,ok,KN95 over nose and mouth
+74,ok,white mask over nose and mouth
+75,ok,"KN95 over nose and mouth, hands raised"
+76,ok,"surgical mask over nose and mouth, profile"
+77,ok,bare face
+78,unclear,"face turned away in hijab, blurry"
+79,unclear,"face turned away, only ear/cheek visible"
+80,ok,KN95 over nose and mouth
+81,ok,"white mask over nose and mouth, hand touching it"
+82,ok,bare face in profile with glasses
+83,ok,KN95 over nose and mouth
+84,ok,"mask under chin, mouth exposed"
+85,ok,white mask over nose and mouth
+86,ok,bare face with glasses
+87,ok,"surgical mask over nose and mouth, profile"
+88,unclear,"teal mask on lower face, nose may be exposed, angle ambiguous"
+89,ok,teal surgical mask over nose and mouth
+90,unclear,"head bowed, face dark, teal mask possibly at chin/neck"
+91,unclear,9x12 tiny blur
+92,ok,"white KN95 over nose and mouth, close profile"
+93,ok,"bare face, blurry"
+94,ok,"bare face in hijab, profile"
+95,ok,white mask over nose and mouth
+96,ok,white mask over nose and mouth
+97,ok,white mask over nose and mouth
+98,ok,"mask under chin, mouth exposed"
+99,ok,bare face
+100,ok,"bare face, looking down"
+101,unclear,"face turned away in hijab, blurry"
+102,ok,bare face in profile
+103,ok,KN95 over nose and mouth
+104,ok,white mask over nose and mouth
+105,unclear,"looking down, profile, only glasses/cheek visible"
+106,unclear,"head bowed, dark blurry face"
+107,ok,"mask under chin, mouth exposed"
+108,ok,bare face with glasses
+109,ok,white mask over nose and mouth
+110,ok,KN95 over nose and mouth
+111,ok,bare face in hijab
+112,ok,"bare face with glasses, hand near chin"
+113,ok,bare face in profile
+114,ok,"bare face close-up, looking down"
+115,unclear,"head turned down, blurry; pale patch at lower face could be mask"
+116,wrong_face,"zoom shows bare woman with glasses in hijab, crop shows dark blur with foreground skin/ear, not her face"
+117,unclear,"face turned away in hijab, strap at ear, mouth not visible"
+118,ok,KN95 over nose and mouth
+119,ok,bare face
+120,ok,bare face
+121,ok,"bare face with glasses, blurry"
+122,unclear,"top-down view of woman looking down, crop shows hair/glasses edge, mouth not visible"
+123,wrong_face,"box on black hijab and bare arm/hand, crop shows arm skin, no face visible"
+124,ok,white mask over nose and mouth behind raised hands
+125,ok,white mask over nose and mouth
+126,ok,KN95 over nose and mouth
+127,ok,surgical mask over nose and mouth
+128,unclear,hand covering mouth
+129,ok,"bare face, head slightly bowed"
+130,ok,KN95 over nose and mouth
+131,ok,"white mask over nose and mouth, hand at glasses"
+132,ok,"white mask over nose and mouth, profile"
+133,unclear,"woman looking down in profile, crop blurry side of face, mouth not readable"
+134,ok,bare face in profile
+135,ok,"surgical mask pulled under chin, mouth exposed"
+136,ok,"bare face in hijab, mask at neck"
+137,unclear,"top of hairnet, head bowed, mouth hidden"
+138,unclear,"face turned away, crop shows cheek/ear close-up"
+139,unclear,"woman looking down in profile, blurry, mouth not readable"
+140,ok,bare face in profile
+141,wrong_face,"zoom shows bare woman with glasses, crop shows a different woman (hairnet, hijab, mask under chin)"
+142,ok,white mask over nose and mouth
+143,ok,surgical mask over nose and mouth
+144,ok,surgical mask over nose and mouth
+145,unclear,clasped hands cover mouth
+146,wrong_face,"face mostly out of frame, box/crop dominated by timestamp overlay text and chin"
+147,ok,bare face
+148,ok,"bare face, looking down"
+149,ok,"bare face, hand on cheek, mouth visible"
+150,ok,bare face with glasses
+151,ok,white surgical mask over nose and mouth
+152,ok,white surgical mask over nose and mouth
+153,ok,"head bowed, white KN95 triangle visible (same person/time as 26)"
+154,unclear,"head bowed, teal mask partly visible, nose not visible"
+155,unclear,"blurry, teal mask on lower face, nose coverage not readable"
+156,wrong_class,"man's face clearly bare (nose and mouth visible, no mask), labelled mask"
+157,unclear,"9x18, box on back of dark head, face not visible"
+158,unclear,7x9 tiny blur
+159,unclear,"face turned down/away, blurry, possible white mask at chin"
+160,wrong_face,"zoom shows bare woman with glasses, crop shows a different woman (hairnet, hijab, mask under chin)"
+161,ok,white mask over nose and mouth
+162,ok,"bare face, looking down"
+163,ok,surgical mask over nose and mouth
+164,ok,small but bare face visible
+165,unclear,"head bowed, blurry, teal mask partly visible"
+166,unclear,"head bowed, teal mask on lower face, nose not visible"
+167,ok,bare face with glasses
+168,ok,surgical mask over nose and mouth
+169,ok,"bare face, looking down"
+170,unclear,hand covering mouth/chin
+171,ok,"white mask over nose and mouth, profile"
+172,ok,teal mask over nose and mouth
+173,unclear,"12x11, head from above, face not visible"
+174,unclear,8x9 tiny blur
+175,ok,surgical mask over nose and mouth
+176,ok,black mask over nose and mouth
+177,ok,"head bowed, white KN95 over lower face"
+178,ok,white mask over nose and mouth
+179,ok,KN95 over nose and mouth
+180,unclear,"black mask on lower face, may sit at nose tip, cannot confirm nose covered"
+181,unclear,"crop is teal blur, head bowed"
+182,unclear,"head bowed, face dark, teal mask partly visible"
+183,ok,teal mask over nose and mouth
+184,unclear,"face turned away, mask strap/teal at side, mouth not visible"
+185,ok,"surgical mask over nose and mouth, profile"
+186,unclear,"face turned away in hijab, strap at ear, mouth not visible"
+187,wrong_face,"zoom shows bare woman with glasses in hijab, crop shows close-up of foreground man's head/ear"
+188,wrong_face,"zoom shows woman with glasses, crop shows a large blurred bald head/ear"
+189,ok,bare face in profile
+190,ok,"bare face in hijab, turned, blurry"
+191,ok,"light mask over nose and mouth, hand near face"
+192,unclear,"head bowed, white mask visible but position (possibly pulled aside/at chin) unclear"
+193,unclear,"face turned away under teal hood, white mask only partly visible"
+194,unclear,"blurry, white on lower face, nose coverage not readable"
+195,unclear,"face turned away under teal hood, blurry"
+196,wrong_face,"12x11, crop is plain grey blur with no face"
+197,ok,"bare face seen from above, glasses"
+198,ok,"bare face in hijab, profile"
+199,ok,"mask under chin, mouth exposed"
+200,ok,bare face with glasses
+201,wrong_face,"zoom shows bare woman looking down, crop shows a different person with hairnet and teal mask on"
+202,ok,surgical mask over nose and mouth
+203,unclear,clasped hands cover mouth
+204,ok,"bare face in hijab, looking down"
+205,ok,"bare face in hijab, profile"
+206,ok,KN95 over nose and mouth
+207,ok,teal surgical mask over nose and mouth
+208,ok,teal surgical mask over nose and mouth
+209,ok,teal surgical mask over nose and mouth
+210,ok,teal surgical mask over nose and mouth
+211,unclear,"blurry, teal mask on lower face, nose coverage not readable"
+212,ok,"teal surgical mask on face, profile"
+213,ok,"teal surgical mask over nose and mouth, gloved hands"
+214,ok,"white mask over nose and mouth, blurry"
+215,unclear,blurry white on face under teal hood
+216,unclear,"tiny 7x10 blurry face, cannot see mouth region"
+217,ok,surgical mask clearly over nose and mouth
+218,unclear,"head turned away, face mostly hidden"
+219,unclear,"head bowed, hairnet only, face hidden"
+220,ok,"mask over nose/mouth, partly occluded by bar"
+221,ok,green mask on face
+222,ok,blurry but white mask on face
+223,ok,"blurry, white mask on bent-over face"
+224,ok,"bare face, no mask"
+225,unclear,"head bowed, dark blurry, mouth not readable"
+226,ok,white mask covers nose and mouth
+227,ok,"green mask on face, blurry"
+228,unclear,"crop very blurry, head bowed, mask not discernible in crop"
+229,ok,green mask on face
+230,unclear,"crop very blurry whitish blob, face not readable"
+231,ok,white mask on face
+232,ok,bare face
+233,ok,white mask covers nose and mouth
+234,ok,white KN95-style mask covers nose and mouth
+235,wrong_face,"box and crop are on a food tray/bowl, no face"
+236,ok,surgical mask covers nose and mouth
+237,ok,bare face looking down
+238,ok,"nose visibly bare, hand at mouth, no mask"
+239,ok,surgical mask covers nose and mouth
+240,ok,"bare face, nose visible, hand at mouth"
+241,unclear,"top-down view of hairnet and mask strap, face hidden"
+242,unclear,"tiny blurry profile, mouth not readable"
+243,ok,side view of bare face in hijab
+244,ok,bare face looking down
+245,ok,surgical mask on bowed face covering nose/mouth
+246,unclear,"top-down bowed head, green mask visible below hairnet, nose coverage not readable"
+247,unclear,"crop blurry grey, face not readable"
+248,ok,green mask on face
+249,unclear,"face turned away, only side of head/ear strap"
+250,unclear,"dark blurry face, mask presence not readable"
+251,unclear,"dark, head bowed, face not visible"
+252,unclear,"tiny 8x7 blurry, cannot read face"
+253,ok,white KN95 mask covers nose and mouth
+254,ok,green mask covers nose and mouth
+255,ok,surgical mask covers nose and mouth
+256,ok,bare face with glasses
+257,ok,bare face in hijab
+258,ok,bare face in profile
+259,ok,white mask covers nose and mouth
+260,ok,white KN95 mask covers nose and mouth
+261,unclear,"top-down bowed head, green mask on side of face, nose coverage not readable"
+262,unclear,"top-down bowed head, green mask visible, dark area above it (nose?) not readable"
+263,ok,"head bowed in black hijab, lower face bare or black cloth, no surgical mask"
+264,ok,rotated top-down view of bare lower face and collar
+265,ok,bare face with glasses
+266,ok,white mask covers nose and mouth
+267,ok,white KN95 mask covers nose and mouth
+268,ok,bare face
+269,ok,"blurry profile, bare face"
+270,ok,bare face
+271,ok,bare face
+272,ok,bare face in hijab looking down
+273,ok,white KN95 mask covers nose and mouth
+274,ok,bare face
+275,unclear,"tiny 9x8 blurry, cannot read face"
+276,wrong_class,"mask hanging from ear down below chin, nose and mouth bare"
+277,unclear,"head bowed under cap, dark, white strap near chin, mouth not readable"
+278,wrong_class,"hairnet woman in profile, nose and mouth bare (white edge at chin), labelled mask"
+279,ok,profile of bare face under cap
+280,unclear,"bowed head, green mask visible but nose coverage not readable"
+281,unclear,"crop blurry grey, face not readable"
+282,ok,green mask on bowed face
+283,unclear,"crop shows grey/black blur below hairnet, face not readable"
+284,ok,"bowed blurry face, skin visible, no mask seen"
+285,ok,"tiny bowed face, skin visible, no mask seen"
+286,unclear,"dark crop, face not readable"
+287,ok,bare face
+288,ok,white KN95 mask covers nose and mouth
+289,ok,white KN95 mask covers nose and mouth
+290,ok,bare face with glasses
+291,ok,white mask covers nose and mouth
+292,ok,"profile in hijab, nose and lips bare"
+293,ok,blurry cheek/nose of bare face in hood
+294,ok,bare face
+295,ok,surgical mask covers nose and mouth
+296,wrong_class,"surgical mask pulled down to chin, nose (and mouth) exposed, labelled mask"
+297,unclear,"top-down bowed head, white edge near chin, nose/mouth not readable"
+298,ok,green mask covers nose and mouth
+299,ok,bare face
+300,ok,surgical mask covers nose and mouth
+301,ok,blurry bare face in hijab
+302,wrong_face,"crop is an unrecognisable pink/grey blur (shelf/background), box face (hijab, glasses, bare) not visible in crop"
+303,ok,surgical mask covers nose and mouth
+304,ok,"bare face, nose visible, clasped hands at mouth"
+305,ok,bare face in profile
+306,wrong_face,crop shows side/back of a different man's head; box is on hijab woman with bare face (label itself right)
+307,ok,green mask covers nose and mouth
+308,unclear,"top-down hairnet and mask strap, face hidden"
+309,ok,bare face looking down
+310,unclear,"hooded head seen from side/back, strap visible, mouth not visible"
+311,ok,white KN95 mask on bowed face
+312,ok,bare face
+313,ok,surgical mask covers nose and mouth
+314,ok,blurry bare face in hijab
+315,ok,bare face
+316,ok,bare face in hijab looking down
+317,unclear,"tiny 14x9 profile edge against hair, cannot read"
+318,ok,bare face drinking through straw
+319,ok,bare face profile with glasses
+320,ok,"hijab profile, nose bare (whitish patch at jaw), no mask over nose"
+321,ok,black disposable mask covers nose and mouth
+322,ok,KN95 mask covers nose and mouth
+323,ok,KN95 mask covers nose and mouth
+324,wrong_face,crop is grey wall blur; box is on profile man with white mask (label right)
+325,ok,"mask pulled under chin, nose and mouth bare"
+326,ok,blurry bare face
+327,ok,bare face looking down
+328,ok,surgical mask covers nose and mouth
+329,ok,surgical mask covers nose and mouth
+330,ok,green mask on bowed face
+331,wrong_face,crop shows mostly hairnet and brown arm/neck blur; box is on shadowed face with white mask below hairnet
+332,unclear,"12x17 brown blur beside dark hair, face not visible"
+333,unclear,"tiny 12x8 top-down dark head, face not visible"
+334,ok,surgical mask covers nose and mouth
+335,ok,"KN95 being adjusted with both hands, covers nose and mouth"
+336,ok,bare face
+337,ok,blurry bare profile under hairnet
+338,ok,profile with white mask covering nose and mouth
+339,ok,"KN95 on face, glove partly in front"
+340,ok,bare face profile
+341,ok,bare face with glasses
+342,ok,"mask pulled under chin, face bare"
+343,ok,surgical mask covers nose and mouth
+344,wrong_face,box/crop mostly on rice bowl background left of a face turned away; nose/mouth not in crop
+345,ok,"bowed face, nose bare, no mask"
+346,ok,"bowed face under hairnet, skin visible, no mask (blue is collar)"
+347,ok,bare face drinking
+348,ok,bare face with glasses
+349,ok,"hijab profile, white mask under chin, nose/mouth bare (crop blurry)"
+350,ok,green mask covers nose and mouth
+351,ok,green mask covers nose and mouth
+352,unclear,"top-down bowed head, green mask visible but nose coverage not readable"
+353,ok,surgical mask covers nose and mouth
+354,ok,surgical mask covers nose and mouth
+355,ok,surgical mask covers nose and mouth
+356,ok,surgical mask covers nose and mouth
+357,ok,"mask pulled under chin, face bare"
+358,ok,white mask covers nose and mouth
+359,ok,bare face with glasses
+360,ok,bare face behind timestamp overlay (box partly on OSD text)
+361,ok,surgical mask covers nose and mouth
+362,ok,beige KN95 covers nose and mouth
+363,ok,"mask pulled under chin, face bare"
+364,ok,bare face with glasses
+365,unclear,"tiny 7x10 blurry, cannot read face"
+366,ok,"blurry profile under hairnet looking down, skin at nose/mouth, no mask seen"
+367,unclear,"top-down striped cap, white mask visible but nose coverage not readable"
+368,wrong_face,crop shows a different hairnet person (back of head) and bowl; box is on striped-cap person's bowed lower face
+369,unclear,"hairnet person seen from behind, face not visible"
+370,ok,"mask pulled under chin, face bare"
+371,ok,bare face with glasses
+372,ok,motion-blurred bare face under hairnet
+373,ok,bare face profile
+374,ok,bare face profile
+375,wrong_face,"crop shows the foreground man's head/ear, not the boxed hijab woman with glasses (bare face, label right)"
+376,ok,"hijab profile, mask under chin, nose/mouth bare"
+377,unclear,"crop blurry dark below hairnet, mask not discernible in crop (panel 2 shows green mask)"
+378,ok,green mask on face below hairnet (blurry)
+379,unclear,"crop dark blur, face not readable (panel 2 shows white mask)"
+380,ok,white mask on bowed face
+381,unclear,"box mostly on wall, crop a faded profile edge, face not readable"
+382,ok,bare face under hairnet
+383,ok,bare face in hijab
+384,wrong_face,box/crop on grey tray/background beside a hairnet head turned away; no face in crop
+385,unclear,"bowed head under hairnet, face a pink/dark blur"
+386,ok,surgical mask covers nose and mouth
+387,ok,bare face
+388,ok,"bare face, hand at chin, nose and mouth visible"
+389,ok,bare face with glasses
+390,ok,rotated top-down bare face
+391,ok,bare face with glasses
+392,ok,"hijab profile, white KN95 covering nose and mouth"
+393,ok,surgical mask covers nose and mouth
+394,ok,beige KN95 covers nose and mouth
+395,ok,bare smiling face with glasses
+396,ok,bare smiling face in hijab (OSD overlay)
+397,ok,bare face drinking through straw
+398,unclear,"man seen from behind/side, face turned away, mouth not visible"
+399,ok,"hijab profile, white mask under chin, nose/mouth bare (crop blurry)"
+400,ok,bare face profile
+401,ok,white mask covers nose and mouth
+402,ok,bare face with glasses
+403,ok,"mask pulled under chin, face bare"
+404,ok,white KN95 covers nose and mouth
+405,ok,white KN95 on face while adjusting with hand
+406,ok,white KN95 covers nose and mouth
+407,ok,bare face
+408,ok,bare face with glasses under hairnet
+409,ok,"dark hijab profile, mask strap leads to mask bunched under chin, nose/lips silhouette bare"
+410,wrong_face,"crop shows foreground man's head/ear, not the boxed hijab woman with glasses (bare face, label right)"
+411,ok,bare face profile
+412,ok,"white mask covers nose and mouth, hand at chin"
+413,ok,"white KN95 covers nose and mouth, hand beside"
+414,ok,bare face
+415,ok,bare face
+416,ok,surgical mask covers nose and mouth
+417,ok,bare face looking down
+418,ok,blurry bare face
+419,ok,"bare face, phone near"
+420,ok,blurry bare profile
+421,unclear,"long-haired person turned away, hand at cheek, mouth hidden"
+422,ok,"mask pulled under chin, face bare"
+423,ok,blurry bare face with glasses
+424,ok,bare face
+425,ok,white KN95 covers nose and mouth
+426,ok,bare face in hijab looking down
+427,ok,bare face with glasses under hairnet
+428,wrong_face,"crop is an over-zoomed skin patch (forehead/eye) not matching the box, which is half wall plus a bare face under backward cap"
+429,ok,"bowed head, white KN95 up to eye level (same person/pose as 311)"
+430,ok,white KN95 covers nose and mouth
+431,ok,green mask covers nose and mouth
+432,ok,"man with glasses, bare face, no mask"
+433,ok,surgical mask over nose and mouth
+434,ok,"woman in hijab, blurry but bare face"
+435,unclear,"blurry side profile in hijab, cannot confirm nose/mouth"
+436,wrong_face,crop shows green shoulder/neck; box is woman with glasses (bare face)
+437,ok,"man profile, bare face"
+438,ok,woman in hijab bare face (strap near chin)
+439,unclear,"head bowed, only hairnet visible"
+440,wrong_face,8x17 box on whitish patch; crop shows the hijab face of #443 instead
+441,unclear,8x10 tiny blur
+442,unclear,"head bowed, hairnet, possible white mask, too small"
+443,unclear,"14x13 blurry profile, possible mask strap, cannot tell"
+444,unclear,"10x8 tiny, face under hairnet, crop is blur"
+445,unclear,"8x14 side/back of head with cap, mouth not visible"
+446,unclear,"8x15 side of head with cap, mouth not visible"
+447,ok,"head bowed but cheek/nose/mouth visible from above, no mask"
+448,ok,"woman hairnet and glasses, bare face"
+449,ok,man bare face
+450,ok,white KN95-style mask over nose and mouth
+451,ok,"hijab, white mask over nose and mouth, hand at glasses"
+452,ok,surgical mask on
+453,ok,surgical mask on
+454,ok,surgical mask on
+455,ok,surgical mask on
+456,ok,"young man looking down, bare face"
+457,ok,"man with glasses, bare face"
+458,unclear,"13x13 blurry brown patch, no face discernible"
+459,ok,"woman with glasses, bare face"
+460,ok,"hijab, mask pulled under chin"
+461,ok,white mask over nose and mouth
+462,unclear,"head bowed, only ear/cheek visible, mouth hidden"
+463,ok,"woman profile, bare face (blurry)"
+464,ok,"hijab profile, bare face"
+465,ok,white mask over nose and mouth
+466,ok,white mask over nose and mouth
+467,ok,"small; purple hijab, white mask appears to cover nose and mouth"
+468,unclear,"12x14 white shape with strap, face not visible (possibly mask hanging or back of head)"
+469,ok,"mask pulled down below nose to chin, hand at face"
+470,ok,white mask over nose and mouth
+471,unclear,"12x8 head with hairnet turned away, face dark"
+472,ok,white KN95 mask over nose and mouth
+473,ok,"man profile with glasses, skin visible at nose/mouth, no mask (blurry)"
+474,ok,white mask over nose and mouth
+475,ok,man bare face
+476,ok,"head bowed, mask hanging under chin"
+477,ok,"white mask on, hand beside face"
+478,ok,man bare face
+479,ok,man bare face
+480,ok,"man profile, bare face"
+481,wrong_face,"crop shows dark blur/partial edge, not the woman with glasses in the box (bare face)"
+482,ok,"hijab, white mask over nose and mouth"
+483,ok,white mask over nose and mouth
+484,ok,surgical mask on
+485,ok,"man with glasses, bare face"
+486,ok,surgical mask on nose and mouth (crop partly cut)
+487,unclear,"blurry hijab profile at desk, cannot confirm"
+488,unclear,face cut off at frame top and covered by timestamp overlay
+489,ok,"man head down, lower face visible, bare"
+490,ok,"hijab profile, bare nose/lips, mask strap hanging (mask not on)"
+491,ok,"woman with glasses from above, bare face"
+492,ok,"hijab profile close-up, bare nose and lips"
+493,ok,surgical mask on
+494,ok,"head slightly bowed, white mask on lower face under hairnet"
+495,ok,man bare face
+496,ok,white mask over nose and mouth
+497,ok,surgical mask on
+498,unclear,"back of head with hairnet and mask straps, face not visible"
+499,unclear,hand covering mouth/nose
+500,ok,"man motion-blurred, bare face mouth visible"
+501,unclear,"blurry hijab profile with strap, cannot tell"
+502,ok,"white mask over nose and mouth, head slightly bowed"
+503,ok,"white mask on, hand pressing it at nose"
+504,ok,surgical mask on
+505,ok,"man in cap, profile, bare nose/mouth"
+506,unclear,"woman turned away, only side/back of head visible"
+507,unclear,"hijab woman looking down, lower face not clearly visible"
+508,ok,"man with hairnet in profile, bare face"
+509,ok,"hijab woman, bare face"
+510,ok,white mask over nose and mouth
+511,ok,white mask over nose and mouth
+512,ok,"white mask over nose and mouth, hands raised"
+513,ok,"mask pulled under chin, mouth open"
+514,ok,"woman with glasses, bare face"
+515,ok,white mask over nose and mouth
+516,ok,"woman with glasses, bare face"
+517,ok,"man with hairnet, motion blur, bare face"
+518,ok,man bare face
+519,unclear,face hidden behind timestamp overlay at frame top
+520,ok,woman bare face
+521,ok,"man in cap bowed, profile nose/mouth bare"
+522,wrong_face,"crop is an orange/blue smear, not the woman's face in the 101x76 box (her face mostly turned away anyway)"
+523,ok,"man with hairnet profile, bare face"
+524,ok,"hijab woman, bare face"
+525,ok,"hijab woman, mask pulled down to chin"
+526,ok,"woman with glasses, bare face"
+527,ok,"hijab profile, white mask over nose and mouth"
+528,unclear,"head bowed under striped cap, face hidden; crop shows only cap texture"
+529,ok,"man bowed, bare face visible"
+530,unclear,"head turned away, only ear/cheek with strap visible"
+531,ok,"man profile, bare face (blurry)"
+532,wrong_face,"crop shows back of head/ear of foreground man, not the hijab woman with glasses in box (bare face)"
+533,ok,"hijab woman, bare face"
+534,ok,"woman with hairnet and glasses, bare face"
+535,ok,white mask over nose and mouth (blurry)
+536,unclear,"head turned away, only ear/cheek visible"
+537,ok,"man bowed, nose/mouth bare, mask pulled to chin"
+538,ok,white mask over nose and mouth
+539,ok,white mask over nose and mouth
+540,ok,surgical mask on
+541,ok,woman bare face
+542,ok,"man hand on cheek, mouth visible, bare"
+543,ok,"young man looking down, bare face"
+544,ok,white mask over nose and mouth
+545,ok,"woman with hairnet and glasses, bare face"
+546,ok,man bare face
+547,ok,"man bowed, bare face visible"
+548,unclear,"blurry hijab profile with strap, cannot tell"
+549,unclear,"man turned away, only cheek/ear visible"
+550,ok,"man bowed, nose/mouth visible, bare"
+551,unclear,"blurry hijab profile with strap, cannot tell"
+552,ok,"hijab woman, mask pulled under chin"
+553,ok,"woman with glasses, bare face"
+554,unclear,"14x13 bowed head under hairnet, face not discernible"
+555,ok,"surgical mask over nose and mouth, profile"
+556,ok,white mask over nose and mouth
+557,ok,man bare face
+558,wrong_face,"crop shows the hairnet/hijab woman (mask under chin), but box is on long-haired woman with glasses (bare face)"
+559,ok,white mask over nose and mouth
+560,unclear,hand covering nose/mouth
+561,ok,surgical mask on
+562,ok,"surgical mask on, profile (crop blurry)"
+563,ok,surgical mask on
+564,ok,"man with glasses, bare face"
+565,ok,"hijab woman, blurry but bare face"
+566,unclear,"blurry hijab profile at desk, cannot confirm"
+567,unclear,"man facing away, teal mask/strap along jaw, nose/mouth not visible"
+568,ok,white mask over nose and mouth
+569,ok,white mask over nose and mouth
+570,ok,"head bowed, surgical mask over nose and mouth"
+571,ok,"woman looking down, bare face"
+572,ok,man bare face
+573,ok,"hijab woman looking down, bare lower face"
+574,ok,"hijab, white mask over nose and mouth"
+575,ok,"woman with glasses, bare face"
+576,unclear,"11x18 head seen from above, crop mostly pink sign"
+577,unclear,"9x19 back/side of head, face not visible"
+578,unclear,"6x13 back of head, crop is grey blur"
+579,ok,"head bowed, surgical mask over nose and mouth"
+580,ok,"woman looking down, bare face"
+581,ok,white mask over nose and mouth
+582,ok,man bare face
+583,ok,white mask over nose and mouth
+584,ok,white mask over nose and mouth
+585,ok,white mask over nose and mouth
+586,ok,"white mask over nose and mouth, head slightly bowed"
+587,unclear,hand covering face
+588,unclear,"woman bowed, crop shows mostly hair and partial blurry cheek"
+589,unclear,"woman with hairnet turned away, face not visible"
+590,ok,"man in cap bowed profile, bare nose/mouth"
+591,ok,"hijab woman, mask pulled under chin"
+592,wrong_face,"crop shows pale blurry hand-like texture, not the man's face (seen from above) in box"
+593,ok,"woman viewed from above, glasses and bare nose, no mask"
+594,unclear,"top of hijab head with hand, face not visible"
+595,ok,surgical mask on
+596,ok,"man with hands at mouth but nose clearly bare, no mask"
+597,unclear,"16x13 man in cap, lower face blurry, cannot tell"
+598,unclear,"12x15 bowed head under hairnet, face not discernible"
+599,unclear,"19x10 back of head/cheek, face not visible"
+600,unclear,"11x9 man turned away, only cheek visible"
+601,unclear,"9x15 man facing away, mask strap at ear, nose/mouth not visible"
+602,ok,white mask over nose and mouth
+603,ok,white KN95 mask over nose and mouth
+604,ok,"hijab woman, mask pulled under chin"
+605,ok,"woman with glasses, bare face"
+606,ok,white mask over nose and mouth
+607,ok,surgical mask on
+608,unclear,hand covering nose/mouth
+609,unclear,"back of head with hairnet and mask straps, face not visible"
+610,ok,"surgical mask on, head bowed"
+611,ok,"man with glasses, bare face"
+612,ok,"surgical mask over nose and mouth, profile (crop blurry)"
+613,ok,"hijab woman, blurry but bare face"
+614,ok,"woman smiling, bare face"
+615,ok,"man with glasses profile, bare face"
+616,ok,"surgical mask on, hands beside face"
+617,ok,"hijab woman, mask pulled under chin"
+618,unclear,"hooded person in profile, blurry, crop dominated by other person"
+619,unclear,"woman with hairnet turned down/away, motion blur"
+620,ok,"man with hairnet looking down, profile nose/mouth bare"
+621,unclear,"man in cap looking down/away, face hidden"
+622,unclear,"woman facing away, back of head"
+623,ok,white mask over nose and mouth
+624,ok,white mask over nose and mouth
+625,ok,"hijab, white mask over nose and mouth"
+626,ok,white mask over nose and mouth
+627,ok,white mask over nose and mouth (same frame as 630)
+628,ok,man bare face (same frame as 631)
+629,unclear,"14x19 man in striped cap facing away, mask edge on cheek, nose/mouth not visible"
+630,ok,white mask over nose and mouth (duplicate of 627)
+631,ok,man bare face (duplicate of 628)
+632,unclear,"10x17 man in cap facing away, face not visible"
+633,unclear,"9x11 back/side of head with cap, face not visible"
+634,ok,woman bare face
+635,ok,"man hand on cheek, mouth visible, bare"
+636,ok,"boy looking down, bare face"
+637,ok,"hijab woman, bare face"
+638,ok,"woman with glasses, hand near cheek, nose and mouth bare"
+639,unclear,"18x34 bowed head under hairnet, mask edge visible, face hidden"
+640,wrong_face,crop shows hairnet top and brown cloth of another person; box is woman with glasses and white mask on
+641,unclear,"14x25 side face with teal mask, too small to confirm nose covered"
+642,unclear,"17x10 bowed head under hairnet, face hidden"
+643,unclear,10x8 tiny noise
+644,ok,"man with glasses, bare face"
+645,ok,surgical mask on
+646,ok,"hijab woman profile, bare face (blurry)"
+647,unclear,"woman turned away, hair over face, blurry"
+648,unclear,"crop shows top/side of bowed head and ear, mouth not visible"
+649,ok,"bare face with glasses, no mask"
+650,ok,bare face man
+651,ok,surgical mask covering nose and mouth
+652,ok,"mask pulled under chin, bare nose/mouth"
+653,unclear,"crop is very blurry close-up of cheek, mouth not discernible"
+654,wrong_face,"crop shows green blur and skin, not the glasses/hijab woman's face in box"
+655,ok,bare face man in profile
+656,ok,white mask over nose and mouth
+657,ok,bare face man
+658,ok,bare face woman
+659,ok,"man looking down, bare face visible"
+660,ok,"bare face, hand resting on chin, nose/mouth uncovered"
+661,ok,"blurry side face, no mask visible"
+662,ok,"head bowed, white mask worn over lower face"
+663,ok,KN95-style mask over nose and mouth
+664,ok,bare face with glasses
+665,ok,"mask pulled under chin, mouth bare"
+666,unclear,"hand covers much of face, mouth region not clearly visible"
+667,ok,bare face man in profile
+668,unclear,"tiny dark crop, face not discernible"
+669,unclear,"head bowed, hairnet visible, mouth hidden"
+670,ok,dark but bare face of hijab woman visible
+671,unclear,"top of head with hairnet, face hidden"
+672,unclear,"tiny face, lower face covered by black fabric (niqab/cloth?) not clearly a surgical mask"
+673,ok,"white mask over nose and mouth, hands raised"
+674,ok,blue surgical mask over nose and mouth
+675,ok,KN95 mask over nose and mouth
+676,ok,white mask over nose and mouth
+677,unclear,"hand pressed over nose/mouth area, mask partly hidden"
+678,ok,"KN95 mask visible over nose and mouth, gloved hand beside"
+679,ok,bare face man in profile
+680,ok,bare face woman
+681,unclear,"face turned away, only glasses/cheek edge visible, mouth not seen"
+682,ok,crop very blurry but zoom shows bare-faced man with glasses
+683,wrong_face,"crop shows green-cap person's back, not the bearded bare face in box"
+684,ok,bare face man
+685,ok,"blurry crop, zoom shows bare-faced man"
+686,ok,white mask over nose and mouth
+687,ok,mask under chin
+688,ok,"bare face man, close blurry crop"
+689,ok,blurry bare face man
+690,ok,KN95 mask over nose and mouth
+691,ok,"KN95 mask over nose and mouth, hands adjusting hairnet"
+692,ok,bare face man looking down
+693,unclear,"head bowed, face hidden"
+694,ok,"motion-blurred side face, glasses, no mask visible"
+695,unclear,"heavy motion blur, face turned down, mouth not discernible"
+696,unclear,"head bowed under cap, blurry, mouth not visible"
+697,ok,"green mask pulled down to chin, mouth bare"
+698,ok,"motion blurred but bare face, no mask"
+699,ok,"head bowed, KN95 mask over lower face"
+700,wrong_face,"crop shows wall/shoulder blur, not the side face in box"
+701,ok,"man looking down, bare face"
+702,unclear,"tiny top-down view, hairnet, mouth not visible"
+703,ok,surgical mask over nose and mouth
+704,ok,bare face man
+705,ok,"finger at mouth but nose bare, no mask"
+706,ok,surgical mask over nose and mouth
+707,ok,bare face man with glasses
+708,ok,surgical mask over nose and mouth
+709,ok,blurry bare face of hijab woman
+710,wrong_face,"crop is a featureless blur, the hijab woman's face in box not visible"
+711,ok,bare face man with hairnet
+712,ok,white mask over nose and mouth
+713,ok,bare face woman
+714,ok,"KN95 mask over nose and mouth, gloved hand near"
+715,ok,surgical mask over nose and mouth
+716,ok,"hands clasped at mouth, nose bare, no mask"
+717,unclear,"hands at ears (possibly fitting mask), lower face blurry"
+718,ok,bare face woman
+719,ok,"surgical mask over nose and mouth, profile"
+720,ok,KN95 mask over nose and mouth
+721,ok,bare face woman with glasses
+722,wrong_class,"blue surgical mask pulled down under chin, nose and mouth bare, labelled mask"
+723,unclear,"9x12 face, crop is an indistinct blur"
+724,unclear,"11x9 face, crop is an indistinct purple blur"
+725,ok,"white mask over lower face incl. nose, blurry"
+726,unclear,"17x12, blurry white patch, cannot tell coverage"
+727,unclear,green mask on lower face but too blurry to tell if nose covered
+728,unclear,"blurry dark crop, mask position not discernible"
+729,unclear,"green mask on lower face, nose coverage uncertain"
+730,ok,bare face man
+731,ok,blurry bearded bare face
+732,unclear,"13x10 very blurry face, cannot confirm mouth"
+733,unclear,"13x10, bowed head with hairnet, face hidden"
+734,unclear,"crop is grey blur; box on bowed head, no face visible"
+735,ok,KN95 mask over nose and mouth
+736,ok,bare face woman
+737,unclear,"rotated frame, crop is a blur of hair/skin, mouth not visible"
+738,unclear,"hairnet man turned away, motion blur, mouth not visible in crop"
+739,ok,bare face man in profile
+740,ok,bare face man looking down
+741,unclear,"crop is yellow/orange blur, bowed face not discernible"
+742,ok,bare face man looking down
+743,ok,bare face man with red scarf looking down
+744,ok,surgical mask over nose and mouth
+745,ok,KN95 mask over nose and mouth
+746,ok,surgical mask over nose and mouth
+747,ok,surgical mask over nose and mouth
+748,ok,bare face man looking down
+749,ok,bare face man with glasses
+750,ok,surgical mask over nose and mouth
+751,ok,bare face woman with glasses
+752,unclear,"crop heavily blurred top-down head, mouth not discernible"
+753,wrong_face,"box and crop show a white sleeve/shoulder, no face"
+754,ok,"head bowed, surgical mask over nose and mouth"
+755,ok,"bare face woman looking down, partly behind hairnet head"
+756,ok,bare face man
+757,ok,KN95 mask over nose and mouth
+758,ok,"green mask pulled under chin, mouth bare"
+759,ok,bare face woman in profile looking down
+760,unclear,"hooded person in profile, crop dominated by green hood, mouth not clear"
+761,unclear,"woman turned away, only glasses/cheek visible"
+762,unclear,"hairnet man looking down, crop blurry, mouth not visible"
+763,ok,bare face man in cap looking down
+764,unclear,"back of head, face not visible"
+765,ok,surgical mask over nose and mouth
+766,ok,surgical mask over nose and mouth
+767,ok,bare face woman
+768,ok,"green mask pulled under chin, mouth bare"
+769,unclear,"bowed head with hairnet, crop blurry, mouth not visible"
+770,unclear,"extreme close crop of turned-away face, mouth not clear"
+771,ok,surgical mask over nose and mouth
+772,ok,KN95 mask over nose and mouth
+773,unclear,"hand pressed over nose/mouth, mask partly hidden"
+774,ok,KN95 mask over nose and mouth
+775,ok,bare face man
+776,ok,"hairnet man with glasses, bare lower face visible"
+777,unclear,"heavy motion blur, face not discernible"
+778,unclear,"crop very blurry, whitish lower face (likely mask) but nose coverage not visible"
+779,ok,KN95 mask over nose and mouth
+780,ok,KN95 mask over nose and mouth
+781,wrong_face,"crop shows wall and a sliver of chin, not the woman's profile face in box"
+782,ok,bare face woman in profile
+783,ok,"head bowed, KN95 mask over lower face"
+784,ok,"head bowed, KN95 mask over lower face"
+785,wrong_face,crop is a featureless pale blur; zoom shows masked hijab woman
+786,ok,KN95 mask over nose and mouth
+787,ok,bare face man
+788,unclear,"top-down view of man in cap, face hidden"
+789,unclear,"top of head only, face hidden"
+790,wrong_face,"crop shows a hand/finger on dark background, not the hijab woman's face"
+791,unclear,"top-down view of woman with glasses, mouth area hidden/dark"
+792,ok,surgical mask over nose and mouth
+793,ok,KN95 mask over nose and mouth
+794,ok,"mask pulled under chin, mouth bare"
+795,ok,surgical mask over nose and mouth
+796,ok,bare face woman
+797,ok,bare face man looking down
+798,ok,"bare face man, hand at cheek"
+799,ok,surgical mask over nose and mouth
+800,ok,bare face man in profile
+801,ok,bare face woman with glasses and hairnet
+802,ok,KN95 mask on nose/mouth visible through transparent glove
+803,ok,surgical mask over nose and mouth
+804,ok,KN95 mask over nose and mouth
+805,ok,bare face man
+806,ok,"profile, green surgical mask over nose and mouth"
+807,ok,"KN95 mask over nose and mouth, hand at chin"
+808,ok,"white mask over nose and mouth, hand raised"
+809,unclear,"top-down bowed head, green mask visible but nose coverage not visible, crop blurry"
+810,unclear,"crop shows skin/hairnet blur, face turned away"
+811,ok,small but green mask visible covering nose and mouth in zoom
+812,unclear,"hijab woman looking down, crop shows only nose-tip profile, mouth not visible"
+813,ok,"bare face woman with glasses, lips visible"
+814,ok,bare face woman with glasses
+815,unclear,"blurry top-down view of man's face, mouth not discernible"
+816,wrong_face,"box and crop show a white sleeve/elbow, no face"
+817,ok,white mask over nose and mouth
+818,ok,KN95 mask over nose and mouth
+819,ok,bare face woman in profile
+820,unclear,"bowed head with hairnet, crop blurry, face not visible"
+821,unclear,crop is a blur; zoom suggests white mask but nose coverage not visible
+822,unclear,"blurry, mask over mouth but nose coverage uncertain"
+823,unclear,"crop grey blur, face not discernible"
+824,unclear,"white mask band visible but upper face dark/blurry, nose coverage uncertain"
+825,unclear,"15x8 very blurry face next to hair, mouth not discernible"
+826,ok,blurry bare face man
+827,ok,bare face man
+828,ok,close blurry crop of hijab woman's cheek; zoom shows bare face with glasses
+829,ok,bare face man drinking through straw
+830,unclear,blurry hijab profile; lower face looks whitish (possible mask) - cannot confirm
+831,unclear,"man turned away, only glasses/ear visible"
+832,wrong_face,box/crop on brown shirt/neck area; the actual face (masked) is above the box
+833,unclear,10x9 dark tiny face
+834,ok,"profile, white mask over nose and mouth"
+835,ok,black 3D-shaped mask over nose and mouth (not clearly fabric)
+836,ok,black shaped mask over nose and mouth (not clearly fabric)
+837,ok,"head bowed, green mask over lower face"
+838,unclear,"hairnet worker turned away, face hidden"
+839,unclear,"12x13 blur, face not discernible"
+840,wrong_face,"crop shows the back/side of the man in front, not the glasses/hijab woman in box"
+841,ok,"bare face man in profile, blurry"
+842,unclear,"15x9, face hidden under hairnet/blur"
+843,unclear,"top-down man in cap, face hidden"
+844,unclear,"top-down man in cap, face hidden"
+845,unclear,"hijab woman bent over, crop shows dark hijab/back, face hidden"
+846,unclear,"15x15 blurry, green mask visible in zoom but nose coverage not discernible"
+847,wrong_class,"black (likely fabric) mask sitting below nose, nose exposed; labelled mask"
+848,unclear,"13x8 very blurry, mouth not discernible"
+849,unclear,"7x20 box on side of hairnet head, face not visible"
+850,unclear,"9x9 blur, no face discernible"
+851,ok,white mask over nose and mouth
+852,ok,"KN95 mask pulled under chin, mouth bare"
+853,ok,"bare face woman in profile, lips visible"
+854,ok,"hijab woman looking down, nose and lips bare"
+855,wrong_face,crop is a featureless grey blur; zoom shows hairnet man with white mask
+856,ok,surgical mask over nose and mouth
+857,ok,"finger at mouth, nose bare, no mask"
+858,unclear,"box on back of hairnet head with mask strap, face not visible"
+859,ok,"KN95 mask over nose and mouth, hand near"
+860,ok,white mask over nose and mouth
+861,wrong_face,"crop shows a different woman (hairnet, mask under chin) than the long-haired glasses woman in box"
+862,ok,"mask pulled under chin, mouth bare"
+863,ok,bare face woman with glasses
+864,ok,"bare face profile, man in green shirt"
+865,wrong_face,left crop shows back of another man's head; labelled face is hijab woman behind
+866,unclear,"hijab person turned away, only ear-loop strap visible"
+867,ok,surgical mask over nose and mouth
+868,ok,head bowed but bare lower face visible
+869,unclear,"hijab person turned away, face hidden, ear-loop visible"
+870,ok,surgical mask over nose and mouth
+871,ok,"surgical mask on, nose and mouth covered"
+872,ok,bare face with glasses
+873,ok,"side view, surgical mask covers nose and mouth"
+874,ok,"tiny hijab face, appears bare"
+875,ok,white KN95-type mask covering nose and mouth
+876,ok,"white KN95-type mask over nose and mouth, hijab, hands up"
+877,ok,"white mask over nose and mouth, glasses"
+878,ok,"white mask covering nose and mouth, hand near face"
+879,ok,surgical mask over nose and mouth
+880,ok,white KF94-type mask over nose and mouth
+881,ok,"bare face, hijab"
+882,ok,"white mask with glasses, blurry but covered"
+883,wrong_face,"left crop is a grey/dark blur, no face visible; box face (man looking down) appears bare"
+884,wrong_face,"left crop shows red marker and purple blur, no face; man turned away in box"
+885,unclear,"top-down 12x17, only hairnet/skin visible, mouth not visible"
+886,unclear,"top-down, teal object near head, face not discernible"
+887,unclear,"top-down 9x17, hairnet only, mouth not visible"
+888,unclear,"top-down 13x17, hairnet only, face not visible"
+889,ok,"bare face in profile, hijab"
+890,unclear,"woman turned away, face hidden by hair"
+891,unclear,"head bowed, only hair and ear visible"
+892,ok,"mask pulled under chin, nose and mouth bare"
+893,ok,"white mask over nose and mouth, glasses"
+894,ok,bare face with glasses
+895,ok,"bare face, moustache"
+896,unclear,"motion-blurred face, cannot tell"
+897,unclear,back of head
+898,ok,surgical mask over nose and mouth
+899,ok,bare face
+900,ok,"small hijab face, appears bare"
+901,ok,"profile, mask pulled down under chin, nose and mouth bare"
+902,ok,"white mask over nose and mouth, goggles"
+903,ok,"white mask over nose and mouth, hand near face"
+904,ok,"side profile, surgical mask covers nose and mouth"
+905,unclear,"head bowed under hairnet, face not visible in crop"
+906,unclear,"crop is grey blur, head bowed, cannot see mouth"
+907,ok,head bowed but teal mask visible across lower face
+908,unclear,"head bowed, only hairnet/dark area visible"
+909,unclear,14x8 tiny blurry bowed face
+910,unclear,12x7 tiny blurry face under hairnet
+911,ok,surgical mask over nose and mouth
+912,ok,"mask pulled under chin, face bare"
+913,ok,"white mask over nose and mouth, hijab"
+914,ok,"head bowed, black mask covering lower face (type not clearly fabric)"
+915,ok,"same man, black mask covering lower face, small"
+916,ok,"bare face looking down, profile"
+917,wrong_face,left crop shows back of foreground man's head; labelled face is hijab woman with glasses
+918,ok,"mask pulled under chin, nose and mouth bare"
+919,ok,blurry but bare face
+920,unclear,"top-down bowed head with hairnet, mouth not visible"
+921,unclear,14x12 top-down blur
+922,ok,"head bowed, bare lower face visible"
+923,unclear,"hijab person turned away, ear-loop strap visible, face hidden"
+924,ok,surgical mask over nose and mouth
+925,wrong_face,"left crop shows a hairnet-wearing man from behind; box is on man in striped cap, head bowed"
+926,unclear,"top-down bowed head with hairnet, lower face blurry"
+927,ok,"head bowed, surgical mask over nose and mouth"
+928,ok,bare face looking down
+929,ok,"white mask over nose and mouth, hijab"
+930,unclear,"hand pressed over nose/mouth area, cannot confirm mask coverage"
+931,ok,"side profile, bare face (crop blurry)"
+932,unclear,"man turned away toward laptop, mouth not visible"
+933,ok,bare face looking down
+934,ok,"bare face under cap, close-up"
+935,unclear,"bent-over person, teal mask partly visible, face orientation unclear"
+936,ok,"side profile, bare face with glasses (crop blurry)"
+937,ok,"hairnet, glasses, bare nose and mouth"
+938,ok,bare face profile
+939,wrong_face,left crop shows back of foreground man's head; labelled face is hijab woman with glasses
+940,unclear,"hijab profile turned away, ear-loop visible, mouth side hidden"
+941,ok,bare face with glasses
+942,ok,"head bowed, teal mask visible over lower face in zoom"
+943,unclear,"top-down, face turned away, crop is dark/grey blur"
+944,unclear,"blurry bowed head, teal may be mask but coverage not visible"
+945,unclear,"bowed head, crop shows grey/dark area, face not visible"
+946,unclear,"crop is grey blur, face not visible"
+947,unclear,19x11 tiny blurry face under hairnet
+948,wrong_face,box sits in front of man's profile; left crop is mostly wall with only a dark edge
+949,ok,bare face profile with glasses
+950,unclear,"top-down bowed head, teal mask visible but nose coverage not visible"
+951,unclear,"top-down 13x15, teal blur only"
+952,unclear,"top-down 11x19, brown blur next to pink crate, no face visible"
+953,unclear,11x12 top-down blur
+954,unclear,8x10 tiny top-down blur
+955,ok,"white mask over nose and mouth, hairnet"
+956,ok,"white mask over nose and mouth, hairnet"
+957,ok,"white KN95-type mask, hijab"
+958,ok,surgical mask over nose and mouth
+959,ok,"bare face, hijab, looking down"
+960,ok,"surgical mask over nose and mouth, head slightly bowed"
+961,ok,"surgical mask over nose and mouth, head bowed"
+962,ok,surgical mask over nose and mouth
+963,ok,"side view, surgical mask covers nose and mouth"
+964,unclear,"heavy motion blur, head bowed"
+965,ok,"bare face, hand on forehead, mask possibly around neck"
+966,ok,"bowed profile under hairnet, bare nose and mouth"
+967,ok,bare face profile under cap
+968,ok,bare face profile under cap
+969,ok,"bowed profile under hairnet, bare nose and mouth"
+970,ok,"bare face, hijab"
+971,ok,"bare face profile, hijab"
+972,ok,motion-blurred but bare face visible
+973,unclear,"woman turned away, box on side/back of head"
+974,ok,"man in cap, mask pulled down/hanging, nose and mouth bare"
+975,unclear,"top-down bowed head in hairnet, lower face blurry"
+976,ok,"white mask over nose and mouth, hijab"
+977,ok,bare face with glasses
+978,ok,top-down but teal mask visible over lower face
+979,wrong_face,left crop is mostly yellow food blur; box is tiny 14x8 on bowed head
+980,ok,"white mask over nose and mouth, hijab"
+981,unclear,"bowed head, ear strap visible but coverage not visible"
+982,unclear,"top-down hairnet, face not visible"
+983,unclear,"top-down black cap, ear strap, face not visible"
+984,unclear,"bowed dark face, blurry, cannot see mouth"
+985,unclear,"bowed head seen from side/back with ear strap, face not visible"
+986,ok,"teal surgical mask over nose and mouth, head bowed"
+987,ok,"black mask over nose and mouth (unpleated, possibly fabric but not clearly)"
+988,unclear,"top-down bowed head, teal visible but coverage not visible"
+989,unclear,13x9 tiny blur
+990,unclear,14x11 top-down blur
+991,ok,"white mask over nose and mouth, hijab"
+992,ok,"mask pulled under chin, nose and mouth bare"
+993,ok,blurry bare face with glasses
+994,ok,"motion-blurred bare face with glasses, hairnet"
+995,ok,"bare face, man leaning forward"
+996,ok,bare face profile
+997,ok,bare face
+998,ok,"bare face profile, man leaning"
+999,ok,"bare face profile with glasses, hairnet"
+1000,unclear,"head fully bowed, only hairnet/hijab visible"
+1001,unclear,"top-down 14x17 under hairnet, no mask visible but mouth not visible"
+1002,unclear,12x14 top-down under hairnet
+1003,unclear,"bowed man in black cap, dark blurry lower face"
+1004,ok,"bare face, drinking through straw"
+1005,ok,bare face profile with glasses
+1006,ok,"hijab profile, bare nose and mouth (crop blurry)"
+1007,ok,"white mask over nose and mouth, hairnet"
+1008,ok,"white mask over nose and mouth, hairnet"
+1009,ok,"partial face at frame edge, white mask over nose and mouth"
+1010,ok,"white mask over nose and mouth, hijab"
+1011,unclear,5x6 tiny top-down blur
+1012,unclear,"top-down bowed head, teal mask edge visible but nose coverage not visible"
+1013,unclear,"top-down, crop mostly hairnet"
+1014,wrong_face,left crop dominated by yellow food blur; box is 11x8 on bowed head
+1015,ok,"white mask over nose and mouth, hijab, slightly bowed"
+1016,unclear,"top-down hairnet, face not visible"
+1017,ok,"side view, surgical mask over nose and mouth"
+1018,unclear,"top-down hijab/hairnet, crop is blur"
+1019,unclear,"bowed head under hairnet, crop is skin/grey blur"
+1020,ok,"hairnet, teal mask over nose and mouth, slightly bowed"
+1021,ok,blurry bare face
+1022,ok,bare face profile with glasses (crop blurry)
+1023,wrong_face,"left crop shows a larger man in profile (foreground person), not the small frontal face in the box"
+1024,wrong_face,left crop centred on back of green-cap man; labelled bare face is behind him
+1025,unclear,18x15 pale blurry face
+1026,unclear,12x11 pale blur
+1027,ok,"white mask over nose and mouth, hijab"
+1028,ok,surgical mask over nose and mouth
+1029,ok,bare face
+1030,ok,"blurry bare face, hijab"
+1031,ok,"white mask over nose and mouth, glasses"
+1032,ok,"mask pulled under chin, nose and mouth bare"
+1033,ok,bare face at frame edge
+1034,ok,"motion-blurred bare face with glasses, hairnet"
+1035,ok,"bare face, man leaning over counter"
+1036,ok,"white mask over nose and mouth, head slightly bowed"
+1037,ok,surgical mask over nose and mouth
+1038,unclear,"top-down, person seen from behind, no face visible"
+1039,unclear,12x11 top-down hairnet blur
+1040,unclear,"10x14 red/grey blur, no face visible"
+1041,unclear,"top-down hairnet from behind, face not visible"
+1042,ok,"hairnet, teal mask visible over lower face"
+1043,ok,bare face
+1044,unclear,"bowed hijab/hairnet, crop is grey/dark blur, face not visible"
+1045,ok,"bowed under hairnet, teal mask visible over lower face"
+1046,unclear,"bowed head, crop is grey blur"
+1047,ok,bare face looking down
+1048,ok,bare face profile under cap
+1049,unclear,"head bowed, face hidden by hair"
+1050,ok,surgical mask over nose and mouth
+1051,ok,"bowed profile, bare nose and mouth"
+1052,ok,"profile with glasses, bare (crop blurry)"
+1053,ok,surgical mask over nose and mouth
+1054,ok,bare face
+1055,unclear,"hijab person turned away, ear-loop visible, face hidden"
+1056,wrong_face,left crop shows back of foreground man's head; labelled face is hijab woman with glasses
+1057,ok,surgical mask over nose and mouth
+1058,ok,bare face
+1059,ok,"blurry bare face, hijab"
+1060,unclear,"18x17 dark blur, cannot see mouth"
+1061,ok,"white mask over nose and mouth, glasses"
+1062,unclear,crop is white/grey blur; side-turned face in zoom
+1063,unclear,"top-down bowed head under hairnet, lower face blurry"
+1064,ok,"blurry bare face, hijab"
+1065,ok,"white mask over nose and mouth, glasses"
+1066,ok,"white mask over nose and mouth, hand adjusting glasses"
+1067,ok,"bowed face under hairnet, bare nose and mouth"
+1068,unclear,"14x15 bowed over pot, white patch near chin, cannot confirm"
+1069,ok,surgical mask over nose and mouth
+1070,ok,"white mask over nose and mouth, glasses"
+1071,ok,"mask pulled under chin, nose and mouth bare"
+1072,ok,bare face with glasses

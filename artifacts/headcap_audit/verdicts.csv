@@ -1,0 +1,1868 @@
+id,verdict,note
+0,ok,teal hairnet
+1,ok,teal hairnet
+2,ok,teal hairnet
+3,ok,teal hairnet
+4,ok,teal hairnet
+5,ok,"teal hairnet, partly cropped"
+6,ok,baseball cap = street hat
+7,ok,"central bent person wears dark peaked cap, busy crop"
+8,ok,"bare head, ponytail"
+9,ok,bare head
+10,ok,teal cap
+11,ok,teal hairnet on central worker
+12,ok,hijab without cap
+13,ok,bare head
+14,ok,teal cap
+15,ok,teal cap over hijab
+16,ok,teal cap over hijab
+17,ok,white hairnet
+18,ok,white hairnet
+19,ok,bare head
+20,ok,teal cap over hijab
+21,ok,bare head
+22,ok,bare head
+23,ok,"hijab/bare, office, blurry"
+24,ok,hijab without cap
+25,ok,teal cap
+26,ok,bare head
+27,ok,"dark hijab no cap, top-down view"
+28,ok,bare hair with red hair tie
+29,ok,"blue bouffant cap, top-down"
+30,ok,dark hijab no cap
+31,ok,"dark hair/hijab top-down, no cap"
+32,ok,navy beret-style kitchen cap: PRESENT per user decision 2026-09-17 (was unclear)
+33,unclear,red puffy head covering (bouffant vs cloth wrap?) labelled no_cap
+34,ok,teal cap over hijab
+35,ok,bare head
+36,ok,teal hairnet
+37,ok,teal hairnet
+38,ok,teal cap top-down
+39,ok,teal cap
+40,ok,pinkish-white hairnet
+41,unclear,"top-down, head tiny and dark (looks bare?) labelled cap"
+42,ok,teal hairnet
+43,ok,teal hairnet
+44,ok,white hairnet
+45,ok,teal hairnet
+46,ok,teal hairnet
+47,ok,white hairnet
+48,ok,teal hairnet
+49,ok,teal hairnet
+50,ok,teal hairnet
+51,ok,teal hairnet
+52,ok,dark green cap
+53,ok,black hijab/hood no cap
+54,ok,teal cap
+55,ok,teal hairnet
+56,ok,dark green cap top-down
+57,ok,teal cap
+58,ok,hijab without cap
+59,ok,bare head
+60,ok,bare dark hair top-down
+61,ok,teal hairnet
+62,ok,teal hairnet
+63,ok,"teal cap, small figure"
+64,ok,teal hairnet
+65,ok,bare head
+66,unclear,"bent person with beige/white head covering, could be peaked cap or hairnet"
+67,ok,teal hairnet
+68,ok,teal hairnet
+69,ok,teal hairnet
+70,ok,teal hairnet
+71,ok,teal hairnet
+72,ok,teal hairnet
+73,ok,teal hairnet
+74,ok,black hijab no cap
+75,ok,black hijab no cap
+76,ok,navy beret-style kitchen cap: PRESENT per user decision 2026-09-17 (was unclear)
+77,ok,bare head
+78,ok,bare head
+79,ok,bare head
+80,wrong_class,black baseball cap with yellow emblem labelled cap
+81,wrong_class,beige peaked/baseball cap labelled cap
+82,ok,"bare head, blurry"
+83,ok,black baseball cap = street hat
+84,ok,dark peaked cap top-down
+85,ok,bare head
+86,ok,bare head
+87,ok,teal hairnet
+88,ok,bare head (woman at centre)
+89,ok,teal hairnet
+90,ok,teal cap over hijab
+91,ok,teal hairnet
+92,ok,hijab without cap
+93,ok,hijab without cap
+94,ok,bare head
+95,unclear,"top-down dark head with white mesh-like rim, possibly hairnet under dark cap"
+96,unclear,"black peaked cap, some white visible under it (hairnet under street cap?) labelled cap"
+97,ok,white hairnet
+98,unclear,"washed-out, dark peaked cap/helmet-like shape labelled cap"
+99,ok,grey/white hairnet
+100,ok,orange hijab no cap
+101,ok,white hairnet
+102,ok,white hairnet
+103,ok,"white chef toque (not in schema list, treated as food-grade)"
+104,ok,white chef toque (not in schema list)
+105,ok,white chef toque (not in schema list)
+106,ok,bare head
+107,ok,teal hairnet
+108,ok,teal hairnet
+109,ok,bare head
+110,ok,bare head
+111,ok,teal cap
+112,ok,teal cap
+113,ok,"teal cap on head at left edge, head partly cropped"
+114,ok,bare head
+115,ok,teal cap over hijab
+116,ok,bare head
+117,ok,bare head
+118,ok,teal cap
+119,ok,bare head
+120,ok,teal cap
+121,ok,bare head
+122,ok,bare head
+123,ok,"dark tied hair top-down, no cap"
+124,ok,teal hairnet
+125,ok,"bare curly hair, bending"
+126,ok,"bare head, blurry"
+127,ok,"bare head, motion blur"
+128,ok,bare head man at centre (hijab woman behind)
+129,ok,hijab without cap
+130,ok,green hairnet
+131,ok,bare head
+132,ok,bare head
+133,ok,hijab without cap
+134,ok,bare head
+135,ok,teal cap over hijab
+136,ok,teal hairnet
+137,ok,teal hairnet
+138,ok,teal hairnet
+139,ok,black beanie = street hat
+140,ok,hijab without cap
+141,ok,white hairnet
+142,ok,white hairnet
+143,ok,white hairnet
+144,ok,white hairnet
+145,ok,white hairnet
+146,ok,white hairnet
+147,ok,bare head
+148,ok,white hairnet
+149,ok,pink hijab no cap
+150,ok,blue hairnet
+151,resolved_no_cap,"CONFLICT; bare-headed man, clearly no cap"
+152,ok,blue cap
+153,ok,bare head
+154,ok,blue cap
+155,ok,blue cap (over dark hijab)
+156,unclear,"head cut off at top, only back/shoulders visible"
+157,ok,blue cap
+158,ok,blue cap
+159,ok,blue cap
+160,ok,teal hairnet
+161,unclear,"CONFLICT; blurry person, grey hijab-like covering, cap not discernible"
+162,ok,teal hairnet
+163,unclear,"dark bending figure, head covering not visible"
+164,ok,blue cap
+165,ok,blue/teal hairnet
+166,ok,"blue hairnet, bending"
+167,ok,light blue hairnet
+168,wrong_class,"light-blue/white hairnet clearly on, labelled no_cap"
+169,ok,green hairnet
+170,ok,teal hairnet
+171,wrong_class,beige baseball cap labelled cap
+172,ok,black hijab no cap
+173,ok,green hairnet
+174,ok,"green hairnet, small"
+175,ok,bare head
+176,ok,"bare dark hair, close blurry"
+177,ok,bare dark hair top-down
+178,ok,teal hairnet
+179,ok,"bare head, small figure"
+180,ok,bare head
+181,ok,green hairnet
+182,ok,brown hijab no cap
+183,ok,bare head
+184,ok,bare head
+185,ok,green cap over hijab
+186,ok,green hairnet
+187,ok,beige hijab no cap
+188,ok,green hairnet
+189,ok,teal cap on left-centre worker (hooded person behind right)
+190,ok,green hairnet
+191,ok,dark hijab no cap
+192,ok,green hairnet
+193,ok,beige hijab no cap
+194,ok,green hairnet
+195,ok,green cap over purple hijab
+196,ok,beige hijab no cap
+197,ok,green hairnet
+198,ok,green hairnet
+199,ok,green hairnet
+200,ok,"teal cap, small"
+201,ok,green hairnet
+202,ok,green cap over pink hijab
+203,ok,green hairnet
+204,ok,green hairnet
+205,ok,green cap over yellow hijab
+206,ok,green hairnet
+207,ok,green cap over hijab
+208,ok,green hairnet
+209,ok,green cap over hijab
+210,ok,teal/green hairnet
+211,ok,teal/green hairnet
+212,ok,teal/green hairnet
+213,ok,teal/green hairnet
+214,ok,teal/green hairnet
+215,ok,teal/green hairnet
+216,ok,teal/green hairnet
+217,ok,teal/green hairnet
+218,ok,teal/green hairnet
+219,ok,teal/green hairnet
+220,ok,teal/green hairnet
+221,ok,teal/green hairnet
+222,ok,teal/green hairnet
+223,ok,teal/green hairnet
+224,ok,teal/green hairnet
+225,ok,teal/green hairnet
+226,ok,teal/green hairnet
+227,ok,teal/green hairnet
+228,ok,teal/green hairnet
+229,ok,"green hairnet, small, behind timestamp"
+230,ok,teal/green hairnet
+231,unclear,"leaning person at right edge, head looks dark (navy hijab?), teal cap not clearly visible"
+232,ok,teal/green hairnet
+233,ok,teal/green hairnet
+234,ok,teal/green hairnet
+235,ok,teal/green hairnet
+236,ok,teal/green hairnet
+237,ok,teal/green hairnet
+238,ok,teal/green hairnet
+239,ok,teal/green hairnet
+240,ok,teal hairnet (two capped heads)
+241,ok,teal hairnet
+242,ok,"teal hairnet, close-up"
+243,ok,teal hairnet
+244,ok,teal hairnet on central worker (baseball-cap man behind)
+245,ok,teal hairnet
+246,ok,green hairnet
+247,ok,teal hairnet
+248,ok,teal hairnet
+249,ok,teal hairnet
+250,ok,teal hairnet
+251,ok,"teal hairnet, small"
+252,ok,"teal hairnet, blurry"
+253,ok,teal hairnet
+254,ok,pink hijab no cap
+255,ok,purple hairnet
+256,ok,white/blue hairnet
+257,ok,bare head
+258,wrong_class,"lilac/purple hairnet clearly on, labelled no_cap"
+259,ok,purple hairnet
+260,ok,"red hood, no cap, blurry"
+261,ok,teal hairnet
+262,ok,teal hairnet
+263,ok,teal hairnet
+264,ok,teal hairnet
+265,unclear,"small top-down dark head, possibly dark cap"
+266,ok,teal hairnet
+267,ok,teal hairnet
+268,ok,teal hairnet
+269,unclear,"head mostly cut off at top edge, only body visible"
+270,ok,bare head
+271,ok,"teal hairnet, extreme close-up"
+272,ok,bare head
+273,ok,teal hairnet on central lower worker
+274,ok,shaved bare head
+275,ok,white hijab no cap
+276,ok,teal hairnet
+277,ok,white hairnet
+278,ok,white hairnet
+279,ok,white hairnet
+280,ok,white hairnet
+281,ok,white hairnet
+282,ok,white hairnet
+283,ok,white hairnet
+284,ok,white hairnet
+285,ok,"white hairnet, washed out"
+286,ok,navy beret-style kitchen cap: PRESENT per user decision 2026-09-17 (was unclear)
+287,ok,navy beret-style kitchen cap: PRESENT per user decision 2026-09-17 (was unclear)
+288,ok,"dark hijab/hood no cap, partly cropped"
+289,ok,"grey hijab no cap, bending"
+290,ok,hijab no cap
+291,ok,hijab no cap
+292,ok,hijab no cap
+293,ok,bare head
+294,ok,bare head
+295,ok,teal hairnet
+296,ok,hijab no cap
+297,ok,teal hairnet
+298,ok,"green hairnet, bending"
+299,ok,"bare head, motion blur"
+300,ok,"teal cap, top of head"
+301,ok,teal hairnet
+302,ok,teal hairnet on central worker
+303,ok,hijab no cap
+304,ok,teal hairnet
+305,unclear,"head occluded by dark object at top, cap not visible"
+306,ok,black hijab no cap
+307,ok,black hijab no cap
+308,ok,white hairnet
+309,ok,teal hairnet
+310,ok,bare head
+311,ok,teal hairnet
+312,ok,teal hairnet
+313,ok,teal cap over hijab
+314,ok,teal hairnet
+315,ok,teal hairnet
+316,ok,teal hairnet
+317,ok,teal hairnet
+318,ok,teal hairnet
+319,ok,teal cap over hijab
+320,ok,teal hairnet top-down
+321,ok,teal hairnet
+322,ok,teal hairnet
+323,ok,bare head
+324,unclear,two stacked heads: beige hijab (no cap) at centre and more prominent teal-capped head just below
+325,ok,hijab no cap
+326,ok,bare head
+327,ok,teal cap over hijab
+328,ok,bare head
+329,ok,hijab no cap
+330,ok,black hijab no cap
+331,ok,bare head
+332,ok,teal hairnet
+333,ok,teal cap over hijab
+334,ok,teal hairnet
+335,ok,teal hairnet
+336,ok,teal cap over hijab
+337,ok,teal hairnet
+338,ok,"bare head from behind, blurry"
+339,ok,teal hairnet
+340,ok,teal hairnet
+341,ok,teal hairnet
+342,ok,teal cap over hijab
+343,ok,bare head
+344,ok,teal hairnet
+345,ok,bare head
+346,ok,teal cap over hijab
+347,ok,bare head
+348,ok,hijab no cap
+349,ok,teal cap over hijab
+350,ok,"hijab no cap, blurry"
+351,ok,teal cap over hijab
+352,ok,bare head
+353,ok,hijab no cap
+354,ok,bare head
+355,ok,bare head
+356,ok,teal hairnet
+357,ok,hijab no cap
+358,ok,bare head
+359,ok,teal hairnet
+360,ok,teal/green hairnet
+361,ok,teal/green hairnet
+362,ok,teal/green hairnet
+363,ok,teal/green hairnet
+364,ok,teal/green hairnet
+365,ok,teal/green hairnet
+366,ok,teal/green hairnet
+367,ok,teal/green hairnet
+368,ok,teal/green hairnet
+369,ok,teal/green hairnet
+370,ok,teal/green hairnet
+371,ok,teal/green hairnet
+372,ok,teal/green hairnet
+373,ok,"teal cap on head at top edge, partly cropped"
+374,ok,"teal hairnet, extreme close-up"
+375,ok,teal/green hairnet
+376,ok,"teal hairnets, several heads, pixelated area"
+377,ok,teal/green hairnet
+378,ok,teal/green hairnet
+379,ok,teal/green hairnet
+380,ok,teal/green hairnet
+381,ok,teal/green hairnet
+382,ok,teal/green hairnet
+383,ok,teal/green hairnet
+384,wrong_class,red baseball/peaked cap labelled cap
+385,ok,black hijab no cap
+386,ok,teal/green hairnet
+387,ok,teal/green hairnet
+388,ok,teal/green hairnet
+389,ok,teal/green hairnet
+390,ok,"green mesh cap, top-down view"
+391,ok,green non-woven cap
+392,ok,green cap (two capped heads)
+393,ok,hijab only
+394,ok,bare head long hair
+395,ok,"green cap, mask"
+396,ok,bare head
+397,ok,bare head
+398,ok,bare head man
+399,ok,"bare-head man and hijab woman, neither capped"
+400,ok,hijab only
+401,ok,green cap + mask on central person
+402,ok,green cap over hijab
+403,ok,green cap over hijab
+404,ok,bare head
+405,ok,hijab only
+406,ok,bare head woman
+407,ok,bare head
+408,ok,green cap over hijab
+409,ok,backwards baseball cap
+410,ok,white hairnet
+411,ok,bare head short hair
+412,ok,white hairnet
+413,ok,green hijab only
+414,ok,dark hijab only
+415,ok,"blue cap, back view"
+416,ok,green cap top view
+417,ok,green cap
+418,ok,green cap top view
+419,ok,"bare head, dark"
+420,ok,green cap
+421,ok,"teal mesh cap, back view"
+422,ok,"dark hijabs only, top-down"
+423,unclear,head top occluded by timestamp overlay
+424,unclear,head top occluded by timestamp overlay
+425,ok,green cap + mask
+426,ok,green cap over hijab
+427,ok,teal cap
+428,ok,green cap
+429,ok,green cap over hijab
+430,ok,green cap over hijab
+431,ok,bare head long hair
+432,ok,teal cap close-up
+433,ok,teal cap back view
+434,ok,teal cap back view
+435,ok,teal cap back view
+436,ok,teal cap
+437,ok,teal cap close-up
+438,ok,teal cap
+439,ok,teal cap
+440,ok,teal cap
+441,ok,bare head woman
+442,ok,teal cap
+443,ok,teal cap top view
+444,ok,teal cap top view
+445,ok,teal cap small
+446,ok,teal cap close-up
+447,ok,"teal cap, blurry partial"
+448,ok,"teal cap, blurry"
+449,ok,hijab only
+450,ok,"bare head, glasses"
+451,ok,teal cap
+452,ok,teal cap + mask
+453,ok,teal cap over beige hijab
+454,ok,"teal cap, top-down"
+455,ok,teal cap + mask
+456,ok,teal cap + mask
+457,ok,teal cap
+458,ok,teal cap
+459,ok,teal cap
+460,ok,teal cap over hijab
+461,ok,teal cap
+462,ok,teal cap + mask
+463,ok,"dark hood/hijab only, back view"
+464,ok,"bare head brown hair, arm raised"
+465,ok,teal cap close-up
+466,unclear,"blurry, no discernible head in centre"
+467,ok,teal cap + mask
+468,ok,"bare head dark hair, blurry"
+469,ok,bare head man
+470,ok,brown hijab only
+471,unclear,"extreme close-up of green fabric, head not discernible"
+472,ok,dark hijab only
+473,ok,bare head blond bun
+474,ok,"bare head, blurry"
+475,ok,"brown hijab only, top view"
+476,ok,grey hijab only
+477,ok,hijab only (small)
+478,ok,"brown hijab only, top view"
+479,ok,teal cap partially under timestamp
+480,ok,teal cap top view
+481,ok,"teal cap, blurry"
+482,ok,teal cap top view
+483,ok,"hijab only, top view"
+484,ok,bare head
+485,ok,bare head
+486,ok,dark hijab only
+487,ok,dark hood/hijab only
+488,ok,dark hijab only
+489,ok,teal cap
+490,ok,teal cap
+491,ok,teal cap
+492,ok,light blue cap + mask
+493,ok,light blue cap
+494,ok,bare head dark hair
+495,wrong_class,"dark bare-looking hair, no cap visible (low res) labelled cap"
+496,ok,teal cap
+497,ok,teal cap
+498,wrong_class,central man wears black baseball cap; teal-capped person is at top-left edge
+499,ok,teal cap
+500,ok,teal cap
+501,ok,teal cap over hijab
+502,wrong_class,"man wears dark peaked/baseball cap (or bare), no hygiene cap"
+503,ok,teal cap
+504,ok,teal cap
+505,ok,teal cap over hijab
+506,ok,teal cap top view
+507,ok,dark hijab only (bottom head); crop centre ambiguous with standing man's torso
+508,ok,grey hijab only
+509,ok,teal cap
+510,ok,"orange hijab only, top view"
+511,ok,"bare head dark hair, top view"
+512,ok,orange hijab only
+513,ok,light blue hairnet
+514,ok,light grey/white hairnet
+515,ok,teal cap
+516,ok,teal cap + mask
+517,ok,teal cap over hijab
+518,ok,teal cap
+519,wrong_class,"bare head, long loose dark hair, labelled cap"
+520,ok,green cap + mask
+521,ok,bare head woman
+522,ok,bare head woman
+523,ok,green cap over hijab
+524,ok,bare head
+525,ok,bare head
+526,ok,green cap over hijab
+527,ok,bare head man
+528,ok,bare head woman
+529,ok,"bare head, mask; holds teal cap in hand"
+530,ok,teal cap + mask
+531,ok,"bare head, mask"
+532,resolved_no_cap,"mauve hijab only, office setting"
+533,ok,teal cap top view
+534,ok,teal cap top view
+535,ok,black hijab only
+536,ok,bare head woman
+537,ok,white hairnet + mask
+538,ok,"bare head, mask"
+539,ok,bare head woman
+540,ok,bare head
+541,ok,bare head man
+542,ok,green cap over hijab
+543,ok,bare head man
+544,ok,green cap over hijab
+545,ok,green cap
+546,ok,green cap over hijab
+547,ok,bare head man
+548,ok,bare head man
+549,ok,green cap over hijab
+550,ok,green cap over hijab
+551,ok,hijab only
+552,ok,"bare head, crowd (event), central head from back"
+553,wrong_class,"bare head man with glasses, close-up, labelled cap"
+554,ok,bare head man
+555,ok,"bare head, crowded room"
+556,ok,"dark hair/beanie, no hygiene cap"
+557,ok,green cap + mask
+558,ok,bare head man
+559,ok,green cap over hijab
+560,resolved_no_cap,bare head woman with glasses
+561,ok,hijab only
+562,ok,bare head long hair
+563,ok,hijab only
+564,ok,"hijab only, back view"
+565,ok,teal cap over hijab
+566,ok,hijab only
+567,ok,bare head woman
+568,ok,green cap + mask
+569,ok,green cap + mask
+570,ok,teal cap
+571,ok,teal cap top view
+572,ok,teal cap over hijab
+573,ok,teal cap + mask
+574,ok,teal cap
+575,ok,bare head man
+576,ok,bare head man
+577,ok,teal cap
+578,ok,bare head woman
+579,ok,"bare head, lying/tilted"
+580,ok,teal cap + mask
+581,ok,teal cap over hijab
+582,ok,teal cap
+583,ok,teal cap over hijab
+584,ok,teal cap over hijab
+585,ok,teal cap top view
+586,ok,bare head man
+587,ok,teal cap over hijab
+588,ok,white hairnet
+589,unclear,"grey head: grey hair or grey cap, too blurry"
+590,ok,white hairnet
+591,ok,green hijab only
+592,ok,black hijab only
+593,ok,bare head woman (central); hijab woman behind
+594,ok,teal cap + mask
+595,ok,green cap over hijab
+596,ok,baseball cap
+597,ok,teal cap
+598,ok,bare head woman
+599,ok,hijab only
+600,ok,teal cap + mask
+601,ok,teal cap + mask
+602,not_head,centre is a black chair; teal-capped head only partly at left edge
+603,ok,bare head woman
+604,ok,teal cap top view
+605,ok,teal cap top view
+606,ok,teal cap
+607,ok,"bare head man, blurry"
+608,ok,teal cap + mask
+609,ok,"green cap, blurry"
+610,ok,teal cap top view
+611,ok,bare head man
+612,ok,"bare head man, back view"
+613,ok,hijab only
+614,ok,hijab only
+615,ok,green cap + mask
+616,ok,bare head woman
+617,ok,bare head woman
+618,ok,hijab only
+619,ok,teal cap + mask
+620,ok,bare head man
+621,wrong_class,"bare head man (back view, dark hair), labelled cap"
+622,ok,bare head man
+623,ok,teal cap + mask
+624,ok,bare head woman
+625,ok,hijab only
+626,ok,teal cap
+627,ok,teal cap
+628,ok,teal cap over hijab
+629,ok,teal cap
+630,ok,"bare head, blurry"
+631,ok,teal cap
+632,ok,teal cap
+633,ok,teal cap top view
+634,ok,teal cap
+635,ok,"teal cap, blurry"
+636,ok,teal cap + mask
+637,ok,teal cap + mask
+638,ok,bare head
+639,ok,teal cap
+640,ok,green cap over hijab
+641,ok,teal cap
+642,ok,teal cap + mask
+643,ok,bare head woman
+644,ok,mauve hijab only
+645,ok,brown hijab only
+646,ok,teal cap
+647,ok,"teal cap, back view"
+648,ok,teal cap + mask
+649,ok,"bare head, blurry at left edge"
+650,ok,"bare head, hands over face"
+651,ok,black hijab only
+652,ok,bare head
+653,ok,backwards baseball cap
+654,ok,bare head woman with ponytail (central)
+655,ok,teal cap + mask
+656,ok,bare head woman
+657,ok,mauve hijab only
+658,ok,white hairnet
+659,ok,teal cap + mask
+660,ok,teal cap + mask
+661,ok,teal cap
+662,ok,teal cap
+663,ok,teal cap top view
+664,ok,"bare head, motion blur"
+665,ok,teal cap
+666,ok,teal cap
+667,ok,"teal cap, top view"
+668,ok,teal cap
+669,ok,teal cap + mask
+670,ok,baseball cap
+671,ok,white hairnet
+672,not_head,"centre is a dark body/legs region, no head visible"
+673,ok,green cap over hijab
+674,ok,white hairnet
+675,ok,white hairnet
+676,ok,white hairnet
+677,ok,white hairnet
+678,ok,white hairnet
+679,ok,teal cap over hijab
+680,ok,black/white baseball cap
+681,ok,"dark hair (no hygiene cap), mask"
+682,ok,teal cap
+683,ok,teal cap + mask
+684,ok,teal cap + mask
+685,ok,teal cap top view
+686,ok,"teal cap, blurry"
+687,ok,teal cap + mask
+688,ok,teal cap
+689,ok,teal cap
+690,ok,teal cap + mask
+691,ok,green cap over hijab
+692,ok,bare head woman
+693,ok,green cap + mask
+694,ok,bare head
+695,ok,grey hijab only
+696,ok,"hijab only (central), bare-head man below"
+697,ok,hijab only
+698,ok,bare head
+699,ok,grey hijab only
+700,ok,"navy hijab only (central), bare-head man below"
+701,ok,bare head woman
+702,ok,green cap + mask
+703,ok,white baseball cap
+704,ok,navy baseball cap (white cap person at edge)
+705,ok,beige baseball cap
+706,ok,white hairnet
+707,ok,"bare/dark hair, no cap"
+708,unclear,"motion blur, head not discernible"
+709,ok,bare head
+710,ok,navy baseball cap + face covering
+711,ok,bare head
+712,ok,grey hijab only
+713,ok,"hijab only (central), bare-head man below"
+714,ok,green cap over hijab
+715,ok,navy hijab only
+716,ok,bare head long hair
+717,ok,"bare head, mask"
+718,ok,navy hijab only
+719,ok,bare head long hair
+720,ok,"bare head man, mask"
+721,ok,green cap over hijab
+722,ok,green cap
+723,ok,green cap over hijab
+724,ok,green cap
+725,ok,green cap over hijab
+726,ok,bare head
+727,ok,grey hijab only
+728,ok,"navy hijab only (central), bare-head man below"
+729,ok,green cap
+730,ok,green cap over hijab
+731,ok,teal cap + mask
+732,ok,teal cap over hijab
+733,ok,"teal cap, person bending"
+734,ok,teal cap + mask
+735,ok,teal cap + mask
+736,ok,"teal cap top view, bending"
+737,ok,navy hijab only
+738,ok,bare head long hair
+739,ok,black hijab only
+740,ok,"bare head woman, arms raised"
+741,ok,green cap + mask
+742,ok,bare head man
+743,ok,green cap over hijab
+744,ok,bare head
+745,ok,grey hijab only
+746,ok,"navy hijab (central), bare-head man below"
+747,ok,green cap over hijab
+748,ok,white hairnet + mask
+749,ok,white hairnet (nearest centre); neighbour wears striped bandana
+750,unclear,"striped black/white cloth skullcap (chef cap vs bandana ambiguous), head bent down"
+751,unclear,striped black/white cloth skullcap (chef cap vs bandana ambiguous)
+752,ok,green cap + mask
+753,ok,bare head woman
+754,ok,green cap over hijab
+755,ok,bare head woman
+756,ok,"black hijab only, back view"
+757,ok,grey hijab only
+758,ok,bare head
+759,ok,"navy hijab only (central), bare-head man below"
+760,ok,bare head man
+761,ok,green cap over hijab
+762,ok,bare head man
+763,ok,dark green hijab only
+764,ok,grey hairnet
+765,ok,bare head woman
+766,ok,black hijab only
+767,ok,green cap over hijab
+768,ok,green cap
+769,ok,green cap over hijab
+770,ok,teal cap + mask
+771,ok,bare head
+772,ok,green cap
+773,ok,green cap over hijab
+774,ok,"teal cap, back view"
+775,ok,teal cap + mask
+776,ok,teal cap
+777,ok,black hijab only
+778,ok,white/grey hairnet extreme close-up
+779,ok,black hijab only
+780,unclear,"very blurry close-up, dark hair visible, head top cut"
+781,ok,bare head black hair
+782,unclear,"grey/white head top while bending - grey hair or white cap, can't tell"
+783,ok,"olive-green hijab from above, no food cap visible"
+784,ok,white hairnet
+785,ok,bare head man
+786,ok,"dark hijab from behind, no cap"
+787,ok,white hairnet
+788,ok,bare head woman
+789,ok,teal cap
+790,ok,teal cap over hijab
+791,ok,bare head woman
+792,ok,bare head man
+793,ok,teal cap
+794,ok,teal cap
+795,ok,teal cap
+796,ok,teal cap over hijab
+797,ok,teal cap
+798,ok,teal cap
+799,ok,teal cap
+800,ok,teal cap over hijab
+801,ok,teal cap
+802,ok,teal cap
+803,ok,teal cap (partly behind marker)
+804,ok,teal cap
+805,ok,teal cap
+806,ok,central yellow-shirt person bare head (several heads)
+807,ok,hijab without cap
+808,ok,bare head
+809,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black headscarf under wok, no food cap"
+810,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); two equally central heads: left dark baseball-type cap, right black chef skullcap"
+811,ok,navy baseball cap
+812,unclear,"centre is arm/box; nearby heads dark, can't tell covering"
+813,ok,"dark cap with badge (street/baseball-type), blurry"
+814,ok,teal cap over hijab
+815,ok,bare head
+816,ok,backwards baseball cap
+817,ok,bare head woman
+818,ok,teal cap
+819,ok,bare head woman
+820,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black cloth chef skullcap - not teal/mesh; schema ambiguous
+821,ok,teal cap on right-hand cook (black skullcap cook at left edge)
+822,ok,blurry but bare dark hair
+823,ok,teal cap
+824,ok,teal cap
+825,ok,"teal caps (two people, both capped)"
+826,ok,teal cap over hijab
+827,ok,teal cap
+828,ok,bare head
+829,ok,teal cap
+830,ok,bare head
+831,ok,teal cap
+832,unclear,navy cloth skullcap/beanie with mask - not clearly food-grade
+833,ok,white hairnet over hijab
+834,ok,"central lower worker wears navy baseball cap (hairnet worker above, less central)"
+835,ok,white hairnet
+836,ok,white hairnet
+837,ok,teal cap
+838,ok,teal cap
+839,ok,teal cap
+840,ok,teal cap
+841,ok,teal cap
+842,ok,"dark hair/dark street cap, no food cap"
+843,ok,teal cap
+844,not_head,"blue bag/cloth object with red top, no head visible"
+845,ok,hijab without cap
+846,ok,"hijab woman (no cap) and bare-head man, both no_cap"
+847,ok,"dark hijab with mask, no cap"
+848,ok,teal cap
+849,ok,"navy hijab, no cap"
+850,ok,"pink/black hijabs, no cap"
+851,ok,"black hijab with mask, no cap"
+852,unclear,"blurry dark head covering, can't tell"
+853,ok,teal cap
+854,unclear,"very blurry, head barely recognisable"
+855,ok,teal cap
+856,ok,hijab without cap
+857,ok,bare head
+858,ok,bare head
+859,ok,hijab without cap
+860,ok,central is bare-head woman (teal-cap person at lower left)
+861,ok,teal cap over hijab
+862,unclear,"dark navy covering on bent head, can't tell cap vs hijab"
+863,ok,hijab without cap
+864,ok,bare head from above
+865,ok,hijab without cap
+866,ok,hijab without cap
+867,unclear,navy hijab-like covering with puffy top - can't tell if navy cap over hijab
+868,unclear,"blurry navy covering, same as 867"
+869,unclear,"navy hijab-like covering, can't tell if cap present"
+870,unclear,"navy hijab-like covering, can't tell if cap present"
+871,ok,"dark hair/hijab from behind, no food cap"
+872,ok,hijabs without cap
+873,ok,teal cap
+874,ok,teal cap
+875,unclear,"central covering looks like teal hijab draping to shoulders, not clearly a cap"
+876,ok,"black hijab, no cap"
+877,ok,"black hijab, no cap"
+878,ok,black hijab from behind
+879,ok,teal cap
+880,ok,teal cap over hijab
+881,ok,striped chef skullcap
+882,ok,white hairnet
+883,ok,striped chef skullcap
+884,ok,striped chef skullcap (ponytail hanging out)
+885,ok,teal cap
+886,ok,white baseball cap
+887,ok,teal cap
+888,ok,teal cap
+889,ok,teal cap
+890,ok,teal cap
+891,ok,teal cap
+892,ok,teal cap
+893,ok,teal cap
+894,ok,teal cap
+895,ok,teal cap
+896,ok,teal cap
+897,ok,teal cap over hijab
+898,ok,teal cap
+899,ok,bare head
+900,ok,bare head
+901,ok,hijab without cap
+902,ok,bare head
+903,ok,bare head
+904,ok,teal cap
+905,ok,teal cap over hijab
+906,ok,teal cap
+907,ok,teal cap
+908,ok,black brimmed cap (street-type)
+909,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); central blue-shirt worker wears black chef skullcap - schema ambiguous
+910,unclear,dark blurry head behind timestamp overlay
+911,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black chef skullcaps with face shield - schema ambiguous
+912,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black chef skullcap - schema ambiguous
+913,ok,teal cap over hijab
+914,ok,teal cap
+915,ok,teal cap over hijab
+916,ok,teal cap over hijab
+917,ok,teal cap over hijab
+918,ok,teal cap
+919,unclear,"person bent over, top of head hidden"
+920,ok,teal cap
+921,ok,bare head
+922,ok,hijab without cap
+923,unclear,"grey/white head covering at edge, can't tell cap vs beanie"
+924,ok,hijab without cap
+925,ok,bare head
+926,ok,bare head
+927,ok,bare head
+928,ok,teal cap over hijab
+929,ok,bare head
+930,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black chef skullcap - schema ambiguous
+931,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); bent head, dark hair or black skullcap, can't tell"
+932,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black chef skullcap - schema ambiguous
+933,ok,teal cap
+934,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); central worker black chef skullcap (teal-cap worker at right edge)
+935,wrong_class,black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black chef skullcap - schema ambiguous
+936,ok,bare dark hair
+937,ok,bare heads from behind
+938,ok,teal cap
+939,ok,"teal cap, blurry"
+940,ok,teal cap
+941,ok,teal cap
+942,ok,teal cap
+943,ok,teal cap
+944,ok,teal cap
+945,ok,teal cap
+946,ok,teal cap
+947,ok,bare head
+948,ok,teal cap over hijab
+949,ok,teal cap
+950,ok,bare head
+951,ok,teal cap
+952,ok,teal cap over hijab
+953,ok,bare head
+954,ok,central hijab woman without cap
+955,ok,hijab without cap
+956,unclear,"head bent down, top not visible"
+957,ok,teal cap
+958,ok,black hijab without cap
+959,ok,black hijab without cap
+960,unclear,very blurry dark hijab-like covering with mask
+961,ok,"purple hijab with mask, no cap"
+962,unclear,very blurry pink hijab-like covering
+963,ok,teal cap over hijab
+964,ok,grey hijab without cap
+965,ok,hijab without cap
+966,ok,navy baseball cap
+967,ok,central lower worker navy baseball cap (hairnet worker above)
+968,ok,white hairnet
+969,ok,white hairnet
+970,ok,teal cap over hijab
+971,ok,navy hijab without cap
+972,ok,bare head woman
+973,ok,hijab without cap
+974,ok,bare head
+975,ok,bare head
+976,ok,bare head
+977,ok,"bare-head man and hijab woman, both no cap"
+978,ok,bare head
+979,ok,hijab without cap
+980,ok,white hairnet
+981,ok,teal cap over hijab
+982,ok,bare head
+983,ok,teal cap
+984,ok,teal cap
+985,ok,bare head
+986,ok,teal cap
+987,ok,white hairnet
+988,ok,teal cap
+989,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); head bent, dark hair or black cap, can't tell"
+990,ok,teal cap close-up
+991,ok,teal cap
+992,ok,teal cap
+993,ok,bare black hair from behind
+994,ok,bare head
+995,ok,bare head
+996,ok,teal cap
+997,ok,bare head
+998,ok,teal cap over hijab
+999,ok,hijab without cap
+1000,ok,bare head
+1001,ok,teal cap
+1002,ok,teal cap from above
+1003,ok,teal cap from above
+1004,ok,bare head
+1005,ok,striped chef skullcap
+1006,ok,striped chef skullcap
+1007,ok,white hairnet
+1008,ok,white hairnet
+1009,ok,bare head
+1010,ok,bare head
+1011,ok,hijab without cap
+1012,ok,teal cap on bending worker
+1013,ok,teal cap
+1014,ok,teal cap over hijab
+1015,ok,teal cap
+1016,ok,"teal cap on bending worker, blurry"
+1017,ok,teal cap over hijab
+1018,ok,teal cap
+1019,ok,teal cap over beige hijab
+1020,ok,bare head woman
+1021,ok,teal cap
+1022,ok,"bare head (top slightly cropped, hair visible)"
+1023,ok,white/blue hairnets
+1024,ok,hijab without cap
+1025,ok,bare head
+1026,ok,hijab without cap
+1027,ok,white hairnet
+1028,ok,white hairnet
+1029,ok,white hairnet over hijab
+1030,ok,white hairnet
+1031,ok,striped chef skullcap
+1032,ok,white hairnet
+1033,ok,striped chef skullcap
+1034,ok,striped chef skullcap
+1035,ok,bare head
+1036,ok,hijab without cap
+1037,ok,white hairnet
+1038,ok,bare head
+1039,ok,olive hijab without cap
+1040,ok,bare head
+1041,ok,grey hijab without cap
+1042,ok,central hijab woman without cap
+1043,ok,teal cap
+1044,ok,teal cap
+1045,ok,teal cap
+1046,ok,teal cap
+1047,ok,teal cap
+1048,ok,teal cap over hijab
+1049,ok,bare head
+1050,ok,teal cap
+1051,ok,hijab without cap
+1052,ok,teal cap
+1053,ok,bare head
+1054,ok,bare head woman
+1055,ok,bare head woman
+1056,ok,hijab without cap
+1057,ok,bare head woman
+1058,ok,hijab without cap
+1059,ok,teal cap over hijab
+1060,ok,bare head
+1061,ok,teal cap
+1062,ok,central woman bare head (teal-cap person at left edge)
+1063,ok,teal cap
+1064,ok,teal cap
+1065,ok,bare head
+1066,ok,grey hijab without cap
+1067,ok,teal cap over hijab
+1068,ok,teal cap
+1069,ok,bare head
+1070,ok,bare head
+1071,ok,bare head
+1072,ok,bare heads
+1073,ok,bare head
+1074,ok,"bare head from behind, small"
+1075,ok,bare head
+1076,ok,"bare head close-up, blurry"
+1077,ok,bare head
+1078,ok,teal cap
+1079,ok,teal cap
+1080,ok,teal cap over hijab
+1081,ok,hijab without cap
+1082,ok,bare head
+1083,ok,hijab without cap
+1084,ok,teal cap
+1085,ok,teal cap
+1086,ok,teal cap from behind
+1087,ok,teal cap over hijab
+1088,ok,teal cap
+1089,ok,teal cap
+1090,ok,teal cap over hijab
+1091,unclear,"navy cloth skullcap-like cap, not clearly food-grade or street"
+1092,unclear,"beige cap from behind - baseball cap or non-woven cap, can't tell"
+1093,ok,navy baseball cap
+1094,ok,white hairnet
+1095,ok,bare head
+1096,ok,olive hijab without cap
+1097,ok,teal cap
+1098,ok,central teal-cap woman over hijab (bare-head man in background)
+1099,ok,bare head
+1100,ok,bare head
+1101,ok,bare head woman
+1102,unclear,very blurry hijab close-up
+1103,ok,bare head woman
+1104,ok,hijab without cap
+1105,ok,teal cap
+1106,ok,hijab without cap
+1107,ok,bare head
+1108,ok,bare head woman
+1109,not_head,"torso/apron and pot, no head in centre"
+1110,ok,teal cap
+1111,ok,purple hijab without cap
+1112,ok,black hijab without cap
+1113,ok,"black hijab with mask, blurry"
+1114,ok,"pink hijab without cap, blurry"
+1115,ok,teal cap
+1116,unclear,centre is blurry brownish shape; teal-cap person at left edge
+1117,ok,white hairnet
+1118,ok,white hairnet
+1119,ok,white hairnet
+1120,ok,hijab without cap
+1121,ok,bare head woman from behind
+1122,ok,hijab without cap
+1123,ok,"bare head, arm raised"
+1124,ok,teal cap
+1125,ok,bare head
+1126,ok,teal cap over hijab
+1127,ok,white hairnets
+1128,ok,white hairnet
+1129,ok,white hairnet
+1130,ok,hijab without cap
+1131,ok,bare head woman from behind
+1132,ok,bare head
+1133,ok,central hijab woman without cap
+1134,ok,hijab without cap
+1135,ok,hijab without cap
+1136,ok,teal cap over hijab
+1137,ok,bare head woman
+1138,ok,teal cap over hijab
+1139,ok,hijab without cap
+1140,ok,bare head woman
+1141,ok,hijab without cap
+1142,ok,bare head
+1143,ok,grey hijab without cap
+1144,ok,central hijab woman without cap
+1145,ok,bare head woman
+1146,ok,hijab without cap
+1147,ok,bare head
+1148,ok,teal cap
+1149,ok,white/blue hairnets
+1150,unclear,"grey rounded covering from behind - grey non-woven cap or hijab, can't tell"
+1151,ok,teal cap over hijab
+1152,ok,bare head
+1153,ok,teal cap over hijab
+1154,ok,beige hijab without cap
+1155,ok,teal cap
+1156,ok,teal cap
+1157,ok,teal cap over hijab
+1158,ok,teal cap
+1159,ok,bare head woman
+1160,ok,hijabs without cap
+1161,unclear,"grey cap on man - grey street cap or non-woven cap, can't tell (same scene as 923)"
+1162,ok,olive hijab without cap
+1163,ok,hijabs without cap
+1164,ok,white hairnet
+1165,ok,teal cap over hijab
+1166,ok,bare head woman
+1167,ok,teal cap over hijab
+1168,ok,teal cap
+1169,ok,bare head woman
+1170,ok,bare head man at stove
+1171,ok,grey hairnet
+1172,ok,"hijab only, back view"
+1173,unclear,"very blurry, head cut by frame/timestamp"
+1174,ok,"bare head, ponytail"
+1175,ok,"grey beanie/street cap, not food-grade"
+1176,ok,hijab only
+1177,ok,white hairnet
+1178,ok,"striped skullcap, blue shirt"
+1179,ok,white hairnet / striped caps
+1180,ok,striped skullcap
+1181,ok,striped skullcap
+1182,ok,"bare head, dark hair"
+1183,ok,grey hijab only
+1184,ok,"hijab only, glasses (central woman)"
+1185,ok,black hijab only (green-cap woman at left not central)
+1186,ok,striped skullcaps (two heads)
+1187,ok,striped skullcap / hairnet
+1188,ok,striped skullcap
+1189,ok,green cap over hijab
+1190,ok,green cap over hijab
+1191,ok,green cap over hijab
+1192,ok,green bouffant cap
+1193,ok,green bouffant cap
+1194,ok,green cap
+1195,ok,grey hairnet
+1196,ok,bare head man
+1197,ok,hijab only
+1198,ok,bare head
+1199,ok,hijab only
+1200,ok,"dark hijab, partly occluded; bare-head man foreground"
+1201,ok,"bare head woman, glasses"
+1202,ok,"hijab only, mask"
+1203,ok,"white hairnet/cap, back view"
+1204,ok,white hairnet
+1205,ok,green cap over hijab
+1206,ok,bare head man
+1207,ok,bare head woman
+1208,ok,green cap
+1209,ok,bare head woman
+1210,ok,green cap over hijab
+1211,ok,"hijab only, office"
+1212,ok,"bare head, mask"
+1213,ok,hijab only
+1214,ok,green bouffant cap
+1215,ok,green bouffant cap
+1216,ok,green bouffant cap
+1217,ok,black baseball cap
+1218,ok,"bare head, bent over"
+1219,ok,baseball cap
+1220,unclear,dark blurry silhouette/shadow against wall
+1221,ok,green cap
+1222,ok,green cap
+1223,ok,green cap over hijab
+1224,ok,"central woman bare head (green-cap person lower left, less central)"
+1225,ok,hijab only
+1226,ok,"bare head, back view"
+1227,ok,bare head man
+1228,ok,bare head woman
+1229,ok,"hijab only, mask"
+1230,ok,dark baseball caps with logo
+1231,ok,"bare head (yellow shirt), black-cap person upper left"
+1232,ok,dark baseball cap / bare heads
+1233,ok,bare head
+1234,ok,dark baseball cap over headscarf
+1235,ok,dark baseball cap with logo
+1236,ok,dark baseball cap with logo
+1237,ok,green bouffant cap
+1238,unclear,two equally central heads: green-cap person and bare-head woman
+1239,ok,green cap over hijab
+1240,ok,bare head man
+1241,ok,green cap over hijab
+1242,ok,"hijab only, mask"
+1243,ok,green cap over hijab
+1244,ok,green cap over hijab
+1245,ok,bare head woman
+1246,ok,grey peaked cap
+1247,ok,white/lilac hairnet
+1248,ok,hijab only
+1249,ok,hijab only / bare head man
+1250,ok,bare head man / hijab woman
+1251,ok,white hairnet
+1252,ok,green cap over hijab
+1253,ok,bare head woman
+1254,ok,green cap over hijab
+1255,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black cap, cannot tell skullcap vs street cap"
+1256,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black skullcap-like cap, cannot tell if food-grade"
+1257,ok,green hairnet
+1258,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black skullcap-like cap, cannot tell if food-grade"
+1259,ok,"bare head, back view, small"
+1260,unclear,dark head occluded behind cabinet
+1261,ok,"bare head, dark hair"
+1262,ok,green cap over hijab
+1263,ok,"bare head woman, long hair"
+1264,ok,green cap
+1265,ok,bare head woman (green-cap person at left edge not central)
+1266,ok,green bouffant caps
+1267,ok,bare head man (green caps at bottom edge)
+1268,ok,beige hijab only
+1269,ok,black hijab only
+1270,unclear,"blurry close-up, head top not readable"
+1271,ok,bare head man
+1272,ok,grey peaked cap
+1273,ok,black hijab only
+1274,ok,white hairnet
+1275,ok,"bare head, ponytail"
+1276,ok,hijab only
+1277,ok,white hairnet
+1278,ok,bare head woman
+1279,ok,white hairnet
+1280,ok,white hairnet
+1281,ok,black hijab only
+1282,ok,green cap over hijab
+1283,ok,striped skullcaps
+1284,ok,striped skullcap
+1285,ok,bare head man
+1286,ok,green cap over hijab
+1287,ok,navy baseball cap
+1288,ok,beige baseball cap
+1289,ok,white baseball cap backwards
+1290,ok,"bare head man, back view"
+1291,ok,bare head woman
+1292,ok,bare head man
+1293,ok,green cap
+1294,ok,black hijab only (central woman)
+1295,ok,teal hairnet
+1296,ok,"teal hairnet, blurry"
+1297,ok,teal hairnet
+1298,ok,teal hairnet
+1299,ok,green cap
+1300,ok,hijab only
+1301,ok,bare head man
+1302,ok,bare head woman
+1303,ok,bare head woman
+1304,ok,green cap
+1305,ok,bare head man
+1306,ok,green cap
+1307,ok,bare head man
+1308,ok,grey hijab only
+1309,ok,"hijab only, glasses"
+1310,ok,bare head woman
+1311,ok,bare head man
+1312,ok,green cap over hijab
+1313,ok,bare head woman
+1314,ok,hijab only
+1315,ok,bare head man
+1316,ok,white hairnet
+1317,ok,hijab only
+1318,unclear,small motion-blurred dark head
+1319,ok,dark baseball cap with logo
+1320,unclear,"dark head partly occluded by wok, cap type unclear"
+1321,ok,dark baseball cap with logo over scarf
+1322,ok,dark baseball cap
+1323,ok,"black hijab only, mask"
+1324,ok,green hairnet
+1325,ok,brown hijab only
+1326,ok,green hairnet
+1327,ok,green hairnet
+1328,ok,black hijab only
+1329,ok,green cap over hijab
+1330,ok,green cap
+1331,ok,green cap over hijab
+1332,ok,navy hijab only
+1333,ok,"bare head woman, long hair"
+1334,ok,bare head man
+1335,ok,black hijab only
+1336,ok,white hairnet
+1337,ok,black hijab only
+1338,ok,bare head woman
+1339,ok,white hairnet
+1340,ok,hijab only
+1341,ok,"dark cap / bare, no food-grade cap"
+1342,ok,dark peaked cap
+1343,ok,green cap
+1344,ok,green cap
+1345,ok,green cap over hijab
+1346,ok,white hairnet
+1347,ok,white hairnet
+1348,ok,white hairnet
+1349,ok,white hairnet
+1350,ok,bare head man
+1351,ok,grey hairnet
+1352,ok,"hijab only, back view"
+1353,ok,bare head woman
+1354,ok,grey peaked cap
+1355,ok,white hairnet
+1356,ok,black hijab only
+1357,ok,black hijab only
+1358,ok,hijab only
+1359,ok,white hairnet
+1360,ok,"loose dark hair visible, blurry close-up"
+1361,ok,green cap over hijab
+1362,ok,white hairnet
+1363,ok,grey striped skullcap
+1364,ok,striped skullcap
+1365,ok,white hairnet / striped cap
+1366,ok,"striped skullcap, back view"
+1367,ok,green cap
+1368,ok,bare head man
+1369,ok,green cap
+1370,ok,green cap over hijab
+1371,ok,"bare head woman, back view"
+1372,ok,bare head woman
+1373,ok,green cap over hijab
+1374,ok,white hairnet
+1375,ok,white hairnet
+1376,unclear,"dark blurry head, back view"
+1377,ok,green cap
+1378,ok,bare head woman
+1379,ok,hijab only
+1380,ok,bare head woman
+1381,unclear,"motion-blurred lilac head covering, likely hijab but cannot confirm no cap"
+1382,ok,green bouffant cap
+1383,ok,green cap over hijab
+1384,ok,black hijab only
+1385,ok,"black hijab only, mask"
+1386,ok,green cap over hijab
+1387,ok,"bare head, lying/tilted"
+1388,ok,bare head man
+1389,ok,hijab only
+1390,ok,white hairnet
+1391,ok,white hairnet
+1392,ok,black baseball cap
+1393,ok,white hairnet
+1394,ok,white hairnet
+1395,ok,green cap over hijab
+1396,ok,green cap over hijab
+1397,ok,green hairnet
+1398,ok,green cap
+1399,ok,green cap
+1400,ok,green cap over hijab
+1401,ok,bare head man
+1402,ok,bare head man
+1403,ok,bare head woman
+1404,unclear,extremely blurry close-up
+1405,ok,bare head woman
+1406,ok,bare head man
+1407,ok,black hijab only
+1408,ok,green bouffant cap
+1409,ok,green bouffant cap
+1410,ok,"green hairnet, top view"
+1411,unclear,two equally central heads: green-cap person (more prominent) and bare-head woman
+1412,ok,grey peaked cap
+1413,ok,white hairnet
+1414,ok,black hijab only
+1415,ok,bare head woman
+1416,ok,"bare head, ponytail"
+1417,ok,white hairnet
+1418,ok,hijab only
+1419,ok,"bare head woman, mask"
+1420,ok,"bare head woman, mask"
+1421,ok,green cap
+1422,ok,green cap over hijab
+1423,ok,black baseball cap
+1424,ok,baseball cap
+1425,ok,green cap over hijab
+1426,ok,bare head man
+1427,ok,bare head man
+1428,ok,white hairnet
+1429,ok,hijab only
+1430,ok,green cap over hijab
+1431,ok,green cap over hijab
+1432,ok,black hijab only
+1433,ok,"grey peaked cap, blurry"
+1434,ok,bare head woman
+1435,ok,hijab only
+1436,ok,"bare head, dark hair"
+1437,ok,bare head woman
+1438,ok,green cap over hijab
+1439,ok,green cap over hijab
+1440,ok,white hairnet
+1441,ok,beige baseball cap
+1442,ok,baseball caps (navy / white)
+1443,ok,teal hairnet
+1444,ok,bare head woman
+1445,ok,black hijab only
+1446,ok,green cap over hijab
+1447,ok,green cap over hijab
+1448,ok,"bare head / dark hair, back view"
+1449,ok,green cap
+1450,ok,green bouffant cap
+1451,ok,bare head woman
+1452,ok,bare head man
+1453,ok,green cap over hijab
+1454,ok,grey hairnet
+1455,ok,bare head man
+1456,ok,hijab only
+1457,ok,navy hijab only
+1458,ok,green cap over hijab
+1459,ok,green cap over hijab
+1460,ok,bare head man
+1461,ok,teal cap
+1462,ok,green cap over hijab
+1463,ok,green cap
+1464,ok,green hairnet over hijab
+1465,ok,green hairnet
+1466,ok,green hairnet
+1467,ok,green hairnet
+1468,ok,green hairnet over hijab
+1469,ok,green hairnet
+1470,ok,bare head woman
+1471,ok,black hijab only
+1472,ok,black hijab only
+1473,ok,bare head woman
+1474,ok,green cap
+1475,ok,green cap over hijab
+1476,ok,"hijab only, back view"
+1477,ok,bare head man
+1478,ok,"navy hijab only, glasses"
+1479,ok,grey hijab only
+1480,unclear,"navy skullcap-like covering over beige hijab, could be a cap"
+1481,ok,"brown hijab only, blurry"
+1482,ok,black hijab only
+1483,ok,green cap over hijab
+1484,ok,white hairnet
+1485,ok,white hairnet
+1486,ok,teal hairnet
+1487,ok,teal hairnet
+1488,ok,teal hairnet
+1489,unclear,dark blurry head covering
+1490,ok,teal hairnet
+1491,ok,grey hijab only
+1492,ok,"hijab only, glasses"
+1493,ok,white hairnet
+1494,ok,"grey/white hairnet, back view"
+1495,ok,white hairnet
+1496,ok,navy baseball cap
+1497,ok,beige baseball cap
+1498,ok,bare head woman
+1499,ok,black hijab only
+1500,ok,teal hairnet
+1501,ok,teal hairnet
+1502,ok,teal hairnet
+1503,ok,teal hairnet
+1504,ok,bare dark head bending (other worker in dark peaked cap)
+1505,ok,green cap
+1506,ok,green cap over hijab
+1507,ok,bare head woman
+1508,ok,black hijab only
+1509,ok,green cap
+1510,ok,bare head man
+1511,ok,green cap
+1512,ok,"hijab only, mask"
+1513,ok,bare head woman
+1514,ok,hijab only
+1515,ok,teal cap
+1516,ok,"bare head woman, mask"
+1517,ok,brown hijab only
+1518,ok,green cap over hijab
+1519,ok,green cap
+1520,ok,green caps (two heads)
+1521,ok,green cap over hijab
+1522,ok,"hijab only, mask"
+1523,ok,black hijab only
+1524,ok,green cap
+1525,ok,bare head man
+1526,ok,bare head man
+1527,ok,white hairnet
+1528,ok,hijab only
+1529,ok,bare head man
+1530,ok,"woman bare head, office"
+1531,ok,woman with glasses bare head (teal-cap person at left edge not central)
+1532,ok,"green hairnet cap, mask"
+1533,ok,"teal cap, gym background"
+1534,ok,green cap over hijab
+1535,ok,"white hairnet, black mask"
+1536,ok,"white hairnet, leaning"
+1537,ok,"grey hijab only, no cap"
+1538,ok,hijab only woman central (man below also bare)
+1539,ok,teal cap from behind
+1540,ok,black hijab only
+1541,ok,"woman bare long hair, blurry"
+1542,ok,white hairnet top-down
+1543,ok,black hijab only
+1544,ok,"black hijab only, from behind"
+1545,ok,white hairnet from behind
+1546,ok,"green hijab/headscarf only, leaning over wok"
+1547,ok,"bare head short hair, apron"
+1548,ok,"dark bare hair (bun), blurry"
+1549,unclear,"blurry dark head, cannot confirm"
+1550,ok,bare head young man
+1551,ok,grey hijab only
+1552,ok,striped skullcap from behind
+1553,ok,striped skullcap (hairnet person below also cap)
+1554,ok,striped skullcap over black hijab
+1555,ok,white hairnet
+1556,ok,green cap over hijab
+1557,ok,green cap over hijab
+1558,ok,"bare head man, laptop"
+1559,ok,"bare head man, laptop"
+1560,ok,"woman bare long hair, top-down"
+1561,ok,navy baseball cap (street hat)
+1562,ok,white hairnet from behind
+1563,ok,"bare head short hair, apron"
+1564,ok,"white hairnet, glasses"
+1565,ok,"black hijab/hood only, from behind"
+1566,ok,"bare long hair, top-down"
+1567,ok,"bare head man, green shirt"
+1568,ok,grey hijab only
+1569,ok,black hijab only woman central (man below bare)
+1570,ok,"bare head man, batik shirt"
+1571,ok,"bare head man, blurry"
+1572,ok,"teal hairnet, mask"
+1573,ok,"teal hairnet, blurry motion"
+1574,ok,teal hairnet over black hijab
+1575,ok,"teal hairnet, top-down"
+1576,ok,teal hairnet over black hijab
+1577,ok,"teal hairnet, motion blur"
+1578,ok,"teal hairnet, mask"
+1579,ok,"teal hairnet, mask"
+1580,ok,"teal hairnet, dark scene"
+1581,ok,"teal hairnet, blurry"
+1582,ok,"bare head man, batik shirt"
+1583,ok,teal hairnet over hijab
+1584,ok,"teal hairnet over hijab, from behind"
+1585,ok,"teal hairnet, mask"
+1586,ok,"teal hairnet, mask"
+1587,unclear,"dark head covering (black cap vs scarf), low res"
+1588,unclear,head hidden behind hanging bowl/pan
+1589,wrong_class,"black chef skullcap: PRESENT per user decision 2026-09-17 (was labelled no_cap); black head wrap partly behind wok, cannot tell cap vs scarf"
+1590,unclear,"dark head (black cap or hair) partly behind tray, dark blurry"
+1591,ok,"dark bare hair/bun, blurry"
+1592,ok,"white hairnet, mask"
+1593,ok,"white hairnet, mask"
+1594,ok,"black hijab only, mask"
+1595,ok,pink hijab only
+1596,ok,"teal hairnet, mask"
+1597,ok,teal hairnet over pink hijab
+1598,ok,teal hairnet over pink hijab
+1599,ok,teal hairnet
+1600,ok,striped skullcap from behind
+1601,ok,striped skullcap
+1602,ok,white hairnet
+1603,ok,white hairnet
+1604,ok,striped skullcap over hijab
+1605,ok,navy hijab only
+1606,ok,bare head woman
+1607,ok,teal hairnet top-down
+1608,ok,black peaked cap (street hat)
+1609,ok,teal hairnet
+1610,ok,teal hairnet
+1611,ok,teal hairnet
+1612,ok,navy hijab only
+1613,ok,"bare head man, top-down"
+1614,ok,black baseball cap
+1615,ok,teal hairnet
+1616,ok,"bare dark hair, leaning"
+1617,ok,"bare dark hair, leaning"
+1618,ok,black baseball cap
+1619,ok,black peaked cap
+1620,ok,"white hairnet (left) and teal hairnet (right), both capped"
+1621,ok,"white hairnet and teal hairnet, both capped"
+1622,ok,"bare dark hair, mask, top-down"
+1623,ok,teal hairnet top-down
+1624,ok,teal hairnet
+1625,ok,teal hairnet
+1626,ok,teal hairnet
+1627,ok,"teal hairnet, hands on head"
+1628,ok,green cap over hijab
+1629,ok,woman bare long hair
+1630,ok,white hairnet
+1631,ok,bare head man
+1632,ok,"olive hijab only, from behind"
+1633,ok,navy hijab only
+1634,ok,bare long hair from behind
+1635,ok,"bare short hair, apron"
+1636,ok,"black hijab only, from behind"
+1637,ok,"bare dark hair, leaning"
+1638,ok,white hairnet
+1639,ok,olive hijab only
+1640,ok,bare head man
+1641,ok,green cap over hijab
+1642,ok,"black hijab only, top-down"
+1643,ok,black baseball cap
+1644,ok,white hairnet
+1645,not_head,"blurry body/arm, no head visible"
+1646,ok,bare head man
+1647,ok,bare head man central (hijab woman at right edge also no cap)
+1648,ok,black hijab only
+1649,ok,"white hairnet, mask"
+1650,ok,"white hairnet visible at side of face (close-up, top cut)"
+1651,ok,"white hairnet, mask"
+1652,ok,teal hairnet top-down
+1653,ok,teal hairnet
+1654,ok,teal hairnet
+1655,ok,teal hairnet
+1656,ok,"teal hairnet, hands at head"
+1657,ok,"bare dark hair, mask, top-down"
+1658,ok,black hijab only
+1659,ok,black hijab + face covering only
+1660,ok,teal hairnet
+1661,unclear,"head blurred/anonymized, looks like beige hijab only"
+1662,ok,teal hairnet top-down
+1663,ok,teal hairnet
+1664,ok,"black hijab only, dark"
+1665,ok,teal hairnet
+1666,ok,teal hairnet
+1667,ok,teal hairnet
+1668,ok,teal hairnet
+1669,ok,"teal hairnet, mask"
+1670,ok,teal hairnet over hijab
+1671,ok,"teal hairnet, blurry"
+1672,ok,"bare head man, glasses"
+1673,ok,"bare dark hair, blurry"
+1674,ok,bare head man in crowd (office/event)
+1675,ok,green cap over hijab
+1676,ok,"green cap, mask"
+1677,ok,green cap over hijab
+1678,not_head,crop centre is whiteboard; bare-head man only at right edge
+1679,ok,white hairnet from behind
+1680,ok,bare head man from behind
+1681,ok,teal hairnet from behind
+1682,ok,green cap over hijab
+1683,ok,teal cap from behind
+1684,ok,"light-blue bouffant cap over hijab, mask"
+1685,ok,light-blue bouffant cap over beige hijab
+1686,ok,"light-blue bouffant cap, mask"
+1687,ok,light-blue hairnet top-down
+1688,ok,light-blue hairnet top-down
+1689,ok,"light-blue hairnet, side view"
+1690,ok,white baseball cap (street hat)
+1691,ok,teal hairnet over hijab
+1692,ok,"teal hairnet, mask"
+1693,ok,teal hairnet over hijab
+1694,ok,teal hairnet
+1695,ok,"teal hairnet, mask"
+1696,ok,teal hairnet over hijab
+1697,ok,"teal hairnet, blurry"
+1698,ok,"teal hairnet, blurry crowd"
+1699,ok,bare head man
+1700,ok,teal hairnet
+1701,ok,bare head man close-up
+1702,ok,bare head man
+1703,ok,"bare head young man, apron"
+1704,ok,grey hijab only
+1705,ok,black hijab only woman central (man below bare)
+1706,ok,"teal hairnet, mask"
+1707,ok,bare long hair woman
+1708,ok,lilac hijab only
+1709,ok,mauve hijab only
+1710,ok,"green cap, mask"
+1711,ok,green cap over hijab
+1712,ok,green cap (two capped heads)
+1713,ok,green cap over hijab
+1714,ok,white hairnet over hijab (man at right also hairnet)
+1715,ok,white hairnet top-down
+1716,ok,white hairnet
+1717,ok,white hairnet
+1718,ok,"bare long hair woman, mask"
+1719,ok,"green cap, mask"
+1720,ok,"woman bare head, hand in hair (teal-cap person at left edge)"
+1721,ok,green cap over hijab
+1722,ok,white hairnet
+1723,ok,bare head man
+1724,ok,bare head young man
+1725,ok,"bare head man central (hijab woman behind, no cap either)"
+1726,ok,"white hairnet, lab coat"
+1727,ok,green cap over hijab
+1728,ok,green cap over hijab
+1729,ok,green cap over hijab
+1730,ok,bare head young man
+1731,ok,"bare head man central (hijab woman behind, no cap either)"
+1732,ok,green cap over hijab
+1733,ok,"teal cap, side view"
+1734,ok,white hairnet
+1735,wrong_class,white hairnet clearly on (near-duplicate of 1734 labelled cap)
+1736,ok,bare head man from behind
+1737,ok,"white hairnet, mask"
+1738,ok,white hairnet from behind
+1739,ok,grey hairnet over black hijab
+1740,ok,"white hairnet over hijab, top-down"
+1741,ok,"white hairnets, top-down"
+1742,ok,"white hairnet over hijab, top-down"
+1743,ok,"white hairnet, top-down"
+1744,ok,"white hairnet, top-down"
+1745,ok,"white hairnet, mask"
+1746,ok,white hairnet over hijab
+1747,ok,"white hairnet, top-down"
+1748,ok,white hairnet over hijab
+1749,ok,"white hairnet, mask"
+1750,ok,"bare head young man, apron"
+1751,ok,"bare head man central (hijab woman behind, no cap)"
+1752,unclear,head mostly hidden behind pillar
+1753,ok,teal hairnet
+1754,ok,green cap from behind
+1755,ok,"teal cap, mask"
+1756,ok,"black hijab/hood only, looking at phone"
+1757,ok,"teal cap, hand at face"
+1758,ok,"black hijab only, top-down"
+1759,ok,"black hijab only woman most central (teal-cap person at right, burned-in box)"
+1760,ok,"bare long hair, hand on head"
+1761,ok,"teal cap, mask"
+1762,ok,"teal cap, from behind"
+1763,ok,teal hairnet close-up
+1764,ok,teal hairnet over hijab
+1765,unclear,"head only at left edge of crop, partly in shadow"
+1766,ok,teal hairnet
+1767,ok,teal hairnet
+1768,ok,"teal cap, hazy (burned-in box)"
+1769,ok,teal hairnet top-down
+1770,ok,black hijab only
+1771,ok,teal hairnet top-down
+1772,ok,"teal hairnet, hazy"
+1773,ok,teal hairnet
+1774,ok,"teal cap, glasses, mask"
+1775,ok,green cap over hijab
+1776,ok,"bare head young man, apron"
+1777,ok,"bare head man central (hijab woman behind, no cap)"
+1778,ok,grey hijab only
+1779,ok,"teal hairnet, mask"
+1780,ok,bare head from behind
+1781,ok,"bare dark hair close-up, mask"
+1782,ok,"light-blue hairnet from behind, small"
+1783,ok,light-blue hairnet
+1784,ok,light-blue hairnet
+1785,unclear,"dark flat head top (black skullcap vs hair), burned-in overlay"
+1786,ok,bare head man (burned-in box)
+1787,wrong_class,grey baseball cap (street hat) labelled cap
+1788,ok,teal hairnet from behind
+1789,unclear,"extreme blurry close-up, only green patch at top"
+1790,ok,teal hairnet
+1791,ok,"black hijab only, from behind"
+1792,ok,"teal hairnet, mask"
+1793,ok,teal hairnet
+1794,ok,"black hijab only, bending"
+1795,ok,teal hairnet
+1796,ok,teal hairnet
+1797,ok,teal hairnet
+1798,ok,green cap over hijab
+1799,ok,"bare head young man, apron"
+1800,ok,"bare head man central (hijab woman behind, no cap)"
+1801,ok,grey hijab only
+1802,resolved_no_cap,"CONFLICT: bare head man, no cap"
+1803,ok,white hairnet
+1804,ok,bare head man outdoors
+1805,ok,bare head man outdoors
+1806,ok,"grey hijab only, mask"
+1807,ok,"bare head young man, apron"
+1808,ok,navy hijab only woman central (man below bare)
+1809,ok,grey hijab only
+1810,ok,green cap over hijab
+1811,ok,"teal cap over hijab, mask"
+1812,ok,bare head young man
+1813,ok,"bare head man central (hijab woman behind, no cap)"
+1814,ok,grey hijab only
+1815,ok,bare head young man
+1816,ok,"bare head man central (hijab woman behind, no cap)"
+1817,ok,grey hijab only
+1818,ok,beige hijab only
+1819,ok,bare head young man
+1820,ok,"bare long hair from behind, office"
+1821,ok,"teal hairnet, mask"
+1822,ok,green cap over hijab
+1823,ok,green cap over hijab
+1824,ok,bare head man
+1825,ok,white hairnet
+1826,ok,green cap over hijab
+1827,ok,bare head man
+1828,ok,white hairnet
+1829,ok,"teal cap over hijab, mask"
+1830,ok,bare dark hair young man close-up
+1831,ok,grey hijab only
+1832,ok,bare head young man
+1833,ok,navy hijab only woman central (man below bare)
+1834,ok,grey hijab only
+1835,ok,bare head young man
+1836,ok,"bare head man central (hijab woman behind, no cap)"
+1837,ok,grey hijab only
+1838,ok,"teal hairnet, mask"
+1839,ok,"teal hairnet, mask"
+1840,ok,"teal cap, mask"
+1841,ok,teal cap over hijab
+1842,ok,"white hairnet, mask"
+1843,ok,"white hairnet, mask"
+1844,ok,bare head young man
+1845,ok,navy hijab only woman central (man below bare)
+1846,ok,grey hijab only
+1847,ok,"grey cloth/backwards cap (bandana-like street covering), not food-grade"
+1848,ok,"bare dark hair, motion blur"
+1849,ok,"bare head woman, hand on forehead"
+1850,ok,white hairnet
+1851,ok,white hairnet from behind
+1852,ok,"bare hair ponytail, close-up"
+1853,ok,"bare dark hair, apron"
+1854,ok,"grey cloth/backwards cap (bandana-like), same person as 1847"
+1855,ok,black hijab only
+1856,ok,white hairnet
+1857,ok,bare long hair
+1858,ok,olive hijab only
+1859,ok,green cap over hijab
+1860,ok,white hairnet
+1861,ok,bare head man
+1862,ok,green cap over hijab
+1863,ok,teal hairnet top-down
+1864,ok,"beige hijab only, top-down (head looks blurred)"
+1865,ok,teal hairnet
+1866,ok,black hijab + face covering only

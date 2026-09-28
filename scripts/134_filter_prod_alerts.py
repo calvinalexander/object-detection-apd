@@ -44,9 +44,12 @@ def flush():
     for p, m in zip(P, meta):
         v = {}
         for k, it in enumerate(ITEMS):
-            c = CUTS[it]
-            v[it] = ("unknown" if float(p[3+k]) < c["known_above"] else
-                     "violation" if float(p[k]) < c["present_below"] else "ok")
+            c = CUTS[it]; pp, pk = float(p[k]), float(p[3+k])
+            strong = ("present_strong" in c and pp < c["present_strong"]
+                      and pk >= c.get("known_floor", c["known_above"]))
+            v[it] = ("violation" if strong else
+                     "unknown" if pk < c["known_above"] else
+                     "violation" if pp < c["present_below"] else "ok")
         out.append({**m, "ours": v, "p": [round(float(x), 3) for x in p]})
     batch.clear(); meta.clear()
 

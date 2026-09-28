@@ -8,7 +8,7 @@
     "known_mask",
     "known_gloves"
   ],
-  "rule": "judge only when p_known >= known_above; then violation when p_present < present_below; else unknown",
+  "rule": "judge only when p_known >= known_above; then violation when p_present < present_below; else unknown -- EXCEPT that p_present < present_strong with p_known >= known_floor is a violation too (a confident absence overrides the abstention)",
   "cuts": {
     "head_cap": {
       "known_above": 0.87,
@@ -25,7 +25,9 @@
       "val_unjudgeable_flagged": 0.137,
       "calibrated_on": "production detector crops, 16 Sep device events (3104)",
       "target_judged_share": 0.31,
-      "known_above_previous": 0.896
+      "known_above_previous": 0.896,
+      "present_strong": 0.1,
+      "known_floor": 0.9
     },
     "gloves": {
       "known_above": 0.969,
@@ -37,7 +39,7 @@
     }
   },
   "trained_on": "det7 clean (head-cap audit + glove-box fixes) + label_sppg + COCO people",
-  "note": "v3; COCO folded into training, evaluation is manual on the recordings mask known_above raised 0.896 -> 0.98 on 2026-09-21: on production's person boxes the 0.896 cut judged 65% of people against the intended ~32%.",
+  "note": "v3; COCO folded into training, evaluation is manual on the recordings mask known_above raised 0.896 -> 0.98 on 2026-09-21: on production's person boxes the 0.896 cut judged 65% of people against the intended ~32%. A confident-absence override was added for mask on 2026-09-22: raising known_above to 0.98 silenced 667 people the presence head called unmasked, and a sample of the p<0.10 band was about two thirds genuine bare faces or chin-worn masks.",
   "cuts_val": {
     "head_cap": {
       "known_above": 0.475,

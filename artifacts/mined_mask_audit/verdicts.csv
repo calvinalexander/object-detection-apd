@@ -1,0 +1,509 @@
+n,file,verdict,note
+0,mask/dev16_0041a365.jpg,covering,white mask over nose and mouth
+1,mask/dev16_00464baf.jpg,chin,"mask pulled under the chin, face bare"
+2,mask/dev16_0195ed8f.jpg,hidden,"partial person, face not visible"
+3,mask/dev16_0195f2d6.jpg,covering,white mask covering
+4,mask/dev16_026f4ec4.jpg,hidden,"bent over, face not visible"
+5,mask/dev16_03633d33.jpg,covering,"mask covering, small"
+6,mask/dev16_0423b554.jpg,covering,"white mask, profile"
+7,mask/dev16_04a78d67.jpg,covering,"mask on the face, bending"
+8,mask/dev16_05356fbb.jpg,chin,mask below the chin (76px crop)
+9,mask/dev16_05be1729.jpg,chin,mask under the chin
+10,mask/dev16_0655a603.jpg,hidden,person mostly out of the crop
+11,mask/dev16_067aa407.jpg,chin,mask under the chin
+12,mask/dev16_073ee6f9.jpg,chin,"white at the neck, face bare"
+13,mask/dev16_082e1382.jpg,hidden,from behind
+14,mask/dev16_0995f527.jpg,covering,white mask over nose and mouth
+15,mask/dev16_09d45d99.jpg,chin,mask down at the neck
+16,mask/dev16_09f9b203.jpg,covering,blue mask covering
+17,mask/dev16_0a00336b.jpg,chin,"white at chin level, profile"
+18,mask/dev16_0a1f78c5.jpg,hidden,face down
+19,mask/dev16_0c4cbd06.jpg,hidden,bending away
+20,mask/dev16_0d5de2ba.jpg,covering,white mask covering
+21,mask/dev16_0de1cc44.jpg,hidden,walking away
+22,mask/dev16_0e012c72.jpg,covering,white mask covering
+23,mask/dev16_0e4f771a.jpg,hidden,"dark hood, face not visible"
+24,mask/dev16_0ed89198.jpg,chin,light patch under the chin
+25,mask/dev16_0f012e9f.jpg,chin,"mask under the chin, face bare"
+26,mask/dev16_0f325568.jpg,covering,"green mask, profile"
+27,mask/dev16_112bc450.jpg,covering,white mask covering
+28,mask/dev16_116eab8a.jpg,chin,"face bare, mask below"
+29,mask/dev16_11f00b58.jpg,covering,green mask covering
+30,mask/dev16_122afcdd.jpg,hidden,dark hood
+31,mask/dev16_1246c892.jpg,hidden,"blurred, face not visible"
+32,mask/dev16_137f1dc0.jpg,hidden,"bending, face not visible"
+33,mask/dev16_13c66b1f.jpg,covering,green mask covering
+34,mask/dev16_14d9ef95.jpg,chin,white under the chin
+35,mask/dev16_154b562a.jpg,covering,white mask covering
+36,mask/dev16_1556378d.jpg,hidden,"hijab, face turned away"
+37,mask/dev16_1841a91f.jpg,covering,mask on the face
+38,mask/dev16_19a52074.jpg,covering,white mask covering
+39,mask/dev16_1bda77cd.jpg,covering,white mask covering
+40,mask/dev16_1c4d6b4e.jpg,hidden,from behind
+41,mask/dev16_1cadc2cf.jpg,covering,mask on the face
+42,mask/dev16_1caeb5b0.jpg,chin,white below the chin
+43,mask/dev16_1da15789.jpg,hidden,"bending, face not visible"
+44,mask/dev16_1e131602.jpg,hidden,"dark, face not resolvable"
+45,mask/dev16_1e65c2a1.jpg,hidden,face not visible
+46,mask/dev16_1eb8fb10.jpg,hidden,sliver crop
+47,mask/dev16_20838ca9.jpg,chin,dark patch below the chin
+48,mask/dev16_212a8d76.jpg,covering,green mask covering
+49,mask/dev16_244d4394.jpg,chin,"white at the chin, profile"
+50,mask/dev16_24b0deb5.jpg,covering,mask covering
+51,mask/dev16_24e98ea4.jpg,chin,"mask below the chin, face bare"
+52,mask/dev16_257aff3f.jpg,hidden,from behind
+53,mask/dev16_25a7a491.jpg,covering,"mask on the face, profile"
+54,mask/dev16_26ba1dd2.jpg,covering,green mask covering
+55,mask/dev16_2774b14a.jpg,covering,"green mask, profile"
+56,mask/dev16_279af6a6.jpg,covering,green mask covering
+57,mask/dev16_27b6ede2.jpg,hidden,walking away
+58,mask/dev16_27cbb2de.jpg,chin,white at the chin/neck
+59,mask/dev16_28dfdc64.jpg,hidden,from behind
+60,mask/dev16_29da0ab5.jpg,hidden,from behind
+61,mask/dev16_2b75c5bc.jpg,chin,"dark below the chin, face bare"
+62,mask/dev16_2c32c357.jpg,chin,mask at the chin
+63,mask/dev16_2e049ad6.jpg,covering,green mask covering
+64,mask/dev16_2e0f0f0b.jpg,hidden,face down
+65,mask/dev16_2e2e486a.jpg,covering,white mask covering
+66,mask/dev16_2e53c1e2.jpg,hidden,from behind
+67,mask/dev16_2f783af4.jpg,covering,"green mask, profile"
+68,mask/dev16_2f8d8266.jpg,hidden,face not visible
+69,mask/dev16_309b8c39.jpg,chin,white below the chin
+70,mask/dev16_30ba56e7.jpg,chin,white at the chin
+71,mask/dev16_312d0926.jpg,hidden,hijab from behind
+72,mask/dev16_31f66173.jpg,hidden,facing the wall
+73,mask/dev16_32cff441.jpg,covering,white mask covering
+74,mask/dev16_33659c68.jpg,chin,light patch at the chin
+75,mask/dev16_34446e29.jpg,covering,mask on the face
+76,mask/dev16_344849eb.jpg,hidden,face not visible
+77,mask/dev16_345d4fea.jpg,chin,"white below the chin, face bare"
+78,mask/dev16_34ce4d87.jpg,covering,"mask on the face, profile"
+79,mask/dev16_361284e5.jpg,chin,white at the neck
+80,mask/dev16_367f0c21.jpg,chin,white below the chin
+81,mask/dev16_37935589.jpg,hidden,blurred
+82,mask/dev16_397e26c1.jpg,chin,"face bare, white at the neck"
+83,mask/dev16_39b44fba.jpg,covering,mask covering
+84,mask/dev16_3b23a82b.jpg,hidden,"crowded, face not visible"
+85,mask/dev16_3b28d967.jpg,hidden,from behind
+86,mask/dev16_3b2fea83.jpg,covering,mask at the face
+87,mask/dev16_3b8c6a7f.jpg,chin,"white at the chin, profile"
+88,mask/dev16_3ba1c7f4.jpg,covering,white mask covering
+89,mask/dev16_3d130c79.jpg,hidden,from behind
+90,mask/dev16_3dcee4c4.jpg,covering,mask on the face
+91,mask/dev16_40bdc8cb.jpg,hidden,"dark, face unclear"
+92,mask/dev16_4178a243.jpg,chin,"face bare, white below"
+93,mask/dev16_42b6835d.jpg,covering,white mask covering
+94,mask/dev16_42d2edb3.jpg,chin,white at the neck
+95,mask/dev16_42e2b45e.jpg,chin,mask below the chin
+96,mask/dev16_438e8efd.jpg,chin,white below the chin
+97,mask/dev16_43a4f91b.jpg,hidden,bending
+98,mask/dev16_43e1cb88.jpg,chin,white at the neck
+99,mask/dev16_4460fd51.jpg,chin,"dark at the face, mask down"
+100,mask/dev16_449c62fc.jpg,covering,mask covering
+101,mask/dev16_44df2daf.jpg,hidden,from behind
+102,mask/dev16_44e5f38b.jpg,chin,white below the chin
+103,mask/dev16_44fc8367.jpg,hidden,from behind
+104,mask/dev16_456bb5e1.jpg,hidden,bending
+105,mask/dev16_45b2d60b.jpg,hidden,face unclear
+106,mask/dev16_46595b39.jpg,covering,mask covering
+107,mask/dev16_469452a1.jpg,chin,white at the chin
+108,mask/dev16_46a94525.jpg,covering,"white mask, profile"
+109,mask/dev16_479a06c2.jpg,covering,white mask covering
+110,mask/dev16_48061d30.jpg,hidden,from behind
+111,mask/dev16_497b42d9.jpg,hidden,too small to judge
+112,mask/dev16_4a072ea2.jpg,hidden,face not visible
+113,mask/dev16_4a0eea05.jpg,hidden,from behind
+114,mask/dev16_4a1e2d01.jpg,chin,white at the chin
+115,mask/dev16_4a99800d.jpg,covering,"white mask, profile"
+116,mask/dev16_4b153e9c.jpg,chin,"white at the chin, profile"
+117,mask/dev16_4b2b9e36.jpg,covering,white mask covering
+118,mask/dev16_4e0c9252.jpg,hidden,walking away
+119,mask/dev16_4e9dbe54.jpg,covering,mask on the face
+120,mask/dev16_4eea2f4e.jpg,chin,white below the chin
+121,mask/dev16_4f140850.jpg,covering,"white mask, profile"
+122,mask/dev16_4f5a40fc.jpg,covering,white mask covering
+123,mask/dev16_5244e8d8.jpg,hidden,from behind
+124,mask/dev16_535b64f0.jpg,covering,white mask covering
+125,mask/dev16_5658ce10.jpg,chin,mask below the chin
+126,mask/dev16_579ed861.jpg,covering,mask covering
+127,mask/dev16_57d56821.jpg,hidden,face unclear
+128,mask/dev16_589c4825.jpg,chin,white at the neck
+129,mask/dev16_5a020e4d.jpg,covering,"white mask, profile"
+130,mask/dev16_5aaa948d.jpg,covering,mask on the face
+131,mask/dev16_5ab9370f.jpg,chin,white at the chin
+132,mask/dev16_5c4821f3.jpg,covering,"mask at the face, profile"
+133,mask/dev16_5cc415c7.jpg,chin,white below the chin
+134,mask/dev16_5e42892d.jpg,covering,"white mask, profile"
+135,mask/dev16_5e5b813a.jpg,hidden,face not clear
+136,mask/dev16_5f3cfbc3.jpg,chin,white at the neck
+137,mask/dev16_5f633d96.jpg,chin,mask below the chin
+138,mask/dev16_5ff1e41e.jpg,covering,mask on the face
+139,mask/dev16_6057335a.jpg,chin,green mask at the neck
+140,mask/dev16_607b656b.jpg,hidden,from behind
+141,mask/dev16_6108557e.jpg,hidden,bending
+142,mask/dev16_61533ecb.jpg,hidden,from behind
+143,mask/dev16_61655379.jpg,covering,"white mask, profile"
+144,mask/dev16_62984d41.jpg,chin,white below the chin
+145,mask/dev16_62c355e2.jpg,hidden,face not visible
+146,mask/dev16_630c1508.jpg,covering,green mask covering
+147,mask/dev16_639662d7.jpg,covering,"mask covering, profile"
+148,mask/dev16_63aa59c6.jpg,hidden,from behind
+149,mask/dev16_646839d1.jpg,covering,"white mask, profile"
+150,mask/dev16_6487156d.jpg,hidden,from behind
+151,mask/dev16_65bad7e9.jpg,covering,mask on the face
+152,mask/dev16_663a04ea.jpg,hidden,"far, face unclear"
+153,mask/dev16_66a3f673.jpg,covering,"white mask, profile"
+154,mask/dev16_66f3bff5.jpg,covering,white mask covering
+155,mask/dev16_67809def.jpg,hidden,from behind
+156,mask/dev16_678e627f.jpg,chin,mask at the chin
+157,mask/dev16_6a7bc2dc.jpg,covering,white mask
+158,mask/dev16_6c2503a5.jpg,covering,mask on the face
+159,mask/dev16_6c6a646e.jpg,covering,white mask covering
+160,mask/dev16_6d38167a.jpg,hidden,face not visible
+161,mask/dev16_6d96397a.jpg,chin,white at the chin
+162,mask/dev16_6e73c8aa.jpg,chin,mask at the neck
+163,mask/dev16_713a4a45.jpg,chin,dark at the chin
+164,mask/dev16_72ec2d95.jpg,covering,white mask covering
+165,mask/dev16_73e05129.jpg,chin,mask at the chin
+166,mask/dev16_744fd796.jpg,hidden,walking away
+167,mask/dev16_74b295eb.jpg,chin,white below the chin
+168,mask/dev16_74f7fa12.jpg,chin,"white at the chin, blurred"
+169,mask/dev16_75df0f65.jpg,hidden,face not visible
+170,mask/dev16_767678a8.jpg,chin,white at the chin
+171,mask/dev16_76f42eb8.jpg,covering,"white mask, profile"
+172,mask/dev16_77a7a8c9.jpg,covering,mask at the face
+173,mask/dev16_782e6082.jpg,hidden,bending
+174,mask/dev16_787db0a5.jpg,hidden,from behind
+175,mask/dev16_788904d6.jpg,covering,white mask covering
+176,mask/dev16_7ac8f883.jpg,chin,white at the chin
+177,mask/dev16_7ace30e1.jpg,hidden,face not visible
+178,mask/dev16_7bfa38ac.jpg,hidden,from behind
+179,mask/dev16_7c7c712f.jpg,chin,white at the chin
+180,mask/dev16_7cc217c7.jpg,chin,"white at the chin, face bare"
+181,mask/dev16_7dff52ee.jpg,covering,"white mask, profile"
+182,mask/dev16_7f7aa83b.jpg,covering,white mask covering
+183,mask/dev16_80fa7e72.jpg,chin,white at the chin
+184,mask/dev16_81e701b0.jpg,chin,mask at the neck
+185,mask/dev16_827ad1dd.jpg,covering,"white mask, profile"
+186,mask/dev16_83c2e68c.jpg,chin,white at the chin
+187,mask/dev16_8413cf3c.jpg,covering,mask covering
+188,mask/dev16_84671a0b.jpg,covering,white mask covering
+189,mask/dev16_8476351b.jpg,hidden,face not visible
+190,mask/dev16_848dd142.jpg,hidden,from behind
+191,mask/dev16_84ecf071.jpg,covering,"white mask, profile"
+192,mask/dev16_84fa7348.jpg,hidden,blurred
+193,mask/dev16_850d4deb.jpg,covering,white mask covering
+194,mask/dev16_865d5da1.jpg,hidden,from behind
+195,mask/dev16_889cb873.jpg,covering,green mask covering
+196,mask/dev16_896d6b29.jpg,covering,green mask covering
+197,mask/dev16_89a2fd2f.jpg,covering,"green mask, profile"
+198,mask/dev16_89e5f02d.jpg,covering,mask on the face
+199,mask/dev16_8b51406e.jpg,covering,white mask covering
+200,mask/dev16_8bff3504.jpg,chin,white at the chin
+201,mask/dev16_8cda04a8.jpg,chin,white below the chin
+202,mask/dev16_8dac1812.jpg,covering,white mask covering
+203,mask/dev16_912aa269.jpg,chin,white at the neck
+204,mask/dev16_91b4bf89.jpg,hidden,partial/far
+205,mask/dev16_91f3b0ce.jpg,chin,mask at the chin
+206,mask/dev16_9427987f.jpg,hidden,bending
+207,mask/dev16_9475bd0b.jpg,chin,"white at the chin, face bare"
+208,mask/dev16_94df6114.jpg,chin,white at the chin
+209,mask/dev16_951ebd3d.jpg,chin,white below the chin
+210,mask/dev16_9785bfef.jpg,covering,mask on the face
+211,mask/dev16_98ddff0d.jpg,chin,white at the chin
+212,mask/dev16_99669c28.jpg,hidden,face not clear
+213,mask/dev16_998418c2.jpg,chin,white at the neck
+214,mask/dev16_99af13f7.jpg,chin,white at the chin
+215,mask/dev16_9c10e032.jpg,covering,green mask covering
+216,mask/dev16_9ca2899b.jpg,chin,white at the chin
+217,mask/dev16_9cad2975.jpg,covering,"white mask, profile"
+218,mask/dev16_9d337aa1.jpg,covering,white mask covering
+219,mask/dev16_9d55a2b4.jpg,chin,"bare face, no mask visible"
+220,mask/dev16_9eb819db.jpg,hidden,bending
+221,mask/dev16_9f47ecb0.jpg,chin,white at the chin
+222,mask/dev16_a13925cf.jpg,chin,white below the chin
+223,mask/dev16_a1abaf70.jpg,covering,white mask covering
+224,mask/dev16_a1d22e4a.jpg,chin,white at the neck
+225,mask/dev16_a2c5314e.jpg,chin,green mask at the neck
+226,mask/dev16_a2e6f869.jpg,covering,mask on the face
+227,mask/dev16_a2fb0d29.jpg,chin,white at the chin
+228,mask/dev16_a3344212.jpg,hidden,"crowded, face not visible"
+229,mask/dev16_a4bd18df.jpg,hidden,from behind
+230,mask/dev16_a4ffefb6.jpg,hidden,face not clear
+231,mask/dev16_a57b1cea.jpg,chin,white at the chin
+232,mask/dev16_a6102351.jpg,hidden,from behind
+233,mask/dev16_a61ce756.jpg,chin,white at the neck
+234,mask/dev16_a63535ef.jpg,covering,green mask covering
+235,mask/dev16_a675ac38.jpg,hidden,from behind
+236,mask/dev16_a6c0885a.jpg,covering,mask on the face
+237,mask/dev16_a765a0f9.jpg,chin,white below the chin
+238,mask/dev16_a84dde1f.jpg,chin,mask at the chin
+239,mask/dev16_a9349be7.jpg,hidden,bending
+240,mask/dev16_a9435bcd.jpg,chin,white at the chin
+241,mask/dev16_a9924569.jpg,covering,"white mask, profile"
+242,mask/dev16_ab61034b.jpg,hidden,from behind
+243,mask/dev16_ac88f645.jpg,covering,"white mask, profile"
+244,mask/dev16_adc7416d.jpg,chin,white at the neck
+245,mask/dev16_ae4a725d.jpg,covering,mask on the face
+246,mask/dev16_ae9de4e0.jpg,hidden,blurred
+247,mask/dev16_aefe61fa.jpg,hidden,bending from behind
+248,mask/dev16_af58f1a3.jpg,chin,white at the neck
+249,mask/dev16_afbad1cc.jpg,covering,"mask covering, profile"
+250,mask/dev16_afc16802.jpg,hidden,face unclear
+251,mask/dev16_afc6de0a.jpg,chin,white at the chin
+252,mask/dev16_b1bd22ca.jpg,hidden,far
+253,mask/dev16_b26df4a5.jpg,chin,white at the chin
+254,mask/dev16_b331a0f6.jpg,chin,white at the chin
+255,mask/dev16_b5318a3e.jpg,covering,"white mask, profile"
+256,mask/dev16_b59dd9b3.jpg,hidden,face partly visible
+257,mask/dev16_b634dee2.jpg,covering,"mask covering, profile"
+258,mask/dev16_b670d794.jpg,covering,green mask covering
+259,mask/dev16_b6bb5689.jpg,chin,dark at the neck
+260,mask/dev16_b6d49a8e.jpg,covering,mask on the face
+261,mask/dev16_b74bcb90.jpg,covering,"white mask, profile"
+262,mask/dev16_b944e151.jpg,hidden,face not clear
+263,mask/dev16_b9811974.jpg,chin,white at the chin
+264,mask/dev16_b9d2352c.jpg,chin,dark below the face
+265,mask/dev16_ba509e67.jpg,covering,white mask covering
+266,mask/dev16_bbf9c0ba.jpg,covering,green mask covering
+267,mask/dev16_bd644a61.jpg,chin,white at the neck
+268,mask/dev16_bd6c5e8e.jpg,chin,white at the neck
+269,mask/dev16_bde6a2fa.jpg,chin,mask at the chin
+270,mask/dev16_be5eb925.jpg,covering,green mask covering
+271,mask/dev16_bf9b4b40.jpg,covering,"white mask, profile"
+272,mask/dev16_bfca85c2.jpg,covering,green mask covering
+273,mask/dev16_c013fa15.jpg,hidden,from behind
+274,mask/dev16_c0f02f08.jpg,covering,mask on the face
+275,mask/dev16_c11afcfd.jpg,covering,mask on the face
+276,mask/dev16_c2d7d1d7.jpg,chin,green at the neck
+277,mask/dev16_c338a299.jpg,hidden,face not clear
+278,mask/dev16_c34ee98c.jpg,chin,white at the chin
+279,mask/dev16_c3c67773.jpg,hidden,from behind
+280,mask/dev16_c3e5154c.jpg,hidden,face not visible
+281,mask/dev16_c44edf60.jpg,chin,white at the neck
+282,mask/dev16_c4cceced.jpg,hidden,from behind
+283,mask/dev16_c6c05f43.jpg,covering,mask covering
+284,mask/dev16_c7ae60db.jpg,chin,white at the chin
+285,mask/dev16_c7b57343.jpg,hidden,bending from behind
+286,mask/dev16_c82cee92.jpg,chin,white at the neck
+287,mask/dev16_c8644f32.jpg,covering,mask covering
+288,mask/dev16_c8e6e2b3.jpg,covering,"white mask, profile"
+289,mask/dev16_c9f825f2.jpg,covering,white mask covering
+290,mask/dev16_cad058e0.jpg,chin,white at the chin
+291,mask/dev16_cbc6a16e.jpg,chin,white at the chin
+292,mask/dev16_ccf010be.jpg,hidden,from behind
+293,mask/dev16_cdb8d729.jpg,hidden,bending
+294,mask/dev16_ce458731.jpg,chin,at the chin
+295,mask/dev16_ce4eb728.jpg,chin,green at the neck
+296,mask/dev16_cef7ad93.jpg,covering,"white mask, profile"
+297,mask/dev16_d15c6b2e.jpg,chin,green at the neck
+298,mask/dev16_d2ed129d.jpg,chin,white at the chin
+299,mask/dev16_d3207abb.jpg,chin,white at the neck
+300,mask/dev16_d3a00fbd.jpg,hidden,from behind
+301,mask/dev16_d45895d5.jpg,chin,white at the neck
+302,mask/dev16_d47cda5f.jpg,covering,white mask covering
+303,mask/dev16_d4a5c0eb.jpg,chin,white at the chin
+304,mask/dev16_d4aba8ce.jpg,hidden,face not clear
+305,mask/dev16_d502ed10.jpg,hidden,from behind
+306,mask/dev16_d56e8878.jpg,covering,"white mask, profile"
+307,mask/dev16_d5b988a5.jpg,chin,green at the neck
+308,mask/dev16_d5dcce00.jpg,chin,white at the chin
+309,mask/dev16_d5e7cb43.jpg,covering,white mask covering
+310,mask/dev16_d75c571a.jpg,chin,white at the neck
+311,mask/dev16_d876d030.jpg,covering,mask covering
+312,mask/dev16_d8c96483.jpg,chin,white at the neck
+313,mask/dev16_da12a3b9.jpg,hidden,from behind
+314,mask/dev16_da174b05.jpg,covering,white mask covering
+315,mask/dev16_dc28d50f.jpg,hidden,face unclear
+316,mask/dev16_dd13a426.jpg,hidden,face unclear
+317,mask/dev16_dd1e5da8.jpg,chin,white at the chin
+318,mask/dev16_ddab9f63.jpg,covering,green mask covering
+319,mask/dev16_ddb191c8.jpg,chin,white at the neck
+320,mask/dev16_de404ca2.jpg,covering,mask on the face
+321,mask/dev16_deb7016c.jpg,hidden,face unclear
+322,mask/dev16_dfddb986.jpg,covering,"white mask, profile"
+323,mask/dev16_e00697d0.jpg,covering,mask on the face
+324,mask/dev16_e0e13a4c.jpg,chin,no mask on the face
+325,mask/dev16_e0e78da1.jpg,hidden,face down
+326,mask/dev16_e17541cd.jpg,chin,white at the neck
+327,mask/dev16_e28aae6b.jpg,covering,mask on the face
+328,mask/dev16_e2c56d06.jpg,covering,white mask covering
+329,mask/dev16_e2dc5f67.jpg,covering,"white mask, profile"
+330,mask/dev16_e2f5b841.jpg,covering,"white mask, profile"
+331,mask/dev16_e3521b6f.jpg,chin,white at the neck
+332,mask/dev16_e3e15b0b.jpg,covering,white mask covering
+333,mask/dev16_e54a0018.jpg,covering,"white mask, profile"
+334,mask/dev16_e60d3a6c.jpg,covering,white mask covering
+335,mask/dev16_e65a7424.jpg,chin,white at the chin
+336,mask/dev16_e6ba6a90.jpg,hidden,blurred
+337,mask/dev16_e7080090.jpg,hidden,bending from behind
+338,mask/dev16_e7c1def6.jpg,chin,white at the chin
+339,mask/dev16_e8545a3c.jpg,hidden,from behind
+340,mask/dev16_e94cdb3a.jpg,hidden,face unclear
+341,mask/dev16_e97a2414.jpg,chin,white at the neck
+342,mask/dev16_e9de936d.jpg,chin,dark at the neck
+343,mask/dev16_ea25880b.jpg,hidden,far
+344,mask/dev16_ebf981fe.jpg,covering,white mask covering
+345,mask/dev16_ec50800e.jpg,chin,white at the neck
+346,mask/dev16_ed2eeaba.jpg,hidden,bending
+347,mask/dev16_ed925371.jpg,covering,mask on the face
+348,mask/dev16_edc898c8.jpg,hidden,from behind
+349,mask/dev16_ee143b4c.jpg,covering,"white mask, profile"
+350,mask/dev16_efee2bdd.jpg,chin,white at the chin
+351,mask/dev16_f012b14e.jpg,hidden,bending
+352,mask/dev16_f08d1ecd.jpg,covering,mask on the face
+353,mask/dev16_f0eb2e07.jpg,covering,"white mask, profile"
+354,mask/dev16_f12bb57b.jpg,chin,white at the neck
+355,mask/dev16_f311bebd.jpg,covering,white mask covering
+356,mask/dev16_f31897a1.jpg,hidden,face unclear
+357,mask/dev16_f54bdb60.jpg,hidden,from behind
+358,mask/dev16_f58817a6.jpg,chin,white at the neck
+359,mask/dev16_f5abedb1.jpg,covering,"white mask, profile"
+360,mask/dev16_f64f896c.jpg,covering,"white mask, profile"
+361,mask/dev16_f6c2e953.jpg,chin,white at the neck
+362,mask/dev16_f6fa5aff.jpg,hidden,partial
+363,mask/dev16_f74adf9e.jpg,chin,dark at the chin
+364,mask/dev16_f77f8758.jpg,chin,white at the chin
+365,mask/dev16_f80ebd2e.jpg,covering,white mask covering
+366,mask/dev16_f82fc684.jpg,covering,white mask covering
+367,mask/dev16_f867eca9.jpg,chin,white at the chin
+368,mask/dev16_f874b76b.jpg,covering,mask covering
+369,mask/dev16_f95e7b12.jpg,covering,"white mask, profile"
+370,mask/dev16_f9b561e5.jpg,chin,white at the chin
+371,mask/dev16_facc1a80.jpg,covering,white mask covering
+372,mask/dev16_fb303abf.jpg,covering,"white mask, profile"
+373,mask/dev16_fb4266cc.jpg,covering,green mask covering
+374,mask/dev16_fb63dfe9.jpg,covering,white mask covering
+375,mask/dev16_fb932760.jpg,hidden,from behind
+376,mask/dev16_fbcbbfab.jpg,covering,"white mask, profile"
+377,mask/dev16_fcbe13f7.jpg,hidden,face unclear
+378,mask/dev16_febb679a.jpg,chin,"bare face, no mask"
+379,mask/dev16_ffac50cf.jpg,chin,white at the neck
+380,mask/dev16_ffda8c96.jpg,chin,dark at the neck
+381,mask/site23_01f48bc6.jpg,covering,white mask covering
+382,mask/site23_04fe3803.jpg,covering,white mask covering
+383,mask/site23_05f381d9.jpg,covering,white mask covering
+384,mask/site23_073a1357.jpg,covering,white mask covering
+385,mask/site23_0816ab47.jpg,covering,white mask covering
+386,mask/site23_09631947.jpg,covering,white mask covering
+387,mask/site23_0ae4e621.jpg,covering,white mask covering
+388,mask/site23_0c5878ca.jpg,covering,white mask covering
+389,mask/site23_0c74235a.jpg,covering,white mask covering
+390,mask/site23_0cca8720.jpg,covering,white mask covering
+391,mask/site23_0e5e62c8.jpg,covering,white mask covering
+392,mask/site23_0f9d9d1f.jpg,covering,white mask covering
+393,mask/site23_0fcb56c2.jpg,covering,white mask covering
+394,mask/site23_0ff94e41.jpg,covering,white mask covering
+395,mask/site23_1046293b.jpg,covering,white mask covering
+396,mask/site23_120b5351.jpg,covering,white/blue mask covering
+397,mask/site23_129d4808.jpg,covering,white/blue mask covering
+398,mask/site23_12f05fa4.jpg,covering,white/blue mask covering
+399,mask/site23_13dc9bfe.jpg,covering,white/blue mask covering
+400,mask/site23_15b405d6.jpg,covering,white/blue mask covering
+402,mask/site23_171e24c8.jpg,covering,white/blue mask covering
+403,mask/site23_19e15457.jpg,covering,white/blue mask covering
+405,mask/site23_1a7c43e6.jpg,covering,white/blue mask covering
+407,mask/site23_1e6f01e1.jpg,covering,white/blue mask covering
+408,mask/site23_1eed4d97.jpg,covering,white/blue mask covering
+409,mask/site23_205bba94.jpg,covering,white/blue mask covering
+410,mask/site23_20e49dd1.jpg,covering,white/blue mask covering
+411,mask/site23_2278f44b.jpg,covering,white/blue mask covering
+412,mask/site23_23652f0e.jpg,covering,white/blue mask covering
+413,mask/site23_29173fd1.jpg,covering,white/blue mask covering
+414,mask/site23_2ec7b398.jpg,covering,white/blue mask covering
+415,mask/site23_33324284.jpg,covering,white/blue mask covering
+416,mask/site23_342a6f16.jpg,covering,white/blue mask covering
+417,mask/site23_367fa11f.jpg,covering,white/blue mask covering
+418,mask/site23_37473888.jpg,covering,white/blue mask covering
+419,mask/site23_37f30d88.jpg,covering,white/blue mask covering
+401,mask/site23_1635648c.jpg,chin,white at the chin
+404,mask/site23_1a52e4bb.jpg,chin,white below the chin
+406,mask/site23_1b8fb60e.jpg,chin,white at the chin
+420,mask/site23_3e0a6258.jpg,covering,mask covering
+421,mask/site23_3e5778e0.jpg,covering,mask covering
+422,mask/site23_41a38acb.jpg,covering,mask covering
+423,mask/site23_4410038c.jpg,covering,mask covering
+424,mask/site23_4756d76d.jpg,covering,mask covering
+425,mask/site23_491ac8d0.jpg,covering,mask covering
+426,mask/site23_4ac4e304.jpg,covering,mask covering
+427,mask/site23_4c4d427c.jpg,covering,mask covering
+428,mask/site23_52a67157.jpg,covering,mask covering
+429,mask/site23_5a4d561f.jpg,covering,mask covering
+430,mask/site23_5b38bb51.jpg,covering,mask covering
+431,mask/site23_5defd9ec.jpg,covering,mask covering
+432,mask/site23_5e913911.jpg,covering,mask covering
+433,mask/site23_5ee23604.jpg,covering,mask covering
+434,mask/site23_60aace81.jpg,covering,mask covering
+436,mask/site23_6486552c.jpg,covering,mask covering
+437,mask/site23_65fdc609.jpg,covering,mask covering
+438,mask/site23_69a638b7.jpg,covering,mask covering
+439,mask/site23_6ad1e3f0.jpg,covering,mask covering
+440,mask/site23_6d5d7083.jpg,covering,mask covering
+441,mask/site23_6f945940.jpg,covering,mask covering
+443,mask/site23_71f6a8be.jpg,covering,mask covering
+435,mask/site23_60ccc8a4.jpg,chin,white mask hanging below the chin
+442,mask/site23_6ffe5833.jpg,chin,white at the chin
+444,mask/site23_73e9e41e.jpg,covering,mask covering
+445,mask/site23_7a27fbad.jpg,covering,mask covering
+446,mask/site23_7cbc36b2.jpg,covering,mask covering
+447,mask/site23_8072d5e0.jpg,covering,mask covering
+448,mask/site23_81faaba2.jpg,covering,mask covering
+449,mask/site23_844dafbd.jpg,covering,mask covering
+451,mask/site23_86126c3b.jpg,covering,mask covering
+452,mask/site23_88b5895d.jpg,covering,mask covering
+453,mask/site23_8d89fe5f.jpg,covering,mask covering
+455,mask/site23_90909f1d.jpg,covering,mask covering
+456,mask/site23_92e0993b.jpg,covering,mask covering
+457,mask/site23_9479a3f0.jpg,covering,mask covering
+458,mask/site23_96253047.jpg,covering,mask covering
+459,mask/site23_97ac144e.jpg,covering,mask covering
+460,mask/site23_9a63fe73.jpg,covering,mask covering
+461,mask/site23_9c0fddb7.jpg,covering,mask covering
+462,mask/site23_9d016b85.jpg,covering,mask covering
+463,mask/site23_a287cfd0.jpg,covering,mask covering
+464,mask/site23_a2e0be27.jpg,covering,mask covering
+465,mask/site23_a9859bb7.jpg,covering,mask covering
+466,mask/site23_aa3f2df6.jpg,covering,mask covering
+467,mask/site23_aa6eb70a.jpg,covering,mask covering
+450,mask/site23_84a1f391.jpg,chin,white at the chin
+454,mask/site23_8e89480a.jpg,chin,white below the chin
+468,mask/site23_ac4f289b.jpg,covering,mask covering
+469,mask/site23_ada75b6b.jpg,covering,mask covering
+470,mask/site23_adce376e.jpg,covering,mask covering
+471,mask/site23_b0be691f.jpg,covering,mask covering
+472,mask/site23_b20cd58e.jpg,covering,mask covering
+473,mask/site23_b27ab6cf.jpg,covering,mask covering
+474,mask/site23_b5594ac7.jpg,covering,mask covering
+475,mask/site23_b77f6661.jpg,covering,mask covering
+476,mask/site23_b7ded95c.jpg,covering,mask covering
+477,mask/site23_bfb6c64a.jpg,covering,mask covering
+478,mask/site23_c5fe0007.jpg,covering,mask covering
+479,mask/site23_c7db976b.jpg,covering,mask covering
+480,mask/site23_c9562000.jpg,covering,mask covering
+481,mask/site23_c9e33619.jpg,covering,mask covering
+482,mask/site23_ca6c97dc.jpg,covering,mask covering
+483,mask/site23_cd20ded4.jpg,covering,mask covering
+485,mask/site23_ce9d98dd.jpg,covering,mask covering
+486,mask/site23_d37da267.jpg,covering,mask covering
+487,mask/site23_d3943a34.jpg,covering,mask covering
+488,mask/site23_d9bd82cc.jpg,covering,mask covering
+489,mask/site23_dc6bf1df.jpg,covering,mask covering
+490,mask/site23_dd843599.jpg,covering,mask covering
+491,mask/site23_ddd39992.jpg,covering,mask covering
+492,mask/site23_e2b8b4ab.jpg,covering,mask covering
+493,mask/site23_e369a5b0.jpg,covering,mask covering
+494,mask/site23_e4896acd.jpg,covering,mask covering
+495,mask/site23_ea28734c.jpg,covering,mask covering
+496,mask/site23_eb8bf1da.jpg,covering,mask covering
+497,mask/site23_eca62566.jpg,covering,mask covering
+498,mask/site23_ecd69df0.jpg,covering,mask covering
+499,mask/site23_ed2506a7.jpg,covering,mask covering
+500,mask/site23_f54273aa.jpg,covering,mask covering
+501,mask/site23_f576d080.jpg,covering,mask covering
+502,mask/site23_f5d0a782.jpg,covering,mask covering
+503,mask/site23_f7505518.jpg,covering,mask covering
+484,mask/site23_ce2b4745.jpg,chin,"white at the chin, face bare"
+504,mask/site23_f79ee135.jpg,covering,mask covering
+505,mask/site23_fa714237.jpg,covering,mask covering
+506,mask/site23_fac2fd00.jpg,covering,mask covering
+507,mask/site23_feb60143.jpg,covering,mask covering

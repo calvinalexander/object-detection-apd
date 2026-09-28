@@ -261,6 +261,13 @@ class OursPerception:
             for k, grp in enumerate(("headcap", "mask", "gloves")):
                 cut = self.person_cuts[grp]
                 ka = cut.get("known_above")
+                ps, kf = cut.get("present_strong"), cut.get("known_floor", ka)
+                if ps is not None and float(p[k]) < ps and (kf is None or float(p[3+k]) >= kf):
+                    v[grp] = "violation"                # confident absence beats the abstention
+                    conf[grp] = 1.0 - float(p[k])
+                    roi = pp.head if grp in ("headcap", "mask") and pp.head is not None else pp.person_box
+                    rb[grp] = [int(t) for t in roi]
+                    continue
                 if ka is not None and float(p[3+k]) < ka:
                     v[grp] = "unknown"              # the model says it cannot see this item
                     conf[grp] = float(p[3+k])

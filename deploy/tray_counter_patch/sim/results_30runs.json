@@ -1,0 +1,5360 @@
+{
+ "trays": 45,
+ "scenario": [
+  {
+   "id": 0,
+   "t0": 15,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 1,
+   "t0": 54,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 2,
+   "t0": 93,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 3,
+   "t0": 132,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 4,
+   "t0": 171,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 5,
+   "t0": 210,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 6,
+   "t0": 249,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 7,
+   "t0": 288,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 8,
+   "t0": 327,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 9,
+   "t0": 366,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 10,
+   "t0": 405,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 11,
+   "t0": 444,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 12,
+   "t0": 483,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 13,
+   "t0": 522,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 14,
+   "t0": 561,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 15,
+   "t0": 90,
+   "y": 470,
+   "cls": 3,
+   "dir": "out",
+   "note": "less-than-half going out"
+  },
+  {
+   "id": 16,
+   "t0": 217,
+   "y": 470,
+   "cls": 0,
+   "dir": "out",
+   "note": "empty tray going out"
+  },
+  {
+   "id": 17,
+   "t0": 330,
+   "y": 470,
+   "cls": 2,
+   "dir": "out",
+   "note": "half-filled going out"
+  },
+  {
+   "id": 18,
+   "t0": 465,
+   "y": 470,
+   "cls": 4,
+   "dir": "out",
+   "note": "more-than-half going out"
+  },
+  {
+   "id": 19,
+   "t0": 630,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 20,
+   "t0": 658,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 21,
+   "t0": 687,
+   "y": 470,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 22,
+   "t0": 715,
+   "y": 230,
+   "cls": 5,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 23,
+   "t0": 743,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 24,
+   "t0": 772,
+   "y": 470,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 25,
+   "t0": 800,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 26,
+   "t0": 829,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 27,
+   "t0": 857,
+   "y": 470,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 28,
+   "t0": 886,
+   "y": 230,
+   "cls": 5,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 29,
+   "t0": 914,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 30,
+   "t0": 943,
+   "y": 470,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 31,
+   "t0": 971,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 32,
+   "t0": 1000,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 33,
+   "t0": 1028,
+   "y": 470,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 34,
+   "t0": 630,
+   "y": 590,
+   "cls": 3,
+   "dir": "out",
+   "note": "less-than-half going out"
+  },
+  {
+   "id": 35,
+   "t0": 1110,
+   "y": 590,
+   "cls": 2,
+   "dir": "out",
+   "note": "half-filled going out"
+  },
+  {
+   "id": 36,
+   "t0": 780,
+   "y": 590,
+   "cls": 1,
+   "dir": "in",
+   "note": "tray returned against the flow (busy)"
+  },
+  {
+   "id": 37,
+   "t0": 960,
+   "y": 590,
+   "cls": 4,
+   "dir": "in",
+   "note": "tray returned against the flow (busy)"
+  },
+  {
+   "id": 38,
+   "t0": 1095,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": "stops on the line and wobbles"
+  },
+  {
+   "id": 39,
+   "t0": 1260,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": "nose-to-tail pair (front)"
+  },
+  {
+   "id": 40,
+   "t0": 1275,
+   "y": 350,
+   "cls": 1,
+   "dir": "out",
+   "note": "nose-to-tail pair (back)"
+  },
+  {
+   "id": 41,
+   "t0": 1425,
+   "y": 230,
+   "cls": 0,
+   "dir": "outback",
+   "note": "empty tray out, then pulled back in"
+  },
+  {
+   "id": 42,
+   "t0": 1590,
+   "y": 470,
+   "cls": 1,
+   "dir": "in",
+   "note": "tray returned, nothing else on screen"
+  },
+  {
+   "id": 43,
+   "t0": 1695,
+   "y": 230,
+   "cls": 1,
+   "dir": "out",
+   "note": ""
+  },
+  {
+   "id": 44,
+   "t0": 1710,
+   "y": 350,
+   "cls": 5,
+   "dir": "out",
+   "note": "stack going out"
+  }
+ ],
+ "profiles": {
+  "production/ideal": {
+   "per_tray_seed0": [
+    {
+     "id": 0,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 1,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 2,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 3,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 4,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 5,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 6,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 7,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 8,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 9,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 10,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 11,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 12,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 13,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 14,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 15,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 16,
+     "cls": "empty",
+     "note": "empty tray going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 17,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 18,
+     "cls": ">half",
+     "note": "more-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 19,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 20,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 21,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 22,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 23,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 24,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 25,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 26,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 27,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 28,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 29,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 30,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 31,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 32,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 33,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 34,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 35,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 36,
+     "cls": "full",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 37,
+     "cls": ">half",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 38,
+     "cls": "full",
+     "note": "stops on the line and wobbles",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 39,
+     "cls": "full",
+     "note": "nose-to-tail pair (front)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 40,
+     "cls": "full",
+     "note": "nose-to-tail pair (back)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 41,
+     "cls": "empty",
+     "note": "empty tray out, then pulled back in",
+     "expected": [
+      "out",
+      "in"
+     ],
+     "got": [
+      "out",
+      "out"
+     ],
+     "got_cls": [
+      "empty",
+      "empty"
+     ],
+     "ok": false,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 42,
+     "cls": "full",
+     "note": "tray returned, nothing else on screen",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 43,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 44,
+     "cls": "stack",
+     "note": "stack going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    }
+   ],
+   "fail_count": {
+    "38": 30,
+    "41": 30,
+    "42": 30
+   },
+   "mean": {
+    "gt_out": 42.0,
+    "gt_in": 4.0,
+    "sys_out": 43.0,
+    "sys_in": 3.0,
+    "correct": 43.0,
+    "missed": 0.0,
+    "extra": 0.0,
+    "wrong_dir": 3.0,
+    "viol_gt": 7.0,
+    "viol_tp": 7.0,
+    "viol_fp": 0.0,
+    "viol_fn": 0.0,
+    "phantom": 0.0
+   },
+   "min": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 43,
+    "sys_in": 3,
+    "correct": 43,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 3,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "max": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 43,
+    "sys_in": 3,
+    "correct": 43,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 3,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "runs": 30
+  },
+  "production/realistic": {
+   "per_tray_seed0": [
+    {
+     "id": 0,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 1,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 2,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 3,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 4,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 5,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 6,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 7,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 8,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 9,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 10,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 11,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 12,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 13,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 14,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 15,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 16,
+     "cls": "empty",
+     "note": "empty tray going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 17,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 18,
+     "cls": ">half",
+     "note": "more-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 19,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 20,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 21,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 22,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 23,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 24,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 25,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 26,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 27,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 28,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 29,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 30,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 31,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 32,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 33,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 34,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 35,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 36,
+     "cls": "full",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 37,
+     "cls": ">half",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 38,
+     "cls": "full",
+     "note": "stops on the line and wobbles",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 39,
+     "cls": "full",
+     "note": "nose-to-tail pair (front)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 40,
+     "cls": "full",
+     "note": "nose-to-tail pair (back)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 41,
+     "cls": "empty",
+     "note": "empty tray out, then pulled back in",
+     "expected": [
+      "out",
+      "in"
+     ],
+     "got": [
+      "out",
+      "out"
+     ],
+     "got_cls": [
+      "empty",
+      "empty"
+     ],
+     "ok": false,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 42,
+     "cls": "full",
+     "note": "tray returned, nothing else on screen",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 43,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 44,
+     "cls": "stack",
+     "note": "stack going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    }
+   ],
+   "fail_count": {
+    "41": 30,
+    "42": 30,
+    "38": 14,
+    "31": 1,
+    "20": 2,
+    "28": 1,
+    "35": 1,
+    "30": 1,
+    "18": 2,
+    "23": 1,
+    "40": 1,
+    "29": 1,
+    "39": 1,
+    "26": 1
+   },
+   "mean": {
+    "gt_out": 42.0,
+    "gt_in": 4.0,
+    "sys_out": 43.7,
+    "sys_in": 2.566666666666667,
+    "correct": 43.36666666666667,
+    "missed": 0.16666666666666666,
+    "extra": 0.3333333333333333,
+    "wrong_dir": 2.466666666666667,
+    "viol_gt": 7.0,
+    "viol_tp": 7.0,
+    "viol_fp": 0.2,
+    "viol_fn": 0.0,
+    "phantom": 0.1
+   },
+   "min": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 42,
+    "sys_in": 2,
+    "correct": 42,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 1,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "max": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 45,
+    "sys_in": 4,
+    "correct": 44,
+    "missed": 1,
+    "extra": 2,
+    "wrong_dir": 3,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 2,
+    "viol_fn": 0,
+    "phantom": 1
+   },
+   "runs": 30
+  },
+  "production/harsh": {
+   "per_tray_seed0": [
+    {
+     "id": 0,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 1,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 2,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 3,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 4,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 5,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 6,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 7,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 8,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 9,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 10,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 11,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 12,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 13,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 14,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 15,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 16,
+     "cls": "empty",
+     "note": "empty tray going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "empty"
+     ],
+     "ok": false,
+     "viol_gt": true,
+     "viol_pred": false
+    },
+    {
+     "id": 17,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 18,
+     "cls": ">half",
+     "note": "more-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 19,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 20,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 21,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 22,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 23,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 24,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 25,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 26,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [],
+     "got_cls": [],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 27,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 28,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 29,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 30,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 31,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 32,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out",
+      "out"
+     ],
+     "got_cls": [
+      ">half",
+      "full"
+     ],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": true
+    },
+    {
+     "id": 33,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 34,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 35,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 36,
+     "cls": "full",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 37,
+     "cls": ">half",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 38,
+     "cls": "full",
+     "note": "stops on the line and wobbles",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 39,
+     "cls": "full",
+     "note": "nose-to-tail pair (front)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 40,
+     "cls": "full",
+     "note": "nose-to-tail pair (back)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 41,
+     "cls": "empty",
+     "note": "empty tray out, then pulled back in",
+     "expected": [
+      "out",
+      "in"
+     ],
+     "got": [
+      "out",
+      "out"
+     ],
+     "got_cls": [
+      "empty",
+      "empty"
+     ],
+     "ok": false,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 42,
+     "cls": "full",
+     "note": "tray returned, nothing else on screen",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": false,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 43,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 44,
+     "cls": "stack",
+     "note": "stack going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    }
+   ],
+   "fail_count": {
+    "16": 2,
+    "25": 7,
+    "26": 2,
+    "32": 8,
+    "36": 3,
+    "41": 30,
+    "42": 30,
+    "24": 5,
+    "40": 3,
+    "6": 4,
+    "15": 4,
+    "19": 3,
+    "33": 5,
+    "5": 4,
+    "17": 5,
+    "30": 6,
+    "31": 3,
+    "39": 1,
+    "18": 4,
+    "1": 2,
+    "22": 5,
+    "21": 5,
+    "23": 1,
+    "35": 7,
+    "29": 4,
+    "38": 10,
+    "4": 2,
+    "9": 2,
+    "12": 1,
+    "2": 2,
+    "7": 3,
+    "11": 1,
+    "20": 1,
+    "8": 1,
+    "3": 2,
+    "14": 2,
+    "27": 2,
+    "34": 3,
+    "28": 1,
+    "37": 1,
+    "44": 1,
+    "0": 2
+   },
+   "mean": {
+    "gt_out": 42.0,
+    "gt_in": 4.0,
+    "sys_out": 44.13333333333333,
+    "sys_in": 3.566666666666667,
+    "correct": 41.93333333333333,
+    "missed": 0.8,
+    "extra": 2.3,
+    "wrong_dir": 3.2666666666666666,
+    "viol_gt": 7.0,
+    "viol_tp": 6.766666666666667,
+    "viol_fp": 1.4666666666666666,
+    "viol_fn": 0.23333333333333334,
+    "phantom": 0.2
+   },
+   "min": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 39,
+    "sys_in": 2,
+    "correct": 39,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 1,
+    "viol_gt": 7,
+    "viol_tp": 6,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "max": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 48,
+    "sys_in": 6,
+    "correct": 44,
+    "missed": 3,
+    "extra": 6,
+    "wrong_dir": 6,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 4,
+    "viol_fn": 1,
+    "phantom": 1
+   },
+   "runs": 30
+  },
+  "patched/ideal": {
+   "per_tray_seed0": [
+    {
+     "id": 0,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 1,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 2,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 3,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 4,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 5,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 6,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 7,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 8,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 9,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 10,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 11,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 12,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 13,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 14,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 15,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 16,
+     "cls": "empty",
+     "note": "empty tray going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 17,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 18,
+     "cls": ">half",
+     "note": "more-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 19,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 20,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 21,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 22,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 23,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 24,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 25,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 26,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 27,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 28,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 29,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 30,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 31,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 32,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 33,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 34,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 35,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 36,
+     "cls": "full",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 37,
+     "cls": ">half",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 38,
+     "cls": "full",
+     "note": "stops on the line and wobbles",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 39,
+     "cls": "full",
+     "note": "nose-to-tail pair (front)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 40,
+     "cls": "full",
+     "note": "nose-to-tail pair (back)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 41,
+     "cls": "empty",
+     "note": "empty tray out, then pulled back in",
+     "expected": [
+      "out",
+      "in"
+     ],
+     "got": [
+      "out",
+      "in"
+     ],
+     "got_cls": [
+      "empty",
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 42,
+     "cls": "full",
+     "note": "tray returned, nothing else on screen",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 43,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 44,
+     "cls": "stack",
+     "note": "stack going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    }
+   ],
+   "fail_count": {},
+   "mean": {
+    "gt_out": 42.0,
+    "gt_in": 4.0,
+    "sys_out": 42.0,
+    "sys_in": 4.0,
+    "correct": 46.0,
+    "missed": 0.0,
+    "extra": 0.0,
+    "wrong_dir": 0.0,
+    "viol_gt": 7.0,
+    "viol_tp": 7.0,
+    "viol_fp": 0.0,
+    "viol_fn": 0.0,
+    "phantom": 0.0
+   },
+   "min": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 42,
+    "sys_in": 4,
+    "correct": 46,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 0,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "max": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 42,
+    "sys_in": 4,
+    "correct": 46,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 0,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "runs": 30
+  },
+  "patched/realistic": {
+   "per_tray_seed0": [
+    {
+     "id": 0,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 1,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 2,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 3,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 4,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 5,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 6,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 7,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 8,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 9,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 10,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 11,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 12,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 13,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 14,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 15,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 16,
+     "cls": "empty",
+     "note": "empty tray going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 17,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 18,
+     "cls": ">half",
+     "note": "more-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 19,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 20,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 21,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 22,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 23,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 24,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 25,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 26,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 27,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 28,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 29,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 30,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 31,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 32,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 33,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 34,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 35,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 36,
+     "cls": "full",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 37,
+     "cls": ">half",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 38,
+     "cls": "full",
+     "note": "stops on the line and wobbles",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 39,
+     "cls": "full",
+     "note": "nose-to-tail pair (front)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 40,
+     "cls": "full",
+     "note": "nose-to-tail pair (back)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 41,
+     "cls": "empty",
+     "note": "empty tray out, then pulled back in",
+     "expected": [
+      "out",
+      "in"
+     ],
+     "got": [
+      "out",
+      "in"
+     ],
+     "got_cls": [
+      "empty",
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 42,
+     "cls": "full",
+     "note": "tray returned, nothing else on screen",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 43,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 44,
+     "cls": "stack",
+     "note": "stack going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    }
+   ],
+   "fail_count": {
+    "31": 1,
+    "20": 2,
+    "42": 1,
+    "41": 1
+   },
+   "mean": {
+    "gt_out": 42.0,
+    "gt_in": 4.0,
+    "sys_out": 41.93333333333333,
+    "sys_in": 3.966666666666667,
+    "correct": 45.833333333333336,
+    "missed": 0.16666666666666666,
+    "extra": 0.0,
+    "wrong_dir": 0.0,
+    "viol_gt": 7.0,
+    "viol_tp": 7.0,
+    "viol_fp": 0.0,
+    "viol_fn": 0.0,
+    "phantom": 0.06666666666666667
+   },
+   "min": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 41,
+    "sys_in": 3,
+    "correct": 45,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 0,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "max": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 42,
+    "sys_in": 4,
+    "correct": 46,
+    "missed": 1,
+    "extra": 0,
+    "wrong_dir": 0,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 1
+   },
+   "runs": 30
+  },
+  "patched/harsh": {
+   "per_tray_seed0": [
+    {
+     "id": 0,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 1,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 2,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 3,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 4,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 5,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 6,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 7,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 8,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 9,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 10,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 11,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 12,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 13,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 14,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 15,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 16,
+     "cls": "empty",
+     "note": "empty tray going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 17,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 18,
+     "cls": ">half",
+     "note": "more-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 19,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 20,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 21,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 22,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 23,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 24,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 25,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 26,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 27,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 28,
+     "cls": "stack",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 29,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 30,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 31,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 32,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 33,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 34,
+     "cls": "<half",
+     "note": "less-than-half going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "<half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 35,
+     "cls": "half",
+     "note": "half-filled going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "half"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 36,
+     "cls": "full",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 37,
+     "cls": ">half",
+     "note": "tray returned against the flow (busy)",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      ">half"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 38,
+     "cls": "full",
+     "note": "stops on the line and wobbles",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 39,
+     "cls": "full",
+     "note": "nose-to-tail pair (front)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 40,
+     "cls": "full",
+     "note": "nose-to-tail pair (back)",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 41,
+     "cls": "empty",
+     "note": "empty tray out, then pulled back in",
+     "expected": [
+      "out",
+      "in"
+     ],
+     "got": [
+      "out",
+      "in"
+     ],
+     "got_cls": [
+      "empty",
+      "empty"
+     ],
+     "ok": true,
+     "viol_gt": true,
+     "viol_pred": true
+    },
+    {
+     "id": 42,
+     "cls": "full",
+     "note": "tray returned, nothing else on screen",
+     "expected": [
+      "in"
+     ],
+     "got": [
+      "in"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 43,
+     "cls": "full",
+     "note": "",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "full"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    },
+    {
+     "id": 44,
+     "cls": "stack",
+     "note": "stack going out",
+     "expected": [
+      "out"
+     ],
+     "got": [
+      "out"
+     ],
+     "got_cls": [
+      "stack"
+     ],
+     "ok": true,
+     "viol_gt": false,
+     "viol_pred": false
+    }
+   ],
+   "fail_count": {
+    "42": 4,
+    "21": 4,
+    "23": 1,
+    "41": 5,
+    "22": 1,
+    "24": 1,
+    "38": 3,
+    "40": 2,
+    "3": 1,
+    "28": 1,
+    "18": 1,
+    "0": 1,
+    "5": 1
+   },
+   "mean": {
+    "gt_out": 42.0,
+    "gt_in": 4.0,
+    "sys_out": 41.46666666666667,
+    "sys_in": 3.7666666666666666,
+    "correct": 45.13333333333333,
+    "missed": 0.8333333333333334,
+    "extra": 0.0,
+    "wrong_dir": 0.03333333333333333,
+    "viol_gt": 7.0,
+    "viol_tp": 6.966666666666667,
+    "viol_fp": 0.0,
+    "viol_fn": 0.03333333333333333,
+    "phantom": 0.06666666666666667
+   },
+   "min": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 39,
+    "sys_in": 3,
+    "correct": 43,
+    "missed": 0,
+    "extra": 0,
+    "wrong_dir": 0,
+    "viol_gt": 7,
+    "viol_tp": 6,
+    "viol_fp": 0,
+    "viol_fn": 0,
+    "phantom": 0
+   },
+   "max": {
+    "gt_out": 42,
+    "gt_in": 4,
+    "sys_out": 42,
+    "sys_in": 5,
+    "correct": 46,
+    "missed": 3,
+    "extra": 0,
+    "wrong_dir": 1,
+    "viol_gt": 7,
+    "viol_tp": 7,
+    "viol_fp": 0,
+    "viol_fn": 1,
+    "phantom": 1
+   },
+   "runs": 30
+  }
+ }
+}

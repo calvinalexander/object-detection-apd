@@ -1,0 +1,25 @@
+{
+ "ref_n": 95,
+ "production": {
+  "out": 87,
+  "inn": 0,
+  "right": 85,
+  "wrong": 2,
+  "missed": 8,
+  "extra": 0,
+  "viol_tp": 21,
+  "viol_fn": 5,
+  "viol_fp": 3
+ },
+ "patched": {
+  "out": 85,
+  "inn": 2,
+  "right": 87,
+  "wrong": 0,
+  "missed": 8,
+  "extra": 0,
+  "viol_tp": 20,
+  "viol_fn": 6,
+  "viol_fp": 1
+ }
+}

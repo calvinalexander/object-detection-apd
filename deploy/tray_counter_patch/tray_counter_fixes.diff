@@ -1,0 +1,314 @@
+--- a/tlabcode/line_counter.py	2026-10-15 04:46:20.542352481 +0000
++++ b/tlabcode/line_counter.py	2026-10-15 04:46:20.544352583 +0000
+@@ -45,6 +45,8 @@
+         )
+ 
+         self.counted_objects = {}
++        self.last_direction = {}  # arah terakhir yang dihitung per tray
++        self.anchor_side = {}  # sisi garis terakhir tempat tray jelas berada
+         self.class_in_counts = defaultdict(int)
+         self.class_out_counts = defaultdict(int)
+         self.violation_counts = defaultdict(int)
+@@ -209,137 +211,93 @@
+ 
+             smooth_d = self.kalman_dist[obj_id].update(raw_d)
+ 
+-            side = (
+-                -1
+-                if smooth_d < -cfg.CROSSING_BUFFER_ZONE
+-                else 1 if smooth_d > cfg.CROSSING_BUFFER_ZONE else 0
+-            )
+-            self.side_history[obj_id].append(side)
++            # --- PENYEBERANGAN GARIS: SISI TERAKHIR + MARGIN SEPEREMPAT TRAY ---
++            # Tray dihitung menyeberang setelah jelas berada di sisi lain: seperempat panjang tray
++            # melewati garis (minimal CROSSING_BUFFER_ZONE). Sisi asal diingat selama tray terlacak,
++            # jadi tray yang berhenti, macet, atau maju mundur di atas garis dihitung sekali,
++            # saat benar-benar meninggalkan garis.
++            x1, y1, x2, y2 = bbox
++            ext = abs((x2 - x1) * self.normal[0]) + abs((y2 - y1) * self.normal[1])
++            margin = max(cfg.CROSSING_BUFFER_ZONE, 0.25 * ext)
++            side = -1 if smooth_d < -margin else 1 if smooth_d > margin else 0
++
++            if obj_id not in self.anchor_side:
++                # Pertama terlihat: pakai sisi tempat tray berada, walau belum jauh dari garis
++                # (tray yang sudah di atas garis saat video mulai tetap punya sisi asal).
++                if abs(smooth_d) > cfg.CROSSING_BUFFER_ZONE:
++                    self.anchor_side[obj_id] = 1 if smooth_d > 0 else -1
++                continue
+ 
+-            # Check 4: History length
+-            if len(self.side_history[obj_id]) < 2:
++            if side == 0 or side == self.anchor_side[obj_id] or len(traj) < 2:
++                debug_stats["skipped_no_side_change"] += 1
+                 continue
+ 
+-            # Check 5: Crossing pattern
+-            # Get the two most recent distinct side values from history.
+-            hist = self.side_history[obj_id]
+-            recent_sides = []
+-            for side in reversed(hist):
+-                if side != 0:
+-                    if not recent_sides or side != recent_sides[-1]:
+-                        recent_sides.append(side)
+-                        if len(recent_sides) == 2:
+-                            break
+-
+-            # A crossing is detected if we have two distinct recent sides
+-            if len(recent_sides) == 2:
+-                # prev_side, current_side = recent_sides[1], recent_sides[0] (Tidak dipakai untuk arah lagi)
+-
+-                # Validate velocity to ensure the object is moving towards the line
+-                if len(traj) >= 2:
+-                    # Hitung vektor kecepatan objek ini
+-                    obj_dx = traj[-1][0] - traj[-2][0]
+-                    obj_dy = traj[-1][1] - traj[-2][1]
+-
+-                    vnorm = np.hypot(obj_dx, obj_dy)
+-
+-                    if vnorm > 0.5:  # Object is moving
+-                        # Cek apakah gerakan tegak lurus garis (tidak sliding sejajar)
+-                        # self.normal diset saat init
+-                        perp = (
+-                            abs(obj_dx * self.normal[0] + obj_dy * self.normal[1])
+-                            / vnorm
+-                            if vnorm > 0
+-                            else 0
+-                        )
+-
+-                        # Reject if moving mostly parallel to the line
+-                        if perp < 0.2:
+-                            debug_stats["skipped_velocity"] += 1
+-                            if frame_num % 100 == 0:
+-                                LOG.debug(
+-                                    f"Obj {obj_id}: Velocity too parallel (perp={perp:.2f})"
+-                                )
+-                            continue
+-
+-                        # --- PENENTUAN ARAH DINAMIS (DYNAMIC DIRECTION) ---
+-                        # Logika: Bandingkan gerakan objek ini dengan arus rata-rata global
+-
+-                        determination_method = "STATIC"  # Default debug info
+-
+-                        # Cek apakah ada arus global yang signifikan (Conveyor jalan)
+-                        if abs(avg_flow_dx) + abs(avg_flow_dy) > 0.5:
+-                            # Hitung Alignment (Dot Product dengan arus global)
+-                            flow_alignment = (obj_dx * avg_flow_dx) + (
+-                                obj_dy * avg_flow_dy
+-                            )
+-
+-                            if flow_alignment > 0:
+-                                direction = "out"  # Searah arus conveyor = MAJU/OUT
+-                            else:
+-                                direction = "in"  # Melawan arus conveyor = MUNDUR/IN
+-
+-                            determination_method = (
+-                                f"DYNAMIC (Align: {flow_alignment:.2f})"
+-                            )
+-
+-                        else:
+-                            # FALLBACK: Jika conveyor diam atau arus global nol
+-                            # Gunakan logika Dot Product statis terhadap normal garis
+-                            # Asumsi: Normal Vector menunjuk ke arah "OUT"
+-                            norm_dot = (obj_dx * self.normal[0]) + (
+-                                obj_dy * self.normal[1]
+-                            )
+-
+-                            # Anda mungkin perlu menukar in/out ini tergantung arah normal garis Anda
+-                            direction = "out" if norm_dot > 0 else "in"
+-                            determination_method = (
+-                                f"STATIC_FALLBACK (Dot: {norm_dot:.2f})"
+-                            )
+-
+-                        # ✅ COUNT IT!
+-                        if direction == "in":
+-                            self.class_in_counts[cls] += 1
+-                        else:
+-                            self.class_out_counts[cls] += 1
+-
+-                        debug_stats["successfully_counted"] += 1
+-                        frame_events.append({"direction": direction, "cls": cls})
+-
+-                        LOG.info(
+-                            f"✅ COUNTED: Obj {obj_id} | {direction.upper()} | Method: {determination_method} | "
+-                            f"Class: {cls} | Dist: {smooth_d:.1f} | "
+-                            f"Total IN: {sum(self.class_in_counts.values())} | "
+-                            f"Total OUT: {sum(self.class_out_counts.values())}"
+-                        )
+-
+-                        # Handle Violation Logic (Hanya jika arah OUT dan Kelas salah)
+-                        if (
+-                            direction == "out"
+-                            and cls not in cfg.VALID_OUT_CLASSES
+-                            and frame_img is not None
+-                        ):
+-                            self._log_violation(
+-                                frame_num,
+-                                obj_id,
+-                                cls,
+-                                frame_img,
+-                                cfg,
+-                                direction,
+-                                tracked_objects,
+-                                fps,
+-                            )
+-                            self.violation_counts[cls] += 1
+-
+-                        # Add to counted list
+-                        self.counted_objects[obj_id] = {
+-                            "direction": direction,
+-                            "frame": frame_num,
+-                        }
+-                        self.side_history[obj_id].clear()
++            # Validasi kecepatan: tray harus bergerak, dan tidak sejajar garis.
++            # Jika gagal, dicoba lagi di frame berikutnya (sisi asal tetap diingat).
++            obj_dx = traj[-1][0] - traj[-2][0]
++            obj_dy = traj[-1][1] - traj[-2][1]
++            vnorm = np.hypot(obj_dx, obj_dy)
++            if vnorm <= 0.5:
++                debug_stats["skipped_velocity"] += 1
++                continue
++            perp = abs(obj_dx * self.normal[0] + obj_dy * self.normal[1]) / vnorm
++            if perp < 0.2:
++                debug_stats["skipped_velocity"] += 1
++                continue
+ 
++            # --- PENENTUAN ARAH: SISI ASAL -> SISI TUJUAN ---
++            # Bukan dari arus rata-rata global (arus global salah jika nampan yang dikembalikan
++            # adalah satu-satunya objek yang bergerak). Sisi positif = sisi yang ditunjuk normal
++            # garis = "OUT". Jika arah terbalik di suatu kamera, tukar urutan titik garis ROI.
++            prev_side = self.anchor_side[obj_id]
++            self.anchor_side[obj_id] = side
++            direction = "out" if side > 0 else "in"
++            determination_method = f"SIDE_CHANGE ({prev_side:+d} -> {side:+d}, margin {margin:.0f}px)"
++
++            # Tray yang sama tidak bisa dihitung dua kali berturut-turut ke arah yang sama.
++            if self.last_direction.get(obj_id) == direction:
++                continue
++            self.last_direction[obj_id] = direction
++
++            # ✅ COUNT IT!
++            if direction == "in":
++                self.class_in_counts[cls] += 1
+             else:
+-                debug_stats["skipped_no_side_change"] += 1
++                self.class_out_counts[cls] += 1
++
++            debug_stats["successfully_counted"] += 1
++            frame_events.append({"direction": direction, "cls": cls})
++
++            LOG.info(
++                f"✅ COUNTED: Obj {obj_id} | {direction.upper()} | Method: {determination_method} | "
++                f"Class: {cls} | Dist: {smooth_d:.1f} | "
++                f"Total IN: {sum(self.class_in_counts.values())} | "
++                f"Total OUT: {sum(self.class_out_counts.values())}"
++            )
++
++            # Handle Violation Logic (Hanya jika arah OUT dan Kelas salah)
++            if (
++                direction == "out"
++                and cls not in cfg.VALID_OUT_CLASSES
++                and frame_img is not None
++            ):
++                self._log_violation(
++                    frame_num,
++                    obj_id,
++                    cls,
++                    frame_img,
++                    cfg,
++                    direction,
++                    tracked_objects,
++                    fps,
++                )
++                self.violation_counts[cls] += 1
++
++            # Add to counted list
++            self.counted_objects[obj_id] = {
++                "direction": direction,
++                "frame": frame_num,
++            }
+ 
+         # Log debug stats every 30 frames
+         if frame_num % 30 == 0 and debug_stats["total_tracked"] > 0:
+--- a/tlabcode/tracker.py	2026-10-15 04:46:20.542352481 +0000
++++ b/tlabcode/tracker.py	2026-10-15 04:46:20.544352583 +0000
+@@ -63,7 +63,12 @@
+ 
+     def register(self, bbox, cls, frame_num):
+         obj_id = self.next_id
+-        self.objects[obj_id] = {"bbox": bbox, "cls": cls, "birth_frame": frame_num}
++        self.objects[obj_id] = {
++            "bbox": bbox,
++            "cls": cls,
++            "birth_frame": frame_num,
++            "votes": {cls: 1},
++        }
+         self.disappeared[obj_id] = 0
+         self.trajectories[obj_id] = deque(maxlen=self.track_history_len)
+         self.trajectories[obj_id].append(self.get_bottom_center(bbox))
+@@ -96,7 +101,6 @@
+         else:
+             obj_ids = list(self.objects.keys())
+             obj_boxes = [self.objects[i]["bbox"] for i in obj_ids]
+-            obj_classes = [self.objects[i]["cls"] for i in obj_ids]
+             obj_centers = [
+                 (
+                     list(self.trajectories[i])[-1]
+@@ -115,8 +119,18 @@
+                 zip(obj_boxes, obj_centers, obj_ids)
+             ):
+                 pred = self.predict_position(oid, 1)
++                # Bandingkan dengan kotak prediksi (kotak terakhir digeser sesuai kecepatan
++                # x jumlah frame sejak terakhir terlihat), bukan kotak terakhir yang diam.
++                gap = self.disappeared[oid] + 1
++                vx, vy = self.velocities.get(oid, (0, 0))
++                pbox = (
++                    obox[0] + vx * gap,
++                    obox[1] + vy * gap,
++                    obox[2] + vx * gap,
++                    obox[3] + vy * gap,
++                )
+                 for j, (ibox, icent) in enumerate(zip(input_boxes, input_centers)):
+-                    iou_mat[i, j] = self.iou(obox, ibox)
++                    iou_mat[i, j] = self.iou(pbox, ibox)
+                     dist_mat[i, j] = self.euclidean_distance(ocent, icent)
+                     pred_mat[i, j] = (
+                         self.euclidean_distance(pred, icent) if pred else dist_mat[i, j]
+@@ -128,18 +142,23 @@
+             norm_pd = 1 - (pred_mat / max_pd)
+             score = 0.5 * iou_mat + 0.25 * norm_d + 0.25 * norm_pd
+ 
++            # Cocokkan lintas kelas: kelas isi nampan yang berkedip antar-frame
++            # bukan nampan baru. Kelas akhir ditentukan lewat voting mayoritas.
++            # Track yang terlihat di frame sebelumnya dicocokkan lebih dulu, supaya
++            # track basi (nampan yang sudah lewat) tidak merebut ID nampan berikutnya
++            # saat conveyor cepat.
+             matches = []
+             for i in range(n_obj):
++                live = self.disappeared[obj_ids[i]] == 0
+                 for j in range(n_det):
+-                    if obj_classes[i] == input_classes[j]:
+-                        matches.append(
+-                            (score[i, j], i, j, iou_mat[i, j], dist_mat[i, j])
+-                        )
++                    matches.append(
++                        (live, score[i, j], i, j, iou_mat[i, j], dist_mat[i, j])
++                    )
+             matches.sort(reverse=True)
+ 
+             used_det = set()
+             used_obj = set()
+-            for sc, i, j, iou, dist in matches:
++            for _, sc, i, j, iou, dist in matches:
+                 oid = obj_ids[i]
+                 jump = dist_mat[i, j]
+                 if (
+@@ -151,6 +170,9 @@
+                     and i not in used_obj
+                 ):
+                     self.objects[oid]["bbox"] = input_boxes[j]
++                    votes = self.objects[oid]["votes"]
++                    votes[input_classes[j]] = votes.get(input_classes[j], 0) + 1
++                    self.objects[oid]["cls"] = max(votes, key=votes.get)
+                     self.disappeared[oid] = 0
+                     new_c = input_centers[j]
+                     self.trajectories[oid].append(new_c)

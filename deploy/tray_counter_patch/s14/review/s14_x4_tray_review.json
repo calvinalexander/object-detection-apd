@@ -1,0 +1,1887 @@
+{
+ "clip": "s14_x4 (s14 render at 4x belt speed, 15 fps)",
+ "version": "patched",
+ "method": "each counted tray cropped at its count frame and checked by eye; stacks recognised by the doubled tray base",
+ "trays": [
+  {
+   "n": 0,
+   "t": 0.33,
+   "k": 5,
+   "dir": "out",
+   "bbox": [
+    439,
+    334,
+    722,
+    525
+   ],
+   "along": 0.116,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 22,
+    "more than half": 3
+   }
+  },
+  {
+   "n": 1,
+   "t": 1.33,
+   "k": 20,
+   "dir": "out",
+   "bbox": [
+    533,
+    373,
+    826,
+    581
+   ],
+   "along": 0.132,
+   "predicted": "less than half",
+   "truth": "less than half",
+   "correct": true,
+   "per_frame": {
+    "full": 1,
+    "half": 2,
+    "less than half": 35
+   }
+  },
+  {
+   "n": 2,
+   "t": 1.4,
+   "k": 21,
+   "dir": "out",
+   "bbox": [
+    695,
+    259,
+    958,
+    425
+   ],
+   "along": 0.583,
+   "predicted": "less than half",
+   "truth": "less than half",
+   "correct": true,
+   "per_frame": {
+    "empty": 1,
+    "less than half": 37
+   }
+  },
+  {
+   "n": 3,
+   "t": 2.2,
+   "k": 33,
+   "dir": "out",
+   "bbox": [
+    536,
+    371,
+    829,
+    580
+   ],
+   "along": 0.129,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 49
+   }
+  },
+  {
+   "n": 4,
+   "t": 3.33,
+   "k": 50,
+   "dir": "out",
+   "bbox": [
+    713,
+    256,
+    965,
+    419
+   ],
+   "along": 0.604,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 41,
+    "half": 6,
+    "more than half": 4
+   }
+  },
+  {
+   "n": 5,
+   "t": 3.4,
+   "k": 51,
+   "dir": "out",
+   "bbox": [
+    536,
+    385,
+    824,
+    593
+   ],
+   "along": 0.106,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 46,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 6,
+   "t": 3.93,
+   "k": 59,
+   "dir": "out",
+   "bbox": [
+    704,
+    253,
+    959,
+    419
+   ],
+   "along": 0.6,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "empty": 1,
+    "full": 45,
+    "half": 4,
+    "more than half": 5
+   }
+  },
+  {
+   "n": 7,
+   "t": 4,
+   "k": 60,
+   "dir": "out",
+   "bbox": [
+    542,
+    377,
+    837,
+    591
+   ],
+   "along": 0.121,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 35,
+    "half": 2,
+    "less than half": 1,
+    "more than half": 11
+   }
+  },
+  {
+   "n": 8,
+   "t": 4.67,
+   "k": 70,
+   "dir": "out",
+   "bbox": [
+    701,
+    254,
+    960,
+    424
+   ],
+   "along": 0.586,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 51,
+    "half": 1
+   }
+  },
+  {
+   "n": 9,
+   "t": 4.67,
+   "k": 70,
+   "dir": "out",
+   "bbox": [
+    556,
+    380,
+    850,
+    591
+   ],
+   "along": 0.134,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 37,
+    "half": 5,
+    "more than half": 7
+   }
+  },
+  {
+   "n": 10,
+   "t": 5.53,
+   "k": 83,
+   "dir": "out",
+   "bbox": [
+    683,
+    255,
+    944,
+    422
+   ],
+   "along": 0.57,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 50,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 11,
+   "t": 5.53,
+   "k": 83,
+   "dir": "out",
+   "bbox": [
+    546,
+    375,
+    839,
+    584
+   ],
+   "along": 0.134,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 47,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 12,
+   "t": 6.53,
+   "k": 98,
+   "dir": "out",
+   "bbox": [
+    691,
+    254,
+    950,
+    417
+   ],
+   "along": 0.606,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 50,
+    "half": 1,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 13,
+   "t": 6.53,
+   "k": 98,
+   "dir": "out",
+   "bbox": [
+    547,
+    385,
+    844,
+    600
+   ],
+   "along": 0.109,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 14,
+   "t": 7.07,
+   "k": 106,
+   "dir": "out",
+   "bbox": [
+    691,
+    248,
+    940,
+    411
+   ],
+   "along": 0.596,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 51,
+    "more than half": 4
+   }
+  },
+  {
+   "n": 15,
+   "t": 7.8,
+   "k": 117,
+   "dir": "out",
+   "bbox": [
+    543,
+    378,
+    834,
+    586
+   ],
+   "along": 0.129,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 44,
+    "more than half": 5
+   }
+  },
+  {
+   "n": 16,
+   "t": 7.87,
+   "k": 118,
+   "dir": "out",
+   "bbox": [
+    704,
+    252,
+    961,
+    419
+   ],
+   "along": 0.604,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 51
+   }
+  },
+  {
+   "n": 17,
+   "t": 8.53,
+   "k": 128,
+   "dir": "out",
+   "bbox": [
+    549,
+    372,
+    809,
+    580
+   ],
+   "along": 0.128,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "half": 1,
+    "less than half": 1,
+    "more than half": 6
+   }
+  },
+  {
+   "n": 18,
+   "t": 8.67,
+   "k": 130,
+   "dir": "out",
+   "bbox": [
+    718,
+    259,
+    974,
+    428
+   ],
+   "along": 0.592,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 51,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 19,
+   "t": 9,
+   "k": 135,
+   "dir": "out",
+   "bbox": [
+    516,
+    364,
+    832,
+    613
+   ],
+   "along": 0.052,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 39
+   }
+  },
+  {
+   "n": 20,
+   "t": 9.2,
+   "k": 138,
+   "dir": "out",
+   "bbox": [
+    708,
+    245,
+    940,
+    408
+   ],
+   "along": 0.616,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 41,
+    "half": 4,
+    "less than half": 1,
+    "more than half": 9
+   }
+  },
+  {
+   "n": 21,
+   "t": 9.67,
+   "k": 145,
+   "dir": "out",
+   "bbox": [
+    673,
+    248,
+    946,
+    430
+   ],
+   "along": 0.544,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 42,
+    "half": 3,
+    "less than half": 2,
+    "more than half": 4
+   }
+  },
+  {
+   "n": 22,
+   "t": 9.93,
+   "k": 149,
+   "dir": "out",
+   "bbox": [
+    528,
+    377,
+    822,
+    589
+   ],
+   "along": 0.104,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 37,
+    "half": 1,
+    "more than half": 10
+   }
+  },
+  {
+   "n": 23,
+   "t": 10.53,
+   "k": 158,
+   "dir": "out",
+   "bbox": [
+    712,
+    259,
+    969,
+    423
+   ],
+   "along": 0.601,
+   "predicted": "less than half",
+   "truth": "less than half",
+   "correct": true,
+   "per_frame": {
+    "empty": 3,
+    "less than half": 48
+   }
+  },
+  {
+   "n": 24,
+   "t": 10.53,
+   "k": 158,
+   "dir": "out",
+   "bbox": [
+    550,
+    394,
+    840,
+    598
+   ],
+   "along": 0.117,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 43
+   }
+  },
+  {
+   "n": 25,
+   "t": 11.13,
+   "k": 167,
+   "dir": "out",
+   "bbox": [
+    561,
+    379,
+    851,
+    591
+   ],
+   "along": 0.138,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 57,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 26,
+   "t": 11.2,
+   "k": 168,
+   "dir": "out",
+   "bbox": [
+    701,
+    257,
+    959,
+    430
+   ],
+   "along": 0.573,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "half": 3,
+    "less than half": 1,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 27,
+   "t": 12.33,
+   "k": 185,
+   "dir": "out",
+   "bbox": [
+    542,
+    378,
+    836,
+    590
+   ],
+   "along": 0.119,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 52
+   }
+  },
+  {
+   "n": 28,
+   "t": 13.47,
+   "k": 202,
+   "dir": "out",
+   "bbox": [
+    712,
+    239,
+    980,
+    413
+   ],
+   "along": 0.624,
+   "predicted": "less than half",
+   "truth": "stack",
+   "correct": false,
+   "per_frame": {
+    "empty": 5,
+    "less than half": 44
+   }
+  },
+  {
+   "n": 29,
+   "t": 13.67,
+   "k": 205,
+   "dir": "out",
+   "bbox": [
+    548,
+    389,
+    844,
+    599
+   ],
+   "along": 0.114,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 49
+   }
+  },
+  {
+   "n": 30,
+   "t": 14.33,
+   "k": 215,
+   "dir": "out",
+   "bbox": [
+    695,
+    257,
+    957,
+    427
+   ],
+   "along": 0.583,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 34,
+    "half": 2,
+    "more than half": 16
+   }
+  },
+  {
+   "n": 31,
+   "t": 14.47,
+   "k": 217,
+   "dir": "out",
+   "bbox": [
+    550,
+    381,
+    844,
+    593
+   ],
+   "along": 0.124,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 40,
+    "half": 5,
+    "more than half": 4
+   }
+  },
+  {
+   "n": 32,
+   "t": 16.07,
+   "k": 241,
+   "dir": "out",
+   "bbox": [
+    550,
+    375,
+    844,
+    590
+   ],
+   "along": 0.137,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 23,
+    "half": 8,
+    "less than half": 1,
+    "more than half": 17
+   }
+  },
+  {
+   "n": 33,
+   "t": 16.67,
+   "k": 250,
+   "dir": "out",
+   "bbox": [
+    543,
+    379,
+    836,
+    592
+   ],
+   "along": 0.118,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 42,
+    "half": 1,
+    "more than half": 6
+   }
+  },
+  {
+   "n": 34,
+   "t": 17.6,
+   "k": 264,
+   "dir": "out",
+   "bbox": [
+    679,
+    241,
+    928,
+    403
+   ],
+   "along": 0.599,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 84,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 35,
+   "t": 17.93,
+   "k": 269,
+   "dir": "out",
+   "bbox": [
+    537,
+    380,
+    833,
+    588
+   ],
+   "along": 0.12,
+   "predicted": "less than half",
+   "truth": "less than half",
+   "correct": true,
+   "per_frame": {
+    "half": 2,
+    "less than half": 47
+   }
+  },
+  {
+   "n": 36,
+   "t": 18.27,
+   "k": 274,
+   "dir": "out",
+   "bbox": [
+    699,
+    262,
+    961,
+    429
+   ],
+   "along": 0.582,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 80
+   }
+  },
+  {
+   "n": 37,
+   "t": 18.87,
+   "k": 283,
+   "dir": "out",
+   "bbox": [
+    697,
+    257,
+    962,
+    428
+   ],
+   "along": 0.581,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 71
+   }
+  },
+  {
+   "n": 38,
+   "t": 19.2,
+   "k": 288,
+   "dir": "out",
+   "bbox": [
+    562,
+    372,
+    861,
+    605
+   ],
+   "along": 0.109,
+   "predicted": "less than half",
+   "truth": "stack",
+   "correct": false,
+   "per_frame": {
+    "half": 1,
+    "less than half": 48
+   }
+  },
+  {
+   "n": 39,
+   "t": 20,
+   "k": 300,
+   "dir": "out",
+   "bbox": [
+    704,
+    259,
+    967,
+    428
+   ],
+   "along": 0.583,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 52
+   }
+  },
+  {
+   "n": 40,
+   "t": 20,
+   "k": 300,
+   "dir": "out",
+   "bbox": [
+    544,
+    382,
+    839,
+    595
+   ],
+   "along": 0.113,
+   "predicted": "more than half",
+   "truth": "full",
+   "correct": false,
+   "per_frame": {
+    "full": 7,
+    "half": 2,
+    "more than half": 40
+   }
+  },
+  {
+   "n": 41,
+   "t": 20.93,
+   "k": 314,
+   "dir": "out",
+   "bbox": [
+    528,
+    382,
+    820,
+    589
+   ],
+   "along": 0.105,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 39,
+    "half": 5,
+    "more than half": 4
+   }
+  },
+  {
+   "n": 42,
+   "t": 21.53,
+   "k": 323,
+   "dir": "out",
+   "bbox": [
+    708,
+    252,
+    959,
+    419
+   ],
+   "along": 0.611,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 50,
+    "less than half": 1,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 43,
+   "t": 22.07,
+   "k": 331,
+   "dir": "out",
+   "bbox": [
+    692,
+    250,
+    951,
+    417
+   ],
+   "along": 0.593,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 45,
+    "half": 2,
+    "less than half": 1,
+    "more than half": 7
+   }
+  },
+  {
+   "n": 44,
+   "t": 23.67,
+   "k": 355,
+   "dir": "out",
+   "bbox": [
+    704,
+    250,
+    961,
+    418
+   ],
+   "along": 0.6,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "half": 3,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 45,
+   "t": 23.87,
+   "k": 358,
+   "dir": "out",
+   "bbox": [
+    554,
+    384,
+    849,
+    593
+   ],
+   "along": 0.128,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 78,
+    "more than half": 5
+   }
+  },
+  {
+   "n": 46,
+   "t": 24.27,
+   "k": 364,
+   "dir": "out",
+   "bbox": [
+    712,
+    260,
+    971,
+    430
+   ],
+   "along": 0.585,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 43,
+    "half": 4,
+    "more than half": 8
+   }
+  },
+  {
+   "n": 47,
+   "t": 24.47,
+   "k": 367,
+   "dir": "out",
+   "bbox": [
+    550,
+    376,
+    845,
+    589
+   ],
+   "along": 0.131,
+   "predicted": "more than half",
+   "truth": "full",
+   "correct": false,
+   "per_frame": {
+    "full": 17,
+    "half": 5,
+    "more than half": 56
+   }
+  },
+  {
+   "n": 48,
+   "t": 25.07,
+   "k": 376,
+   "dir": "out",
+   "bbox": [
+    541,
+    390,
+    837,
+    601
+   ],
+   "along": 0.099,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 39,
+    "half": 6,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 49,
+   "t": 25.67,
+   "k": 385,
+   "dir": "out",
+   "bbox": [
+    549,
+    377,
+    836,
+    582
+   ],
+   "along": 0.139,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 49
+   }
+  },
+  {
+   "n": 50,
+   "t": 26.67,
+   "k": 400,
+   "dir": "out",
+   "bbox": [
+    531,
+    384,
+    828,
+    592
+   ],
+   "along": 0.106,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 46,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 51,
+   "t": 27.73,
+   "k": 416,
+   "dir": "out",
+   "bbox": [
+    554,
+    396,
+    850,
+    606
+   ],
+   "along": 0.105,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 47,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 52,
+   "t": 28.53,
+   "k": 428,
+   "dir": "out",
+   "bbox": [
+    539,
+    370,
+    831,
+    579
+   ],
+   "along": 0.133,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 49
+   }
+  },
+  {
+   "n": 53,
+   "t": 29.8,
+   "k": 447,
+   "dir": "out",
+   "bbox": [
+    562,
+    380,
+    845,
+    592
+   ],
+   "along": 0.133,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 40,
+    "half": 5,
+    "more than half": 4
+   }
+  },
+  {
+   "n": 54,
+   "t": 29.93,
+   "k": 449,
+   "dir": "out",
+   "bbox": [
+    679,
+    244,
+    933,
+    409
+   ],
+   "along": 0.592,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 72,
+    "half": 9,
+    "more than half": 30
+   }
+  },
+  {
+   "n": 55,
+   "t": 30.6,
+   "k": 459,
+   "dir": "out",
+   "bbox": [
+    696,
+    251,
+    953,
+    418
+   ],
+   "along": 0.596,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 93,
+    "half": 5,
+    "less than half": 1,
+    "more than half": 8
+   }
+  },
+  {
+   "n": 56,
+   "t": 31.2,
+   "k": 468,
+   "dir": "out",
+   "bbox": [
+    691,
+    250,
+    948,
+    416
+   ],
+   "along": 0.591,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 47,
+    "half": 2,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 57,
+   "t": 31.2,
+   "k": 468,
+   "dir": "out",
+   "bbox": [
+    542,
+    380,
+    838,
+    597
+   ],
+   "along": 0.114,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 58,
+   "t": 31.8,
+   "k": 477,
+   "dir": "out",
+   "bbox": [
+    685,
+    252,
+    943,
+    421
+   ],
+   "along": 0.576,
+   "predicted": "half",
+   "truth": "full",
+   "correct": false,
+   "per_frame": {
+    "full": 42,
+    "half": 47,
+    "less than half": 3,
+    "more than half": 13
+   }
+  },
+  {
+   "n": 59,
+   "t": 32.07,
+   "k": 481,
+   "dir": "out",
+   "bbox": [
+    557,
+    385,
+    854,
+    601
+   ],
+   "along": 0.119,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 42,
+    "half": 1,
+    "more than half": 5
+   }
+  },
+  {
+   "n": 60,
+   "t": 32.47,
+   "k": 487,
+   "dir": "out",
+   "bbox": [
+    712,
+    253,
+    965,
+    421
+   ],
+   "along": 0.599,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 51
+   }
+  },
+  {
+   "n": 61,
+   "t": 33.07,
+   "k": 496,
+   "dir": "out",
+   "bbox": [
+    701,
+    248,
+    957,
+    416
+   ],
+   "along": 0.604,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 51
+   }
+  },
+  {
+   "n": 62,
+   "t": 33.67,
+   "k": 505,
+   "dir": "out",
+   "bbox": [
+    687,
+    260,
+    949,
+    423
+   ],
+   "along": 0.576,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 45,
+    "half": 1,
+    "less than half": 1,
+    "more than half": 6
+   }
+  },
+  {
+   "n": 63,
+   "t": 34.27,
+   "k": 514,
+   "dir": "out",
+   "bbox": [
+    532,
+    376,
+    827,
+    584
+   ],
+   "along": 0.119,
+   "predicted": "less than half",
+   "truth": "less than half",
+   "correct": true,
+   "per_frame": {
+    "half": 2,
+    "less than half": 46
+   }
+  },
+  {
+   "n": 64,
+   "t": 34.73,
+   "k": 521,
+   "dir": "out",
+   "bbox": [
+    703,
+    253,
+    955,
+    417
+   ],
+   "along": 0.598,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 84,
+    "half": 6,
+    "more than half": 8
+   }
+  },
+  {
+   "n": 65,
+   "t": 36.4,
+   "k": 546,
+   "dir": "out",
+   "bbox": [
+    556,
+    382,
+    849,
+    590
+   ],
+   "along": 0.139,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 41,
+    "half": 5,
+    "more than half": 3
+   }
+  },
+  {
+   "n": 66,
+   "t": 39,
+   "k": 585,
+   "dir": "out",
+   "bbox": [
+    538,
+    383,
+    833,
+    594
+   ],
+   "along": 0.106,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 48
+   }
+  },
+  {
+   "n": 67,
+   "t": 42.8,
+   "k": 642,
+   "dir": "in",
+   "bbox": [
+    251,
+    242,
+    506,
+    405
+   ],
+   "along": 0.106,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 57
+   }
+  },
+  {
+   "n": 68,
+   "t": 45.47,
+   "k": 682,
+   "dir": "out",
+   "bbox": [
+    689,
+    250,
+    946,
+    416
+   ],
+   "along": 0.59,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 52
+   }
+  },
+  {
+   "n": 69,
+   "t": 46.73,
+   "k": 701,
+   "dir": "out",
+   "bbox": [
+    697,
+    250,
+    955,
+    418
+   ],
+   "along": 0.61,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 47,
+    "half": 3,
+    "less than half": 1,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 70,
+   "t": 47.27,
+   "k": 709,
+   "dir": "out",
+   "bbox": [
+    686,
+    249,
+    942,
+    414
+   ],
+   "along": 0.588,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 30,
+    "half": 11,
+    "less than half": 1,
+    "more than half": 13
+   }
+  },
+  {
+   "n": 71,
+   "t": 48.6,
+   "k": 729,
+   "dir": "out",
+   "bbox": [
+    701,
+    252,
+    957,
+    417
+   ],
+   "along": 0.626,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "more than half": 3
+   }
+  },
+  {
+   "n": 72,
+   "t": 49.13,
+   "k": 737,
+   "dir": "out",
+   "bbox": [
+    689,
+    245,
+    944,
+    412
+   ],
+   "along": 0.598,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 41,
+    "half": 4,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 73,
+   "t": 49.73,
+   "k": 746,
+   "dir": "out",
+   "bbox": [
+    703,
+    255,
+    955,
+    418
+   ],
+   "along": 0.599,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 60,
+    "half": 1,
+    "more than half": 3
+   }
+  },
+  {
+   "n": 74,
+   "t": 50.6,
+   "k": 759,
+   "dir": "out",
+   "bbox": [
+    533,
+    376,
+    827,
+    583
+   ],
+   "along": 0.125,
+   "predicted": "less than half",
+   "truth": "less than half",
+   "correct": true,
+   "per_frame": {
+    "half": 2,
+    "less than half": 47
+   }
+  },
+  {
+   "n": 75,
+   "t": 51.6,
+   "k": 774,
+   "dir": "out",
+   "bbox": [
+    698,
+    253,
+    958,
+    421
+   ],
+   "along": 0.304,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 45,
+    "half": 1,
+    "less than half": 1,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 76,
+   "t": 52.93,
+   "k": 794,
+   "dir": "out",
+   "bbox": [
+    550,
+    391,
+    847,
+    603
+   ],
+   "along": 0.108,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48
+   }
+  },
+  {
+   "n": 77,
+   "t": 53.6,
+   "k": 804,
+   "dir": "out",
+   "bbox": [
+    714,
+    244,
+    975,
+    429
+   ],
+   "along": 0.601,
+   "predicted": "less than half",
+   "truth": "stack",
+   "correct": false,
+   "per_frame": {
+    "empty": 5,
+    "less than half": 45
+   }
+  },
+  {
+   "n": 78,
+   "t": 58,
+   "k": 870,
+   "dir": "in",
+   "bbox": [
+    413,
+    137,
+    646,
+    270
+   ],
+   "along": 0.587,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 66
+   }
+  },
+  {
+   "n": 79,
+   "t": 64.53,
+   "k": 968,
+   "dir": "out",
+   "bbox": [
+    540,
+    387,
+    836,
+    600
+   ],
+   "along": 0.101,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 49
+   }
+  },
+  {
+   "n": 80,
+   "t": 65.33,
+   "k": 980,
+   "dir": "out",
+   "bbox": [
+    547,
+    370,
+    826,
+    575
+   ],
+   "along": 0.221,
+   "predicted": "less than half",
+   "truth": "stack",
+   "correct": false,
+   "per_frame": {
+    "empty": 6,
+    "full": 6,
+    "half": 4,
+    "less than half": 30,
+    "more than half": 7
+   }
+  },
+  {
+   "n": 81,
+   "t": 65.4,
+   "k": 981,
+   "dir": "out",
+   "bbox": [
+    643,
+    235,
+    914,
+    483
+   ],
+   "along": 0.378,
+   "predicted": "half",
+   "truth": "not a tray",
+   "correct": false,
+   "per_frame": {
+    "full": 24,
+    "half": 15,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 82,
+   "t": 66,
+   "k": 990,
+   "dir": "out",
+   "bbox": [
+    671,
+    243,
+    929,
+    407
+   ],
+   "along": 0.593,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 33
+   }
+  },
+  {
+   "n": 83,
+   "t": 66.53,
+   "k": 998,
+   "dir": "out",
+   "bbox": [
+    552,
+    385,
+    842,
+    599
+   ],
+   "along": 0.111,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 17,
+    "half": 8,
+    "less than half": 1,
+    "more than half": 23
+   }
+  },
+  {
+   "n": 84,
+   "t": 67.13,
+   "k": 1007,
+   "dir": "out",
+   "bbox": [
+    549,
+    389,
+    845,
+    606
+   ],
+   "along": 0.1,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "more than half": 1
+   }
+  },
+  {
+   "n": 85,
+   "t": 67.4,
+   "k": 1011,
+   "dir": "out",
+   "bbox": [
+    709,
+    262,
+    967,
+    427
+   ],
+   "along": 0.592,
+   "predicted": "less than half",
+   "truth": "less than half",
+   "correct": true,
+   "per_frame": {
+    "empty": 3,
+    "less than half": 49
+   }
+  },
+  {
+   "n": 86,
+   "t": 68.93,
+   "k": 1034,
+   "dir": "out",
+   "bbox": [
+    684,
+    254,
+    946,
+    422
+   ],
+   "along": 0.577,
+   "predicted": "empty",
+   "truth": "empty",
+   "correct": true,
+   "per_frame": {
+    "empty": 52
+   }
+  },
+  {
+   "n": 87,
+   "t": 69.47,
+   "k": 1042,
+   "dir": "out",
+   "bbox": [
+    535,
+    376,
+    829,
+    584
+   ],
+   "along": 0.123,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 45,
+    "half": 1,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 88,
+   "t": 69.67,
+   "k": 1045,
+   "dir": "out",
+   "bbox": [
+    704,
+    258,
+    963,
+    424
+   ],
+   "along": 0.594,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 47,
+    "half": 2,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 89,
+   "t": 70.13,
+   "k": 1052,
+   "dir": "out",
+   "bbox": [
+    557,
+    384,
+    852,
+    599
+   ],
+   "along": 0.124,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48
+   }
+  },
+  {
+   "n": 90,
+   "t": 70.27,
+   "k": 1054,
+   "dir": "out",
+   "bbox": [
+    710,
+    259,
+    969,
+    427
+   ],
+   "along": 0.593,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 48,
+    "half": 4,
+    "more than half": 2
+   }
+  },
+  {
+   "n": 91,
+   "t": 70.67,
+   "k": 1060,
+   "dir": "out",
+   "bbox": [
+    532,
+    376,
+    820,
+    585
+   ],
+   "along": 0.116,
+   "predicted": "full",
+   "truth": "full",
+   "correct": true,
+   "per_frame": {
+    "full": 37,
+    "half": 1,
+    "less than half": 2,
+    "more than half": 2
+   }
+  }
+ ]
+}

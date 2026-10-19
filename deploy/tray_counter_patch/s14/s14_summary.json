@@ -1,0 +1,23 @@
+{
+ "summary": {
+  "production": {
+   "out": 90,
+   "inn": 4,
+   "viol": 24,
+   "tp": 22,
+   "fn": 3,
+   "fp": 2
+  },
+  "patched": {
+   "out": 91,
+   "inn": 3,
+   "viol": 24,
+   "tp": 23,
+   "fn": 2,
+   "fp": 1
+  }
+ },
+ "ref_out": 91,
+ "ref_in": 3,
+ "ref_viol": 25
+}
